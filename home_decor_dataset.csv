@@ -1,0 +1,1001 @@
+Date,Product Category,Product Name,Price (USD),Units Sold,Revenue (USD),Customer Rating,Sustainability Score,Region,Competitor Name
+09/10/2024,Wall Art,Metal Wall Sculpture,481.31,29,13957.99,5,2,USA,Williams-Sonoma
+17/10/2024,Storage,Bookshelf,944.45,39,36833.55,3.8,9,USA,IKEA
+03/09/2024,Rugs & Carpets,Persian Rug,590.93,60,35455.8,4.7,10,India,Urban Ladder
+04/12/2024,Wall Art,Metal Wall Sculpture,280.03,9,2520.27,3.7,5,UK,Urban Ladder
+05/12/2024,Rugs & Carpets,Jute Rug,456.45,18,8216.1,4.6,2,Germany,Wayfair
+07/07/2024,Wall Art,Metal Wall Sculpture,1034.84,43,44498.12,4.9,5,Canada,Ashley Furniture
+14/04/2024,Furniture,Glass Coffee Table,971.33,22,21369.26,4.8,7,UK,Ashley Furniture
+05/05/2024,Wall Art,Metal Wall Sculpture,958.88,57,54656.16,3.8,4,Australia,Williams-Sonoma
+08/02/2024,Storage,Shoe Rack,318.67,26,8285.42,4.5,7,Germany,Williams-Sonoma
+20/05/2024,Storage,Shoe Rack,474.51,7,3321.57,3.7,10,India,Ashley Furniture
+25/02/2024,Lighting,Chandelier,1182.19,32,37830.08,3.8,3,UK,Wayfair
+21/03/2024,Storage,Shoe Rack,571.23,16,9139.68,3.9,4,Australia,Urban Ladder
+23/07/2024,Wall Art,Canvas Painting,701.03,9,6309.27,4.6,5,USA,Williams-Sonoma
+10/01/2025,Rugs & Carpets,Jute Rug,440.08,54,23764.32,4.4,3,Australia,Wayfair
+20/05/2024,Storage,Wall-mounted Cabinet,997.3,18,17951.4,4.3,8,Canada,Williams-Sonoma
+23/12/2024,Storage,Bookshelf,149.93,22,3298.46,4.3,6,India,Wayfair
+15/09/2024,Wall Art,Metal Wall Sculpture,596.97,5,2984.85,4.6,10,India,Wayfair
+22/10/2024,Rugs & Carpets,Modern Carpet,1198.4,17,20372.8,4.9,6,India,Wayfair
+30/03/2024,Furniture,Recliner Sofa,703.78,58,40819.24,3.8,1,Germany,Williams-Sonoma
+12/01/2025,Wall Art,Metal Wall Sculpture,859.63,31,26648.53,3.6,5,Germany,Williams-Sonoma
+25/06/2024,Wall Art,Canvas Painting,407.82,55,22430.1,4.6,6,Germany,Williams-Sonoma
+09/10/2024,Rugs & Carpets,Modern Carpet,177.05,29,5134.45,4.5,9,UK,Williams-Sonoma
+12/10/2024,Rugs & Carpets,Persian Rug,1025.91,27,27699.57,3.8,1,India,Urban Ladder
+16/07/2024,Rugs & Carpets,Jute Rug,1187.89,48,57018.72,4.1,8,UK,Urban Ladder
+30/06/2024,Storage,Wall-mounted Cabinet,729.48,29,21154.92,4,8,USA,Wayfair
+15/06/2024,Furniture,Glass Coffee Table,436.37,37,16145.69,4.5,8,UK,Urban Ladder
+26/02/2024,Storage,Wall-mounted Cabinet,335.62,32,10739.84,4.2,7,Australia,Urban Ladder
+14/10/2024,Furniture,Wooden Dining Table,35.92,18,646.56,3.6,8,Canada,Urban Ladder
+28/10/2024,Storage,Bookshelf,576.74,54,31143.96,4.5,6,Canada,Williams-Sonoma
+11/02/2024,Rugs & Carpets,Jute Rug,566.4,18,10195.2,4,3,Canada,Urban Ladder
+18/03/2024,Rugs & Carpets,Modern Carpet,582.27,40,23290.8,4.2,10,Canada,Wayfair
+25/11/2024,Lighting,Chandelier,733.01,31,22723.31,4.2,3,India,Urban Ladder
+14/11/2024,Storage,Bookshelf,732.87,17,12458.79,3.7,1,UK,IKEA
+12/09/2024,Wall Art,Framed Photograph,127.75,28,3577,4.3,1,Germany,Ashley Furniture
+05/02/2025,Rugs & Carpets,Persian Rug,466.95,37,17277.15,4.1,6,Canada,Williams-Sonoma
+18/04/2024,Lighting,Chandelier,1116.04,54,60266.16,4.2,8,Australia,Ashley Furniture
+04/04/2024,Rugs & Carpets,Modern Carpet,786.36,42,33027.12,4,7,Australia,Ashley Furniture
+18/08/2024,Furniture,Wooden Dining Table,1123.36,18,20220.48,4.3,1,USA,Ashley Furniture
+09/08/2024,Furniture,Glass Coffee Table,1118.75,60,67125,5,6,UK,Urban Ladder
+10/09/2024,Furniture,Wooden Dining Table,478.58,46,22014.68,3.9,2,Australia,Urban Ladder
+01/06/2024,Rugs & Carpets,Jute Rug,601.32,46,27660.72,4.2,6,Canada,Williams-Sonoma
+16/07/2024,Rugs & Carpets,Jute Rug,796.62,56,44610.72,4.5,10,India,Urban Ladder
+08/05/2024,Wall Art,Framed Photograph,309.32,54,16703.28,4.3,9,India,Wayfair
+23/03/2024,Lighting,LED Floor Lamp,1094.39,13,14227.07,4.5,7,UK,Wayfair
+19/11/2024,Rugs & Carpets,Modern Carpet,802.09,2,1604.18,4.6,10,India,Wayfair
+08/12/2024,Furniture,Wooden Dining Table,760.92,19,14457.48,4.4,1,Canada,Urban Ladder
+09/07/2024,Wall Art,Framed Photograph,439.31,48,21086.88,4.7,1,UK,Wayfair
+28/03/2024,Wall Art,Canvas Painting,1137.8,10,11378,4.3,10,Australia,Williams-Sonoma
+12/04/2024,Furniture,Glass Coffee Table,516.48,45,23241.6,3.6,10,India,Williams-Sonoma
+28/04/2024,Storage,Bookshelf,1006.53,51,51333.03,4.2,7,USA,Williams-Sonoma
+25/05/2024,Lighting,Chandelier,216.27,14,3027.78,4.1,9,Canada,IKEA
+27/10/2024,Furniture,Glass Coffee Table,1066.55,27,28796.85,3.7,4,India,Ashley Furniture
+20/03/2024,Lighting,Chandelier,868.21,3,2604.63,4.7,8,USA,Williams-Sonoma
+17/05/2024,Furniture,Glass Coffee Table,1113.17,36,40074.12,3.9,1,UK,Williams-Sonoma
+06/08/2024,Furniture,Wooden Dining Table,281.54,22,6193.88,4.3,4,UK,Urban Ladder
+04/04/2024,Wall Art,Metal Wall Sculpture,44,30,1320,4.1,5,UK,Williams-Sonoma
+16/03/2024,Storage,Shoe Rack,1064.53,10,10645.3,3.7,7,Canada,Urban Ladder
+20/02/2024,Wall Art,Canvas Painting,651.09,57,37112.13,4.8,7,Germany,Wayfair
+17/12/2024,Furniture,Wooden Dining Table,1191.57,39,46471.23,4.8,9,USA,Williams-Sonoma
+29/06/2024,Wall Art,Canvas Painting,403.08,9,3627.72,4.9,4,Germany,IKEA
+21/01/2025,Rugs & Carpets,Jute Rug,894.91,7,6264.37,4.7,4,Germany,IKEA
+03/05/2024,Lighting,LED Floor Lamp,526.31,54,28420.74,3.9,9,Australia,Urban Ladder
+19/03/2024,Wall Art,Framed Photograph,373,46,17158,4.8,7,India,Wayfair
+03/10/2024,Wall Art,Framed Photograph,435.76,37,16123.12,4.6,5,Canada,Wayfair
+21/10/2024,Wall Art,Framed Photograph,387.61,30,11628.3,3.7,2,USA,Wayfair
+27/08/2024,Lighting,Chandelier,1057.02,57,60250.14,3.6,2,India,Ashley Furniture
+02/02/2025,Rugs & Carpets,Modern Carpet,1085.43,7,7598.01,4.6,10,UK,Urban Ladder
+02/10/2024,Furniture,Recliner Sofa,746.3,38,28359.4,4.3,6,India,Williams-Sonoma
+07/11/2024,Wall Art,Metal Wall Sculpture,1158.47,43,49814.21,4.9,9,India,Urban Ladder
+10/02/2024,Lighting,Table Lamp,864.71,6,5188.26,3.6,1,Germany,Williams-Sonoma
+22/06/2024,Storage,Bookshelf,1031.16,30,30934.8,4.7,7,UK,IKEA
+22/01/2025,Furniture,Recliner Sofa,968.99,36,34883.64,4.7,5,Australia,Wayfair
+16/07/2024,Wall Art,Canvas Painting,908.21,4,3632.84,4.8,4,Germany,IKEA
+04/08/2024,Rugs & Carpets,Modern Carpet,1085.2,56,60771.2,4.2,8,Australia,Williams-Sonoma
+09/08/2024,Lighting,Chandelier,282.1,54,15233.4,3.9,3,Germany,Urban Ladder
+28/11/2024,Wall Art,Canvas Painting,364.32,33,12022.56,4.4,3,Australia,Wayfair
+28/10/2024,Rugs & Carpets,Modern Carpet,1053.64,50,52682,4.2,4,UK,Urban Ladder
+03/12/2024,Furniture,Wooden Dining Table,213.64,39,8331.96,3.8,8,Australia,Ashley Furniture
+30/03/2024,Furniture,Wooden Dining Table,900.74,14,12610.36,4.1,5,UK,IKEA
+09/12/2024,Wall Art,Framed Photograph,458.22,16,7331.52,4.9,9,Germany,Urban Ladder
+20/03/2024,Rugs & Carpets,Persian Rug,834.26,56,46718.56,4.3,5,India,Urban Ladder
+31/08/2024,Storage,Bookshelf,79.51,17,1351.67,4.3,3,Australia,Williams-Sonoma
+05/12/2024,Storage,Bookshelf,312.24,22,6869.28,3.8,1,Germany,Urban Ladder
+31/08/2024,Rugs & Carpets,Persian Rug,991.14,5,4955.7,3.8,3,Germany,Ashley Furniture
+02/04/2024,Lighting,Table Lamp,267.61,39,10436.79,3.7,8,Germany,Urban Ladder
+12/03/2024,Storage,Bookshelf,175.14,1,175.14,3.9,5,Canada,Urban Ladder
+09/03/2024,Rugs & Carpets,Jute Rug,711.81,1,711.81,3.9,1,Germany,Williams-Sonoma
+23/08/2024,Lighting,Chandelier,330.59,18,5950.62,4.3,1,Canada,Urban Ladder
+15/08/2024,Wall Art,Canvas Painting,1029.47,20,20589.4,3.6,2,Canada,Urban Ladder
+01/02/2025,Lighting,Table Lamp,1163.51,18,20943.18,4.5,3,Canada,Wayfair
+06/12/2024,Wall Art,Canvas Painting,797.06,14,11158.84,4.9,9,Canada,IKEA
+30/12/2024,Wall Art,Canvas Painting,779.15,37,28828.55,4.5,3,India,Wayfair
+19/12/2024,Rugs & Carpets,Persian Rug,759.82,28,21274.96,4.3,4,USA,Williams-Sonoma
+16/08/2024,Wall Art,Framed Photograph,725.79,10,7257.9,5,1,Canada,Wayfair
+16/02/2024,Wall Art,Framed Photograph,900.25,25,22506.25,3.6,5,Germany,IKEA
+06/10/2024,Furniture,Glass Coffee Table,511.35,45,23010.75,4.5,8,Canada,Williams-Sonoma
+28/01/2025,Rugs & Carpets,Modern Carpet,1188.44,24,28522.56,4.6,10,Germany,Urban Ladder
+29/01/2025,Storage,Bookshelf,208.98,60,12538.8,4.3,3,USA,IKEA
+05/11/2024,Storage,Bookshelf,510.19,46,23468.74,4.7,4,Canada,IKEA
+04/06/2024,Storage,Shoe Rack,878.3,43,37766.9,3.5,4,India,IKEA
+28/07/2024,Rugs & Carpets,Jute Rug,929.38,52,48327.76,3.8,3,Australia,Ashley Furniture
+02/03/2024,Wall Art,Canvas Painting,619.09,17,10524.53,3.9,3,Canada,Williams-Sonoma
+13/03/2024,Rugs & Carpets,Modern Carpet,51.16,45,2302.2,3.9,10,Germany,Ashley Furniture
+09/11/2024,Storage,Shoe Rack,380.03,44,16721.32,4.7,7,USA,IKEA
+24/09/2024,Lighting,LED Floor Lamp,822.68,45,37020.6,4.2,6,UK,Urban Ladder
+20/01/2025,Furniture,Wooden Dining Table,397.17,20,7943.4,3.9,5,UK,Williams-Sonoma
+04/11/2024,Furniture,Wooden Dining Table,758,28,21224,4.9,6,USA,Urban Ladder
+28/02/2024,Furniture,Recliner Sofa,757.59,43,32576.37,3.5,9,UK,IKEA
+26/09/2024,Wall Art,Canvas Painting,263.05,7,1841.35,4.8,9,USA,Ashley Furniture
+19/06/2024,Storage,Shoe Rack,752.6,19,14299.4,3.7,6,Canada,IKEA
+10/05/2024,Storage,Shoe Rack,897.54,28,25131.12,4,9,Germany,Wayfair
+09/07/2024,Rugs & Carpets,Persian Rug,870.61,49,42659.89,4.4,4,Australia,Urban Ladder
+27/07/2024,Wall Art,Metal Wall Sculpture,413.02,26,10738.52,4,1,India,IKEA
+23/10/2024,Wall Art,Metal Wall Sculpture,911.93,59,53803.87,4,5,Australia,IKEA
+06/01/2025,Rugs & Carpets,Jute Rug,1023.67,51,52207.17,4.9,5,Canada,Williams-Sonoma
+21/02/2024,Wall Art,Canvas Painting,499.79,55,27488.45,4.8,1,India,Wayfair
+28/04/2024,Storage,Shoe Rack,1065.21,26,27695.46,4.9,8,Germany,Wayfair
+11/05/2024,Lighting,LED Floor Lamp,224.59,5,1122.95,4.4,9,Germany,IKEA
+05/09/2024,Lighting,Chandelier,389.18,59,22961.62,4.4,9,USA,Urban Ladder
+23/08/2024,Lighting,LED Floor Lamp,976.57,11,10742.27,4.6,1,USA,Wayfair
+22/12/2024,Lighting,Chandelier,295.4,24,7089.6,4.8,6,Germany,IKEA
+23/11/2024,Furniture,Wooden Dining Table,506.07,22,11133.54,4.7,6,Australia,Williams-Sonoma
+03/11/2024,Lighting,LED Floor Lamp,142.98,13,1858.74,5,10,Australia,Ashley Furniture
+04/02/2025,Wall Art,Framed Photograph,505.3,6,3031.8,3.8,5,Germany,IKEA
+27/02/2024,Lighting,Chandelier,695.1,48,33364.8,4.8,2,UK,Williams-Sonoma
+05/03/2024,Wall Art,Metal Wall Sculpture,1145.81,34,38957.54,4.7,8,Australia,IKEA
+21/08/2024,Furniture,Glass Coffee Table,243.42,55,13388.1,4.9,9,Australia,Williams-Sonoma
+24/03/2024,Lighting,Table Lamp,1097.85,49,53794.65,4,10,UK,IKEA
+02/09/2024,Storage,Wall-mounted Cabinet,1139.39,45,51272.55,4.9,2,USA,Urban Ladder
+16/06/2024,Furniture,Recliner Sofa,267.53,30,8025.9,4.5,10,UK,IKEA
+14/09/2024,Storage,Wall-mounted Cabinet,268.34,14,3756.76,4.5,2,India,Williams-Sonoma
+30/04/2024,Lighting,Table Lamp,713.84,35,24984.4,4.3,7,India,Ashley Furniture
+31/03/2024,Wall Art,Canvas Painting,618.81,46,28465.26,4.2,4,Germany,Wayfair
+08/11/2024,Wall Art,Metal Wall Sculpture,196.32,19,3730.08,4.4,10,Germany,Ashley Furniture
+06/07/2024,Rugs & Carpets,Jute Rug,450.37,2,900.74,5,8,Canada,Williams-Sonoma
+10/04/2024,Wall Art,Framed Photograph,164.5,10,1645,3.7,7,UK,Williams-Sonoma
+29/09/2024,Rugs & Carpets,Modern Carpet,111.38,57,6348.66,4.7,2,Germany,Williams-Sonoma
+09/07/2024,Furniture,Recliner Sofa,833.19,29,24162.51,4.3,6,India,Wayfair
+12/08/2024,Lighting,LED Floor Lamp,884.42,43,38030.06,4.9,9,USA,IKEA
+03/04/2024,Rugs & Carpets,Jute Rug,908.56,12,10902.72,4,8,USA,Wayfair
+29/02/2024,Rugs & Carpets,Persian Rug,500.92,56,28051.52,4.7,8,Germany,Ashley Furniture
+30/05/2024,Rugs & Carpets,Persian Rug,1052.94,60,63176.4,3.8,7,UK,Ashley Furniture
+31/10/2024,Furniture,Recliner Sofa,572.92,6,3437.52,3.8,6,UK,Wayfair
+13/02/2024,Rugs & Carpets,Persian Rug,991.22,45,44604.9,3.6,9,India,Williams-Sonoma
+09/02/2024,Furniture,Wooden Dining Table,522.05,34,17749.7,3.8,7,Canada,Williams-Sonoma
+26/08/2024,Wall Art,Canvas Painting,40.12,38,1524.56,3.7,3,UK,Ashley Furniture
+02/01/2025,Rugs & Carpets,Persian Rug,270,26,7020,3.9,2,Germany,Ashley Furniture
+22/05/2024,Wall Art,Canvas Painting,621.74,8,4973.92,4.3,3,UK,IKEA
+09/03/2024,Wall Art,Metal Wall Sculpture,472.85,12,5674.2,4.1,6,India,Wayfair
+06/02/2025,Wall Art,Metal Wall Sculpture,1045.65,39,40780.35,3.6,2,Canada,Ashley Furniture
+20/07/2024,Rugs & Carpets,Modern Carpet,866.08,5,4330.4,3.9,2,Canada,Urban Ladder
+20/12/2024,Lighting,Table Lamp,820.52,37,30359.24,3.7,5,India,Ashley Furniture
+14/06/2024,Wall Art,Metal Wall Sculpture,1182.34,24,28376.16,4.9,4,USA,IKEA
+25/11/2024,Furniture,Wooden Dining Table,861.7,18,15510.6,4.7,1,UK,Urban Ladder
+21/06/2024,Wall Art,Canvas Painting,651.15,28,18232.2,4.7,6,USA,Williams-Sonoma
+29/07/2024,Storage,Shoe Rack,286.84,8,2294.72,3.8,7,Australia,IKEA
+11/05/2024,Rugs & Carpets,Modern Carpet,76.47,15,1147.05,3.9,5,Canada,IKEA
+14/02/2024,Storage,Bookshelf,698.52,60,41911.2,3.8,2,India,Ashley Furniture
+28/02/2024,Furniture,Wooden Dining Table,1092.07,26,28393.82,4.3,10,USA,IKEA
+21/07/2024,Wall Art,Metal Wall Sculpture,505.99,4,2023.96,3.6,8,India,Wayfair
+05/12/2024,Furniture,Recliner Sofa,411.58,29,11935.82,3.7,4,Canada,Wayfair
+21/07/2024,Storage,Shoe Rack,201.77,15,3026.55,4.4,7,UK,Williams-Sonoma
+06/11/2024,Rugs & Carpets,Persian Rug,515.36,53,27314.08,4.5,5,UK,IKEA
+06/04/2024,Wall Art,Framed Photograph,228.49,35,7997.15,3.7,7,Canada,Ashley Furniture
+16/08/2024,Lighting,Chandelier,878.17,57,50055.69,4.3,7,USA,Wayfair
+29/12/2024,Storage,Wall-mounted Cabinet,1018.99,33,33626.67,4,9,Australia,Urban Ladder
+23/03/2024,Lighting,LED Floor Lamp,1182.2,43,50834.6,4.5,5,UK,Urban Ladder
+19/09/2024,Lighting,Chandelier,597.61,10,5976.1,4,1,UK,Williams-Sonoma
+10/06/2024,Storage,Wall-mounted Cabinet,996.9,59,58817.1,4.8,6,Canada,Wayfair
+16/02/2024,Lighting,Chandelier,207.44,60,12446.4,4.3,5,UK,Urban Ladder
+28/11/2024,Wall Art,Canvas Painting,343.56,10,3435.6,4.3,8,Canada,Ashley Furniture
+21/12/2024,Wall Art,Framed Photograph,1111.05,5,5555.25,4.5,2,Australia,Williams-Sonoma
+20/09/2024,Rugs & Carpets,Jute Rug,685.55,9,6169.95,3.6,4,Canada,IKEA
+05/02/2025,Furniture,Recliner Sofa,431.83,59,25477.97,3.7,8,Canada,Williams-Sonoma
+26/04/2024,Lighting,Chandelier,875.85,60,52551,4.9,2,USA,Wayfair
+12/02/2024,Lighting,LED Floor Lamp,934,36,33624,3.6,9,India,Urban Ladder
+30/05/2024,Storage,Bookshelf,154.46,28,4324.88,4.8,3,Germany,Williams-Sonoma
+16/01/2025,Wall Art,Canvas Painting,322.42,8,2579.36,4.5,3,UK,IKEA
+03/01/2025,Storage,Bookshelf,802.78,53,42547.34,4.3,8,Canada,IKEA
+12/05/2024,Storage,Bookshelf,1016.55,36,36595.8,4.2,10,Germany,Ashley Furniture
+21/03/2024,Storage,Bookshelf,217.13,50,10856.5,3.8,5,Germany,Ashley Furniture
+18/06/2024,Lighting,LED Floor Lamp,1120.97,6,6725.82,4.9,4,Australia,Wayfair
+13/10/2024,Furniture,Recliner Sofa,993.81,43,42733.83,4.6,5,India,Urban Ladder
+09/02/2024,Lighting,Chandelier,358.45,48,17205.6,4.9,2,USA,Wayfair
+17/05/2024,Rugs & Carpets,Persian Rug,1005.73,41,41234.93,3.5,3,Germany,Ashley Furniture
+21/08/2024,Furniture,Recliner Sofa,981.29,7,6869.03,3.9,4,India,Urban Ladder
+10/08/2024,Lighting,Table Lamp,63.55,60,3813,4,10,Australia,IKEA
+11/07/2024,Wall Art,Metal Wall Sculpture,531.4,58,30821.2,4.8,3,UK,Urban Ladder
+13/02/2024,Lighting,Table Lamp,376.95,7,2638.65,5,5,UK,Wayfair
+09/06/2024,Storage,Bookshelf,754.22,4,3016.88,4.8,4,Canada,Ashley Furniture
+21/05/2024,Wall Art,Canvas Painting,97.62,23,2245.26,4.1,3,India,Urban Ladder
+16/11/2024,Rugs & Carpets,Jute Rug,939.08,6,5634.48,4.5,1,Canada,Wayfair
+06/09/2024,Furniture,Wooden Dining Table,59.38,6,356.28,3.9,8,India,Urban Ladder
+13/02/2024,Storage,Bookshelf,327.25,2,654.5,5,6,Canada,Williams-Sonoma
+25/07/2024,Rugs & Carpets,Jute Rug,104.5,8,836,4.8,3,Australia,IKEA
+15/03/2024,Storage,Bookshelf,1085.48,25,27137,4.8,7,UK,IKEA
+13/08/2024,Storage,Wall-mounted Cabinet,820.55,23,18872.65,4.9,4,USA,Wayfair
+21/07/2024,Wall Art,Framed Photograph,1105.86,48,53081.28,4.5,8,USA,Urban Ladder
+23/11/2024,Rugs & Carpets,Persian Rug,319.8,51,16309.8,4.3,4,Canada,IKEA
+29/01/2025,Lighting,LED Floor Lamp,869.62,49,42611.38,4.1,9,USA,Urban Ladder
+15/08/2024,Lighting,LED Floor Lamp,895.41,57,51038.37,3.6,6,UK,Wayfair
+05/07/2024,Rugs & Carpets,Persian Rug,914.52,29,26521.08,4.7,3,UK,Williams-Sonoma
+01/06/2024,Rugs & Carpets,Modern Carpet,175.17,38,6656.46,3.7,8,Australia,Ashley Furniture
+11/01/2025,Wall Art,Canvas Painting,1027.46,49,50345.54,4.9,4,Canada,IKEA
+07/05/2024,Storage,Bookshelf,605.65,20,12113,4.7,5,Canada,IKEA
+05/08/2024,Rugs & Carpets,Persian Rug,969.99,24,23279.76,3.7,10,Australia,Urban Ladder
+02/04/2024,Lighting,Table Lamp,237.17,31,7352.27,4.3,6,Australia,Wayfair
+19/06/2024,Storage,Wall-mounted Cabinet,712.31,2,1424.62,4.6,1,UK,Ashley Furniture
+11/06/2024,Furniture,Wooden Dining Table,56.66,53,3002.98,3.7,9,UK,Urban Ladder
+14/05/2024,Lighting,Table Lamp,469.45,51,23941.95,3.9,9,UK,Urban Ladder
+14/08/2024,Storage,Wall-mounted Cabinet,355.5,30,10665,4.6,4,Germany,Wayfair
+27/01/2025,Rugs & Carpets,Modern Carpet,624.11,12,7489.32,3.8,6,USA,Wayfair
+26/02/2024,Storage,Wall-mounted Cabinet,892.03,42,37465.26,3.7,5,Germany,Urban Ladder
+14/02/2024,Rugs & Carpets,Jute Rug,1126.67,57,64220.19,4.9,3,Germany,Urban Ladder
+14/09/2024,Rugs & Carpets,Jute Rug,768.34,28,21513.52,4,4,Germany,Ashley Furniture
+01/08/2024,Wall Art,Framed Photograph,313.68,48,15056.64,4.7,5,Germany,Williams-Sonoma
+06/08/2024,Furniture,Recliner Sofa,524.3,23,12058.9,4,7,Australia,Ashley Furniture
+11/06/2024,Rugs & Carpets,Jute Rug,621.32,27,16775.64,4.8,4,UK,Urban Ladder
+15/11/2024,Wall Art,Canvas Painting,399.06,29,11572.74,4.1,6,USA,Urban Ladder
+02/06/2024,Rugs & Carpets,Jute Rug,1033.43,22,22735.46,4.7,9,UK,Ashley Furniture
+15/07/2024,Storage,Bookshelf,1153.34,27,31140.18,3.7,9,Canada,Ashley Furniture
+13/09/2024,Wall Art,Canvas Painting,910.85,29,26414.65,4.2,3,USA,Wayfair
+10/07/2024,Rugs & Carpets,Persian Rug,672.41,38,25551.58,4.7,1,Canada,Urban Ladder
+09/11/2024,Furniture,Recliner Sofa,1100.61,42,46225.62,4.8,2,USA,Ashley Furniture
+11/12/2024,Furniture,Recliner Sofa,632.69,21,13286.49,4.2,7,USA,Urban Ladder
+07/06/2024,Lighting,Table Lamp,1184.24,47,55659.28,4.6,8,UK,Williams-Sonoma
+07/03/2024,Storage,Wall-mounted Cabinet,1072.24,8,8577.92,4.3,10,India,Williams-Sonoma
+21/08/2024,Storage,Shoe Rack,242.3,34,8238.2,4.2,9,Germany,IKEA
+13/04/2024,Storage,Shoe Rack,610.16,23,14033.68,3.5,7,India,Ashley Furniture
+26/08/2024,Lighting,Chandelier,871.49,36,31373.64,3.8,6,Australia,Wayfair
+01/08/2024,Lighting,LED Floor Lamp,130.39,20,2607.8,4.3,3,Canada,Williams-Sonoma
+21/02/2024,Wall Art,Canvas Painting,842.7,39,32865.3,3.8,8,Australia,Williams-Sonoma
+28/02/2024,Wall Art,Framed Photograph,1065.4,34,36223.6,4.9,2,Germany,Wayfair
+05/11/2024,Furniture,Wooden Dining Table,801.98,45,36089.1,3.8,10,UK,Wayfair
+09/11/2024,Furniture,Recliner Sofa,159.75,5,798.75,3.7,1,Australia,Williams-Sonoma
+16/11/2024,Storage,Shoe Rack,275.35,20,5507,4,5,Australia,Ashley Furniture
+14/04/2024,Lighting,Table Lamp,52.3,45,2353.5,4.2,10,USA,Williams-Sonoma
+16/01/2025,Storage,Bookshelf,212.74,42,8935.08,3.9,8,Germany,IKEA
+18/11/2024,Wall Art,Framed Photograph,948.59,30,28457.7,4.9,9,Australia,Wayfair
+22/08/2024,Storage,Bookshelf,454,6,2724,4.1,2,UK,Urban Ladder
+20/01/2025,Rugs & Carpets,Modern Carpet,470.53,1,470.53,3.6,7,India,Ashley Furniture
+16/01/2025,Storage,Shoe Rack,917.26,36,33021.36,4.4,10,UK,Ashley Furniture
+14/10/2024,Storage,Bookshelf,1033.4,17,17567.8,4.7,5,Canada,Wayfair
+16/05/2024,Furniture,Wooden Dining Table,1056.34,30,31690.2,3.7,5,UK,Wayfair
+04/04/2024,Wall Art,Metal Wall Sculpture,915.76,25,22894,4.5,7,UK,Ashley Furniture
+22/02/2024,Storage,Shoe Rack,105.53,2,211.06,4.8,3,Germany,Wayfair
+05/01/2025,Lighting,Chandelier,36.72,23,844.56,4.6,9,Germany,Urban Ladder
+23/06/2024,Lighting,Chandelier,525.28,24,12606.72,3.5,2,USA,Urban Ladder
+29/02/2024,Wall Art,Metal Wall Sculpture,325.45,53,17248.85,4.8,1,UK,Urban Ladder
+07/09/2024,Lighting,Table Lamp,849.36,51,43317.36,4.5,7,USA,Ashley Furniture
+31/08/2024,Storage,Shoe Rack,650.35,36,23412.6,4.9,7,Australia,Ashley Furniture
+30/07/2024,Furniture,Glass Coffee Table,161.01,17,2737.17,4.3,7,Canada,Williams-Sonoma
+16/11/2024,Wall Art,Framed Photograph,183.59,11,2019.49,4.9,4,Germany,IKEA
+16/04/2024,Rugs & Carpets,Modern Carpet,779.13,3,2337.39,4.3,4,India,Ashley Furniture
+09/03/2024,Furniture,Recliner Sofa,1027.35,28,28765.8,4.7,3,Germany,IKEA
+02/07/2024,Rugs & Carpets,Modern Carpet,120.47,21,2529.87,4.7,2,USA,Williams-Sonoma
+02/11/2024,Furniture,Glass Coffee Table,691.75,12,8301,4.8,7,UK,Wayfair
+27/07/2024,Wall Art,Canvas Painting,378.26,54,20426.04,3.6,9,USA,Urban Ladder
+14/10/2024,Lighting,Table Lamp,307.41,17,5225.97,4.9,10,USA,IKEA
+29/04/2024,Rugs & Carpets,Persian Rug,115,19,2185,3.9,3,Australia,Williams-Sonoma
+14/05/2024,Lighting,Table Lamp,595.98,48,28607.04,4.7,5,Australia,Williams-Sonoma
+25/02/2024,Lighting,LED Floor Lamp,189.07,11,2079.77,3.8,5,UK,IKEA
+27/06/2024,Rugs & Carpets,Modern Carpet,913.96,42,38386.32,3.8,5,USA,Urban Ladder
+13/02/2024,Wall Art,Metal Wall Sculpture,1098.6,18,19774.8,4.5,2,Australia,Urban Ladder
+26/09/2024,Rugs & Carpets,Modern Carpet,84.05,40,3362,4.9,9,Germany,IKEA
+31/01/2025,Furniture,Wooden Dining Table,621.66,9,5594.94,4.7,10,Australia,Ashley Furniture
+14/12/2024,Lighting,Chandelier,70.94,29,2057.26,3.6,7,USA,Williams-Sonoma
+06/08/2024,Storage,Wall-mounted Cabinet,97.25,54,5251.5,4.1,9,Germany,Wayfair
+06/09/2024,Rugs & Carpets,Modern Carpet,525.82,14,7361.48,4.1,1,India,Williams-Sonoma
+25/10/2024,Furniture,Glass Coffee Table,521.36,1,521.36,3.7,8,Canada,Williams-Sonoma
+26/12/2024,Storage,Bookshelf,703.84,5,3519.2,4.1,10,Canada,IKEA
+07/05/2024,Wall Art,Metal Wall Sculpture,253.14,35,8859.9,4.7,1,Canada,Ashley Furniture
+31/07/2024,Rugs & Carpets,Persian Rug,145.61,15,2184.15,4.9,8,USA,IKEA
+14/10/2024,Furniture,Recliner Sofa,817,10,8170,4.1,5,Australia,Williams-Sonoma
+31/05/2024,Furniture,Wooden Dining Table,596.59,16,9545.44,4,8,USA,Wayfair
+15/02/2024,Rugs & Carpets,Jute Rug,607.58,10,6075.8,3.8,4,India,Williams-Sonoma
+19/11/2024,Wall Art,Framed Photograph,16.34,2,32.68,4.3,1,Canada,Ashley Furniture
+01/06/2024,Storage,Shoe Rack,199.12,23,4579.76,4.6,6,Germany,Williams-Sonoma
+24/01/2025,Wall Art,Framed Photograph,688.82,49,33752.18,3.7,7,Canada,Wayfair
+28/01/2025,Lighting,LED Floor Lamp,981.08,40,39243.2,4.1,4,UK,Wayfair
+05/11/2024,Rugs & Carpets,Modern Carpet,952.64,55,52395.2,3.5,8,Canada,IKEA
+26/09/2024,Wall Art,Metal Wall Sculpture,461.22,49,22599.78,3.6,3,USA,Wayfair
+08/02/2024,Rugs & Carpets,Persian Rug,407.58,29,11819.82,3.7,3,Germany,Urban Ladder
+24/08/2024,Storage,Shoe Rack,916.63,27,24749.01,3.8,10,Australia,Ashley Furniture
+23/03/2024,Lighting,Chandelier,500.24,5,2501.2,3.6,5,UK,Ashley Furniture
+15/09/2024,Storage,Bookshelf,905.85,51,46198.35,4.7,5,USA,IKEA
+28/03/2024,Rugs & Carpets,Persian Rug,956.55,30,28696.5,4.5,10,USA,Wayfair
+24/09/2024,Lighting,Table Lamp,578.78,17,9839.26,4.9,1,India,IKEA
+04/11/2024,Wall Art,Framed Photograph,58.07,2,116.14,4.6,9,Germany,Ashley Furniture
+21/02/2024,Rugs & Carpets,Modern Carpet,476.82,33,15735.06,3.8,2,USA,Urban Ladder
+11/07/2024,Wall Art,Canvas Painting,175.63,19,3336.97,4.3,3,USA,Ashley Furniture
+14/01/2025,Storage,Shoe Rack,388.28,10,3882.8,3.6,1,UK,Ashley Furniture
+08/05/2024,Furniture,Recliner Sofa,824.96,31,25573.76,4.9,3,India,Ashley Furniture
+16/08/2024,Wall Art,Metal Wall Sculpture,541.38,32,17324.16,4.5,6,UK,Ashley Furniture
+08/03/2024,Wall Art,Canvas Painting,634.25,25,15856.25,4.1,8,USA,Wayfair
+18/09/2024,Storage,Wall-mounted Cabinet,523.99,13,6811.87,5,5,UK,IKEA
+20/04/2024,Furniture,Recliner Sofa,667.36,49,32700.64,4.4,4,India,Ashley Furniture
+28/10/2024,Furniture,Recliner Sofa,174.99,9,1574.91,5,9,Germany,IKEA
+09/11/2024,Lighting,Table Lamp,849.95,2,1699.9,4.9,4,Canada,Urban Ladder
+23/03/2024,Storage,Wall-mounted Cabinet,602.86,6,3617.16,4.5,1,India,Williams-Sonoma
+25/03/2024,Rugs & Carpets,Modern Carpet,495.65,25,12391.25,4,3,Australia,Wayfair
+14/06/2024,Rugs & Carpets,Persian Rug,1036.62,16,16585.92,4.7,4,Germany,IKEA
+27/12/2024,Wall Art,Metal Wall Sculpture,525.12,12,6301.44,3.5,7,USA,Urban Ladder
+16/06/2024,Lighting,Chandelier,243.67,26,6335.42,4.4,6,USA,Urban Ladder
+28/05/2024,Storage,Shoe Rack,382.37,31,11853.47,4.7,7,Australia,Urban Ladder
+01/02/2025,Wall Art,Metal Wall Sculpture,558.43,13,7259.59,4.9,6,Canada,Wayfair
+01/11/2024,Lighting,Table Lamp,117.26,52,6097.52,4.7,2,Germany,Wayfair
+17/05/2024,Wall Art,Canvas Painting,252.59,27,6819.93,4,6,India,Urban Ladder
+24/10/2024,Lighting,LED Floor Lamp,934.23,15,14013.45,4.4,3,Australia,Williams-Sonoma
+03/08/2024,Lighting,Table Lamp,146.14,19,2776.66,4.2,1,Germany,Urban Ladder
+06/09/2024,Wall Art,Framed Photograph,745.8,28,20882.4,4.1,7,USA,Wayfair
+18/03/2024,Wall Art,Canvas Painting,165.28,32,5288.96,5,3,UK,Ashley Furniture
+05/10/2024,Storage,Shoe Rack,972.19,18,17499.42,4.8,7,Australia,Wayfair
+09/07/2024,Wall Art,Canvas Painting,295.94,23,6806.62,3.5,4,USA,Ashley Furniture
+17/01/2025,Rugs & Carpets,Jute Rug,482.44,1,482.44,4,9,Australia,Wayfair
+26/10/2024,Furniture,Recliner Sofa,849.71,58,49283.18,4,4,USA,Ashley Furniture
+15/11/2024,Wall Art,Canvas Painting,386.53,36,13915.08,3.6,3,Canada,Urban Ladder
+13/07/2024,Storage,Bookshelf,967.2,37,35786.4,4.4,10,Australia,Urban Ladder
+09/01/2025,Rugs & Carpets,Jute Rug,993.19,18,17877.42,4,4,UK,Urban Ladder
+16/05/2024,Storage,Shoe Rack,1153.82,26,29999.32,3.6,10,Germany,Ashley Furniture
+12/10/2024,Lighting,Table Lamp,19.93,28,558.04,4.4,3,Australia,Williams-Sonoma
+04/04/2024,Storage,Wall-mounted Cabinet,583.32,19,11083.08,4.4,5,USA,Williams-Sonoma
+02/09/2024,Wall Art,Canvas Painting,528.79,43,22737.97,4.7,7,Germany,Wayfair
+31/10/2024,Lighting,Chandelier,472.87,32,15131.84,3.5,10,India,Ashley Furniture
+11/06/2024,Rugs & Carpets,Persian Rug,39.79,50,1989.5,4.8,9,India,IKEA
+29/04/2024,Furniture,Wooden Dining Table,923.11,56,51694.16,4.9,6,Canada,Ashley Furniture
+05/04/2024,Lighting,Chandelier,565.11,17,9606.87,5,3,Germany,Williams-Sonoma
+03/01/2025,Rugs & Carpets,Modern Carpet,808.46,46,37189.16,3.7,8,Australia,Urban Ladder
+08/11/2024,Lighting,Chandelier,541.59,60,32495.4,4.8,7,USA,Urban Ladder
+06/09/2024,Lighting,Chandelier,78.27,58,4539.66,4,6,Canada,Ashley Furniture
+10/10/2024,Furniture,Wooden Dining Table,1122.63,49,55008.87,3.6,9,Germany,Wayfair
+28/08/2024,Rugs & Carpets,Modern Carpet,883.48,13,11485.24,4.7,9,India,IKEA
+13/09/2024,Lighting,Chandelier,270.87,2,541.74,4.6,3,Australia,Ashley Furniture
+28/10/2024,Furniture,Wooden Dining Table,859.12,4,3436.48,5,10,Australia,IKEA
+12/01/2025,Rugs & Carpets,Persian Rug,155.62,7,1089.34,4.9,10,UK,IKEA
+03/05/2024,Lighting,Chandelier,474.17,6,2845.02,3.6,4,UK,IKEA
+12/01/2025,Rugs & Carpets,Jute Rug,940.64,47,44210.08,4.3,9,USA,Urban Ladder
+06/03/2024,Furniture,Glass Coffee Table,696.68,5,3483.4,3.6,1,Canada,IKEA
+02/02/2025,Wall Art,Metal Wall Sculpture,168.7,27,4554.9,4.5,8,Canada,Urban Ladder
+29/06/2024,Rugs & Carpets,Modern Carpet,304.09,58,17637.22,4.8,7,UK,Wayfair
+12/08/2024,Storage,Wall-mounted Cabinet,1062.29,3,3186.87,4.6,6,USA,IKEA
+10/11/2024,Storage,Wall-mounted Cabinet,1136.27,45,51132.15,3.9,10,Germany,Wayfair
+04/09/2024,Rugs & Carpets,Jute Rug,593.82,56,33253.92,5,1,Germany,Urban Ladder
+21/05/2024,Wall Art,Metal Wall Sculpture,121.41,20,2428.2,3.8,4,USA,Williams-Sonoma
+05/02/2025,Furniture,Wooden Dining Table,939.76,16,15036.16,4.3,9,Australia,IKEA
+03/10/2024,Wall Art,Canvas Painting,666.95,8,5335.6,4.6,9,Germany,Wayfair
+25/04/2024,Rugs & Carpets,Persian Rug,37.3,33,1230.9,3.9,9,UK,IKEA
+15/03/2024,Wall Art,Metal Wall Sculpture,311.97,44,13726.68,4.6,6,India,Williams-Sonoma
+08/07/2024,Rugs & Carpets,Persian Rug,542.71,5,2713.55,4.1,9,India,Urban Ladder
+16/06/2024,Lighting,Table Lamp,1128.36,3,3385.08,4.1,4,Canada,Wayfair
+06/07/2024,Furniture,Recliner Sofa,795.4,34,27043.6,4,9,India,IKEA
+31/05/2024,Furniture,Glass Coffee Table,139.75,17,2375.75,4.7,9,Canada,Wayfair
+14/06/2024,Furniture,Recliner Sofa,514.41,36,18518.76,4.1,6,USA,Williams-Sonoma
+13/06/2024,Furniture,Glass Coffee Table,989.25,23,22752.75,4.5,3,India,Williams-Sonoma
+02/07/2024,Lighting,LED Floor Lamp,51.33,5,256.65,4.5,9,Australia,Wayfair
+26/03/2024,Storage,Shoe Rack,588.38,48,28242.24,3.9,2,USA,Wayfair
+22/04/2024,Rugs & Carpets,Modern Carpet,491.11,17,8348.87,4.8,9,UK,Wayfair
+12/02/2024,Lighting,Table Lamp,717.57,5,3587.85,4,7,USA,Urban Ladder
+13/03/2024,Rugs & Carpets,Jute Rug,136.06,55,7483.3,4.6,4,USA,Williams-Sonoma
+06/09/2024,Wall Art,Canvas Painting,1112.55,32,35601.6,3.8,9,USA,Williams-Sonoma
+03/01/2025,Lighting,LED Floor Lamp,889.56,4,3558.24,4.9,4,Australia,Ashley Furniture
+28/01/2025,Rugs & Carpets,Jute Rug,947.18,30,28415.4,4,1,Germany,Wayfair
+09/02/2024,Storage,Bookshelf,802,50,40100,4.8,1,USA,Williams-Sonoma
+16/03/2024,Rugs & Carpets,Persian Rug,1080.32,30,32409.6,4.3,6,UK,Urban Ladder
+12/05/2024,Furniture,Wooden Dining Table,339.63,58,19698.54,3.6,5,USA,IKEA
+29/09/2024,Storage,Shoe Rack,606.46,41,24864.86,3.7,2,USA,Wayfair
+21/10/2024,Lighting,Table Lamp,234.46,10,2344.6,4.3,2,UK,Ashley Furniture
+19/05/2024,Lighting,Table Lamp,322.43,32,10317.76,3.9,7,Canada,Ashley Furniture
+08/03/2024,Wall Art,Canvas Painting,1074.19,53,56932.07,4,5,UK,Ashley Furniture
+04/09/2024,Lighting,Chandelier,1073.83,57,61208.31,4.9,5,Germany,Ashley Furniture
+30/11/2024,Storage,Shoe Rack,437.7,8,3501.6,4.9,10,UK,Williams-Sonoma
+21/10/2024,Lighting,LED Floor Lamp,256.78,9,2311.02,4.1,3,Canada,Wayfair
+30/03/2024,Furniture,Glass Coffee Table,175.79,4,703.16,4.4,6,USA,Wayfair
+08/01/2025,Lighting,LED Floor Lamp,252.64,38,9600.32,4,3,Canada,IKEA
+14/05/2024,Rugs & Carpets,Jute Rug,339.37,34,11538.58,4.8,2,Australia,Urban Ladder
+24/07/2024,Furniture,Recliner Sofa,436.34,21,9163.14,4.7,3,UK,Ashley Furniture
+12/08/2024,Wall Art,Metal Wall Sculpture,1041.88,50,52094,4.2,10,UK,Williams-Sonoma
+31/05/2024,Lighting,Table Lamp,497.64,41,20403.24,4.4,6,Australia,Williams-Sonoma
+21/09/2024,Lighting,Chandelier,96.33,10,963.3,5,4,Canada,Williams-Sonoma
+28/12/2024,Storage,Bookshelf,377.72,50,18886,3.8,5,UK,IKEA
+20/06/2024,Rugs & Carpets,Persian Rug,971.8,30,29154,4.9,3,Canada,Williams-Sonoma
+17/12/2024,Wall Art,Metal Wall Sculpture,633.59,49,31045.91,4.5,7,Germany,Wayfair
+16/01/2025,Wall Art,Metal Wall Sculpture,150.6,31,4668.6,4.7,7,Canada,Urban Ladder
+12/10/2024,Furniture,Recliner Sofa,539.25,33,17795.25,3.7,1,India,Wayfair
+21/03/2024,Wall Art,Framed Photograph,1000.26,28,28007.28,4.6,5,USA,Ashley Furniture
+12/03/2024,Wall Art,Metal Wall Sculpture,150.19,38,5707.22,3.9,2,Australia,Williams-Sonoma
+13/04/2024,Lighting,Table Lamp,791.55,18,14247.9,4.9,5,Germany,Ashley Furniture
+17/05/2024,Storage,Bookshelf,19.03,51,970.53,4.4,1,Canada,Williams-Sonoma
+15/11/2024,Storage,Shoe Rack,233.77,42,9818.34,3.9,1,Germany,IKEA
+25/10/2024,Lighting,Chandelier,1026.93,20,20538.6,4.2,1,Canada,Williams-Sonoma
+06/02/2025,Rugs & Carpets,Modern Carpet,686.3,5,3431.5,3.9,6,USA,IKEA
+12/08/2024,Rugs & Carpets,Jute Rug,388.05,2,776.1,4.2,5,USA,Williams-Sonoma
+04/09/2024,Lighting,Chandelier,667.42,13,8676.46,3.8,1,UK,Williams-Sonoma
+25/01/2025,Rugs & Carpets,Modern Carpet,765.25,19,14539.75,3.8,6,Australia,Williams-Sonoma
+08/11/2024,Lighting,Table Lamp,1189.69,36,42828.84,3.6,3,USA,Ashley Furniture
+27/04/2024,Lighting,Table Lamp,509.98,45,22949.1,4.4,8,USA,Williams-Sonoma
+24/12/2024,Storage,Shoe Rack,664.23,3,1992.69,4.6,10,Australia,Wayfair
+11/04/2024,Lighting,LED Floor Lamp,349.73,16,5595.68,3.5,6,Australia,IKEA
+21/09/2024,Wall Art,Canvas Painting,1157.8,28,32418.4,4.6,8,Canada,Wayfair
+09/03/2024,Storage,Shoe Rack,756.61,6,4539.66,4.8,10,India,Wayfair
+22/12/2024,Furniture,Wooden Dining Table,598.02,26,15548.52,4.3,2,Germany,Urban Ladder
+30/06/2024,Wall Art,Framed Photograph,705.23,51,35966.73,4.2,5,Canada,Williams-Sonoma
+01/11/2024,Storage,Shoe Rack,319.61,32,10227.52,4,9,UK,IKEA
+06/03/2024,Rugs & Carpets,Persian Rug,1070.54,52,55668.08,4.3,9,Canada,Williams-Sonoma
+17/12/2024,Lighting,Chandelier,1027.47,50,51373.5,4.4,5,UK,IKEA
+22/10/2024,Wall Art,Canvas Painting,1130.09,23,25992.07,3.6,9,USA,Ashley Furniture
+21/01/2025,Storage,Wall-mounted Cabinet,766,22,16852,3.5,9,UK,Ashley Furniture
+25/07/2024,Storage,Bookshelf,1028.48,28,28797.44,4.2,4,Australia,Williams-Sonoma
+28/01/2025,Storage,Shoe Rack,497.79,45,22400.55,4.2,5,Australia,Urban Ladder
+29/11/2024,Furniture,Recliner Sofa,98.84,17,1680.28,4.3,2,Germany,Ashley Furniture
+02/06/2024,Lighting,Table Lamp,467.13,6,2802.78,4.2,9,USA,Urban Ladder
+28/05/2024,Wall Art,Canvas Painting,845.1,15,12676.5,3.8,3,Canada,Urban Ladder
+04/03/2024,Wall Art,Canvas Painting,181.76,21,3816.96,4.6,9,India,IKEA
+30/08/2024,Lighting,LED Floor Lamp,930.88,8,7447.04,3.9,1,India,Ashley Furniture
+14/02/2024,Storage,Shoe Rack,1130.87,14,15832.18,4.3,1,Germany,Urban Ladder
+08/04/2024,Storage,Shoe Rack,428.16,10,4281.6,3.8,8,Canada,Urban Ladder
+12/05/2024,Storage,Shoe Rack,260.92,49,12785.08,4.2,1,USA,IKEA
+02/09/2024,Lighting,LED Floor Lamp,879.48,51,44853.48,3.9,2,Germany,Williams-Sonoma
+29/11/2024,Lighting,Table Lamp,113.2,9,1018.8,3.8,1,Australia,Wayfair
+11/04/2024,Wall Art,Framed Photograph,243.5,10,2435,4.1,2,India,Urban Ladder
+05/12/2024,Furniture,Wooden Dining Table,668.25,54,36085.5,4.8,8,Germany,Wayfair
+28/10/2024,Rugs & Carpets,Persian Rug,711.19,23,16357.37,5,1,Australia,Urban Ladder
+25/02/2024,Storage,Bookshelf,916.29,26,23823.54,3.5,9,Australia,Williams-Sonoma
+05/05/2024,Rugs & Carpets,Jute Rug,558.89,6,3353.34,4.1,5,Australia,Ashley Furniture
+11/10/2024,Wall Art,Metal Wall Sculpture,135.85,45,6113.25,4.3,5,India,Wayfair
+25/10/2024,Furniture,Wooden Dining Table,173.99,35,6089.65,3.6,8,India,Urban Ladder
+06/07/2024,Storage,Bookshelf,613.79,4,2455.16,4.1,7,Australia,Wayfair
+16/05/2024,Storage,Shoe Rack,546.44,33,18032.52,4.2,10,UK,Williams-Sonoma
+20/11/2024,Wall Art,Framed Photograph,80.27,56,4495.12,4.7,7,UK,Urban Ladder
+16/12/2024,Lighting,Chandelier,486.33,58,28207.14,4.7,4,India,Wayfair
+24/11/2024,Furniture,Glass Coffee Table,843.67,39,32903.13,4.7,7,Canada,Williams-Sonoma
+22/05/2024,Lighting,LED Floor Lamp,978.34,27,26415.18,4.4,5,India,Wayfair
+20/01/2025,Rugs & Carpets,Modern Carpet,267.69,45,12046.05,4.4,5,USA,Wayfair
+01/08/2024,Lighting,Table Lamp,408.72,7,2861.04,5,8,UK,IKEA
+30/11/2024,Rugs & Carpets,Jute Rug,488.95,49,23958.55,4.2,3,Australia,Ashley Furniture
+13/12/2024,Storage,Wall-mounted Cabinet,254.81,53,13504.93,3.7,10,UK,IKEA
+19/09/2024,Wall Art,Framed Photograph,396.32,38,15060.16,4.4,9,USA,Ashley Furniture
+10/08/2024,Rugs & Carpets,Persian Rug,526.77,35,18436.95,4.1,2,Germany,Ashley Furniture
+25/07/2024,Furniture,Wooden Dining Table,721.31,48,34622.88,4.2,9,UK,Wayfair
+25/06/2024,Furniture,Wooden Dining Table,661.47,11,7276.17,4.6,8,Canada,Williams-Sonoma
+09/05/2024,Wall Art,Framed Photograph,858.84,40,34353.6,3.5,4,Germany,Urban Ladder
+06/01/2025,Furniture,Glass Coffee Table,473.73,29,13738.17,4.2,2,India,IKEA
+19/04/2024,Wall Art,Framed Photograph,1169.53,40,46781.2,4.4,10,India,Wayfair
+26/05/2024,Lighting,Chandelier,478.83,58,27772.14,4.8,2,USA,IKEA
+16/08/2024,Rugs & Carpets,Jute Rug,570.31,18,10265.58,4.2,8,USA,Williams-Sonoma
+15/12/2024,Rugs & Carpets,Persian Rug,670.52,45,30173.4,4.9,1,India,IKEA
+03/06/2024,Rugs & Carpets,Persian Rug,155.71,11,1712.81,4.7,8,Canada,Wayfair
+11/02/2024,Furniture,Recliner Sofa,832.74,56,46633.44,3.9,10,Germany,IKEA
+01/09/2024,Furniture,Wooden Dining Table,805.06,15,12075.9,4,5,Germany,Ashley Furniture
+24/09/2024,Storage,Wall-mounted Cabinet,1036.92,7,7258.44,3.7,3,Germany,Williams-Sonoma
+14/06/2024,Furniture,Glass Coffee Table,16.34,31,506.54,4.7,10,Canada,Ashley Furniture
+21/06/2024,Wall Art,Metal Wall Sculpture,722.49,34,24564.66,4.9,9,UK,Urban Ladder
+14/05/2024,Lighting,LED Floor Lamp,387.84,20,7756.8,4,10,India,Williams-Sonoma
+12/05/2024,Wall Art,Metal Wall Sculpture,325.42,38,12365.96,4.6,3,UK,Urban Ladder
+25/03/2024,Lighting,Chandelier,404.89,29,11741.81,4.1,1,Germany,Wayfair
+30/03/2024,Rugs & Carpets,Persian Rug,622.5,15,9337.5,4.6,7,Australia,Williams-Sonoma
+13/09/2024,Furniture,Glass Coffee Table,41.25,48,1980,4.4,6,Canada,Ashley Furniture
+14/01/2025,Rugs & Carpets,Jute Rug,267.9,2,535.8,3.7,10,India,Ashley Furniture
+02/02/2025,Furniture,Wooden Dining Table,1088.53,3,3265.59,3.9,8,Canada,Wayfair
+18/02/2024,Furniture,Recliner Sofa,141.18,31,4376.58,3.8,1,Canada,IKEA
+04/11/2024,Lighting,LED Floor Lamp,924.34,25,23108.5,4.8,10,India,Williams-Sonoma
+03/11/2024,Lighting,LED Floor Lamp,1049.66,20,20993.2,4.2,10,Germany,Wayfair
+13/10/2024,Wall Art,Metal Wall Sculpture,757.22,41,31046.02,3.5,4,USA,Williams-Sonoma
+21/01/2025,Furniture,Wooden Dining Table,859.05,45,38657.25,3.7,3,USA,Ashley Furniture
+05/08/2024,Storage,Shoe Rack,549.08,1,549.08,4.8,6,India,IKEA
+30/01/2025,Lighting,Table Lamp,149.01,32,4768.32,4,5,India,Ashley Furniture
+05/02/2025,Wall Art,Metal Wall Sculpture,425.96,34,14482.64,4.7,2,India,Ashley Furniture
+26/04/2024,Wall Art,Canvas Painting,1008.69,12,12104.28,3.7,7,Canada,Williams-Sonoma
+30/11/2024,Wall Art,Framed Photograph,1087.37,11,11961.07,4.8,5,Germany,Wayfair
+12/05/2024,Lighting,Chandelier,607.23,18,10930.14,4.6,4,India,Urban Ladder
+22/11/2024,Lighting,Table Lamp,1070.97,24,25703.28,3.9,1,USA,Ashley Furniture
+05/07/2024,Lighting,Table Lamp,1173.72,42,49296.24,4.9,6,Australia,Urban Ladder
+08/05/2024,Storage,Bookshelf,1158.23,53,61386.19,4.3,9,USA,IKEA
+23/07/2024,Wall Art,Canvas Painting,803.11,2,1606.22,4.3,9,UK,Urban Ladder
+10/02/2024,Storage,Shoe Rack,341.89,49,16752.61,4.4,10,Canada,Urban Ladder
+25/04/2024,Lighting,LED Floor Lamp,891.41,10,8914.1,4.1,6,Canada,Ashley Furniture
+09/03/2024,Rugs & Carpets,Persian Rug,696,27,18792,4.4,5,Australia,IKEA
+09/02/2024,Wall Art,Canvas Painting,1002.73,9,9024.57,4.6,10,India,Ashley Furniture
+21/02/2024,Lighting,LED Floor Lamp,555.19,29,16100.51,3.9,8,USA,Williams-Sonoma
+17/07/2024,Furniture,Glass Coffee Table,79.24,25,1981,4.4,9,India,Williams-Sonoma
+21/07/2024,Furniture,Glass Coffee Table,464.44,52,24150.88,4.1,4,Australia,Urban Ladder
+03/06/2024,Storage,Shoe Rack,630.09,28,17642.52,4.5,6,Australia,Williams-Sonoma
+09/03/2024,Rugs & Carpets,Jute Rug,303.72,15,4555.8,4.2,10,India,Ashley Furniture
+17/10/2024,Rugs & Carpets,Modern Carpet,1141.74,35,39960.9,4.7,10,Canada,Williams-Sonoma
+17/05/2024,Furniture,Recliner Sofa,694.16,59,40955.44,5,10,Australia,Williams-Sonoma
+21/04/2024,Wall Art,Canvas Painting,282.38,16,4518.08,3.6,5,Germany,Urban Ladder
+16/12/2024,Rugs & Carpets,Persian Rug,177.81,14,2489.34,4.7,8,Germany,Ashley Furniture
+24/12/2024,Furniture,Recliner Sofa,150.92,22,3320.24,4.9,1,Canada,IKEA
+05/06/2024,Storage,Shoe Rack,201.58,6,1209.48,4.5,6,Australia,IKEA
+21/08/2024,Storage,Bookshelf,1021.77,60,61306.2,4.3,8,Australia,IKEA
+28/11/2024,Rugs & Carpets,Modern Carpet,448.71,56,25127.76,4.5,8,Germany,Ashley Furniture
+26/12/2024,Lighting,Table Lamp,1050.45,19,19958.55,4.3,5,Germany,IKEA
+07/06/2024,Furniture,Wooden Dining Table,605.15,21,12708.15,4.8,4,USA,Williams-Sonoma
+14/08/2024,Lighting,Chandelier,320.06,17,5441.02,3.8,5,India,Urban Ladder
+06/05/2024,Storage,Wall-mounted Cabinet,27.68,12,332.16,3.8,7,Germany,Wayfair
+30/08/2024,Furniture,Wooden Dining Table,61.39,30,1841.7,4.3,3,Canada,Ashley Furniture
+31/01/2025,Rugs & Carpets,Jute Rug,954.41,4,3817.64,4.4,6,India,Wayfair
+26/09/2024,Lighting,Chandelier,430.65,43,18517.95,4.5,3,Canada,Wayfair
+11/06/2024,Rugs & Carpets,Persian Rug,404.04,24,9696.96,4.3,1,Australia,Wayfair
+08/11/2024,Lighting,LED Floor Lamp,781.52,4,3126.08,4.4,2,Germany,Williams-Sonoma
+08/10/2024,Furniture,Recliner Sofa,1135.86,25,28396.5,4.8,8,UK,Urban Ladder
+23/08/2024,Lighting,Table Lamp,98.56,49,4829.44,4.5,4,USA,Ashley Furniture
+18/06/2024,Furniture,Recliner Sofa,235.11,8,1880.88,4.8,4,USA,Wayfair
+10/07/2024,Rugs & Carpets,Modern Carpet,320.46,20,6409.2,4.4,3,UK,Urban Ladder
+13/12/2024,Storage,Wall-mounted Cabinet,1168.27,4,4673.08,4.8,5,India,Williams-Sonoma
+18/10/2024,Lighting,LED Floor Lamp,653.57,36,23528.52,3.9,4,Australia,Ashley Furniture
+03/01/2025,Wall Art,Framed Photograph,866.27,17,14726.59,3.8,2,Australia,Williams-Sonoma
+08/10/2024,Storage,Shoe Rack,124.08,54,6700.32,4.4,1,USA,IKEA
+28/07/2024,Lighting,Table Lamp,849.71,37,31439.27,4.7,10,Canada,Wayfair
+11/12/2024,Furniture,Glass Coffee Table,1197.6,26,31137.6,4.5,4,Germany,Wayfair
+12/06/2024,Storage,Wall-mounted Cabinet,75.95,11,835.45,4.1,3,USA,Urban Ladder
+08/08/2024,Rugs & Carpets,Modern Carpet,816.34,44,35918.96,3.8,10,UK,Williams-Sonoma
+31/05/2024,Lighting,Chandelier,754.36,17,12824.12,3.7,10,India,Urban Ladder
+01/08/2024,Lighting,Chandelier,973.79,27,26292.33,3.8,3,Canada,Urban Ladder
+21/12/2024,Furniture,Glass Coffee Table,957.2,21,20101.2,4.3,4,Canada,Williams-Sonoma
+27/02/2024,Rugs & Carpets,Jute Rug,667.65,22,14688.3,3.6,5,Germany,Urban Ladder
+12/04/2024,Furniture,Glass Coffee Table,287.68,47,13520.96,3.7,4,Canada,IKEA
+23/10/2024,Rugs & Carpets,Jute Rug,492.79,6,2956.74,3.6,9,Germany,IKEA
+16/02/2024,Rugs & Carpets,Modern Carpet,940.95,12,11291.4,3.6,10,UK,Ashley Furniture
+27/04/2024,Furniture,Wooden Dining Table,92.89,42,3901.38,4.6,6,India,IKEA
+02/11/2024,Furniture,Recliner Sofa,347.02,16,5552.32,4.9,6,Germany,Wayfair
+27/11/2024,Lighting,Table Lamp,1090.4,58,63243.2,4.3,1,Australia,IKEA
+23/12/2024,Wall Art,Framed Photograph,36.29,17,616.93,4.9,6,Germany,Urban Ladder
+29/07/2024,Furniture,Glass Coffee Table,197.41,34,6711.94,4.2,7,USA,Williams-Sonoma
+08/05/2024,Storage,Shoe Rack,1102.16,17,18736.72,4,6,Germany,Wayfair
+08/03/2024,Storage,Wall-mounted Cabinet,152.27,49,7461.23,3.5,3,Canada,Wayfair
+23/11/2024,Wall Art,Canvas Painting,1105.37,33,36477.21,3.9,5,USA,Urban Ladder
+30/03/2024,Furniture,Glass Coffee Table,1069.91,23,24607.93,3.6,1,India,Wayfair
+17/02/2024,Furniture,Glass Coffee Table,1141.26,4,4565.04,4.6,2,India,Urban Ladder
+05/02/2025,Lighting,Chandelier,1107.01,4,4428.04,4.9,7,Germany,Urban Ladder
+19/10/2024,Storage,Wall-mounted Cabinet,901.94,11,9921.34,4.2,4,Australia,Wayfair
+27/09/2024,Lighting,LED Floor Lamp,250.69,21,5264.49,4.7,2,India,IKEA
+26/07/2024,Storage,Shoe Rack,362.18,60,21730.8,4.2,1,Canada,Ashley Furniture
+27/05/2024,Furniture,Recliner Sofa,1195.66,23,27500.18,4.5,6,UK,Urban Ladder
+03/08/2024,Rugs & Carpets,Modern Carpet,271.01,5,1355.05,3.6,7,USA,IKEA
+02/09/2024,Lighting,LED Floor Lamp,85.15,14,1192.1,4.2,5,USA,Ashley Furniture
+14/02/2024,Storage,Shoe Rack,247.13,3,741.39,4.8,8,India,IKEA
+14/03/2024,Lighting,Chandelier,908.99,28,25451.72,4.4,10,Germany,IKEA
+28/11/2024,Storage,Wall-mounted Cabinet,485.43,40,19417.2,4.7,9,USA,Urban Ladder
+01/12/2024,Furniture,Wooden Dining Table,305.03,18,5490.54,3.8,2,Australia,Ashley Furniture
+07/12/2024,Furniture,Recliner Sofa,424.27,29,12303.83,4.9,2,Australia,Ashley Furniture
+20/04/2024,Furniture,Recliner Sofa,657.45,48,31557.6,4.7,3,Germany,Ashley Furniture
+02/07/2024,Lighting,LED Floor Lamp,950.44,56,53224.64,4,3,India,IKEA
+17/11/2024,Storage,Bookshelf,500.56,30,15016.8,4.6,6,USA,Ashley Furniture
+11/05/2024,Furniture,Wooden Dining Table,999.43,56,55968.08,3.8,8,USA,Urban Ladder
+24/06/2024,Lighting,Chandelier,642.32,18,11561.76,4.8,10,Canada,IKEA
+21/09/2024,Lighting,Chandelier,671.74,35,23510.9,4.9,8,Australia,Urban Ladder
+29/05/2024,Rugs & Carpets,Modern Carpet,260.27,51,13273.77,4,6,USA,IKEA
+11/07/2024,Furniture,Wooden Dining Table,630.07,10,6300.7,4.5,10,India,Wayfair
+07/08/2024,Lighting,LED Floor Lamp,285.15,31,8839.65,4.9,4,Germany,Wayfair
+29/09/2024,Lighting,Chandelier,1155.94,17,19650.98,4.5,9,USA,Ashley Furniture
+03/06/2024,Lighting,Table Lamp,775.28,46,35662.88,4.3,9,Canada,Wayfair
+29/11/2024,Furniture,Glass Coffee Table,357.06,47,16781.82,4.3,10,Germany,Urban Ladder
+13/06/2024,Rugs & Carpets,Modern Carpet,173.28,56,9703.68,4.4,3,Germany,IKEA
+11/11/2024,Wall Art,Canvas Painting,1065.64,60,63938.4,4.1,1,India,Wayfair
+27/03/2024,Rugs & Carpets,Modern Carpet,1047.91,32,33533.12,3.8,7,USA,Wayfair
+21/08/2024,Storage,Bookshelf,543.59,55,29897.45,4.3,7,Germany,IKEA
+26/08/2024,Wall Art,Metal Wall Sculpture,680.4,23,15649.2,3.6,3,USA,Wayfair
+10/12/2024,Storage,Bookshelf,1033.99,1,1033.99,4,9,Canada,Ashley Furniture
+01/12/2024,Storage,Wall-mounted Cabinet,230.29,59,13587.11,3.8,10,UK,Williams-Sonoma
+09/11/2024,Storage,Bookshelf,30.05,14,420.7,4,6,India,IKEA
+12/03/2024,Storage,Shoe Rack,996.23,16,15939.68,3.8,10,Germany,Williams-Sonoma
+07/06/2024,Wall Art,Canvas Painting,276.34,20,5526.8,3.6,9,UK,Ashley Furniture
+19/05/2024,Furniture,Wooden Dining Table,759.24,16,12147.84,3.8,3,India,Ashley Furniture
+14/09/2024,Lighting,LED Floor Lamp,239.19,13,3109.47,4.3,5,USA,Ashley Furniture
+25/07/2024,Storage,Bookshelf,734.99,25,18374.75,4.9,5,India,Williams-Sonoma
+23/02/2024,Wall Art,Canvas Painting,596.55,34,20282.7,4.2,1,Australia,Williams-Sonoma
+08/12/2024,Wall Art,Metal Wall Sculpture,228.05,34,7753.7,4.9,6,Australia,Wayfair
+01/03/2024,Storage,Shoe Rack,241.41,36,8690.76,4.7,6,Canada,Urban Ladder
+09/04/2024,Storage,Bookshelf,15.78,44,694.32,4.1,5,Germany,Ashley Furniture
+27/08/2024,Furniture,Glass Coffee Table,31.62,20,632.4,4.1,5,Germany,IKEA
+15/03/2024,Furniture,Wooden Dining Table,1030.22,55,56662.1,4,8,UK,Ashley Furniture
+15/10/2024,Wall Art,Canvas Painting,690.37,22,15188.14,4,10,Canada,Urban Ladder
+09/09/2024,Rugs & Carpets,Modern Carpet,1048.51,22,23067.22,3.5,8,India,Williams-Sonoma
+12/08/2024,Lighting,Chandelier,999.03,15,14985.45,4.7,4,Canada,IKEA
+11/06/2024,Rugs & Carpets,Persian Rug,628.11,58,36430.38,4.3,10,India,Ashley Furniture
+28/06/2024,Wall Art,Framed Photograph,931.03,54,50275.62,4.1,9,India,Wayfair
+23/09/2024,Wall Art,Framed Photograph,917.08,20,18341.6,3.9,2,USA,Urban Ladder
+10/10/2024,Storage,Bookshelf,1088.96,28,30490.88,3.7,4,USA,IKEA
+31/08/2024,Furniture,Wooden Dining Table,323.13,15,4846.95,3.7,1,USA,Williams-Sonoma
+24/06/2024,Storage,Shoe Rack,828.39,27,22366.53,4,2,UK,IKEA
+15/08/2024,Rugs & Carpets,Persian Rug,1086.05,19,20634.95,4.9,4,USA,Ashley Furniture
+24/04/2024,Furniture,Glass Coffee Table,920.24,55,50613.2,4.1,2,Canada,Ashley Furniture
+12/08/2024,Furniture,Recliner Sofa,299.09,22,6579.98,4.9,8,Australia,Ashley Furniture
+10/12/2024,Lighting,Table Lamp,486.84,24,11684.16,4.1,6,USA,Wayfair
+08/02/2024,Storage,Wall-mounted Cabinet,235.49,4,941.96,4.7,8,Germany,Williams-Sonoma
+04/07/2024,Storage,Shoe Rack,693.99,14,9715.86,4.9,6,India,Ashley Furniture
+02/07/2024,Storage,Bookshelf,204.82,22,4506.04,4.3,10,Canada,IKEA
+15/04/2024,Storage,Shoe Rack,465.73,58,27012.34,3.9,2,India,Williams-Sonoma
+05/10/2024,Furniture,Glass Coffee Table,327.89,39,12787.71,4.5,4,UK,IKEA
+28/09/2024,Lighting,Chandelier,786.06,2,1572.12,4.6,7,USA,IKEA
+18/06/2024,Lighting,LED Floor Lamp,1114.11,9,10026.99,4.3,4,UK,Urban Ladder
+10/09/2024,Storage,Shoe Rack,880.62,58,51075.96,3.8,4,India,Wayfair
+25/10/2024,Storage,Wall-mounted Cabinet,552.42,57,31487.94,4.3,3,India,IKEA
+05/06/2024,Furniture,Wooden Dining Table,703.03,19,13357.57,4.4,7,India,Williams-Sonoma
+05/08/2024,Storage,Bookshelf,299.93,60,17995.8,4.2,7,UK,Williams-Sonoma
+13/08/2024,Rugs & Carpets,Modern Carpet,747.02,45,33615.9,3.8,5,Australia,Williams-Sonoma
+05/03/2024,Lighting,Table Lamp,1035.57,4,4142.28,4.9,2,Germany,Ashley Furniture
+18/11/2024,Storage,Shoe Rack,456.97,36,16450.92,4.4,7,Canada,Wayfair
+09/04/2024,Lighting,Chandelier,739.12,20,14782.4,3.9,3,USA,IKEA
+12/10/2024,Wall Art,Canvas Painting,835.84,13,10865.92,4.4,8,Australia,Ashley Furniture
+03/09/2024,Lighting,LED Floor Lamp,1037.09,39,40446.51,4.2,4,Canada,Wayfair
+08/09/2024,Wall Art,Metal Wall Sculpture,893.29,16,14292.64,4.6,2,Australia,Ashley Furniture
+15/02/2024,Lighting,Chandelier,1086.18,57,61912.26,3.9,8,Canada,Urban Ladder
+03/05/2024,Storage,Shoe Rack,437.5,21,9187.5,4.3,5,USA,Urban Ladder
+17/03/2024,Lighting,Table Lamp,363.78,51,18552.78,4.3,4,Australia,Williams-Sonoma
+10/07/2024,Rugs & Carpets,Jute Rug,305.88,14,4282.32,5,8,Germany,Wayfair
+21/02/2024,Storage,Wall-mounted Cabinet,247.53,54,13366.62,3.7,6,Canada,Wayfair
+06/11/2024,Storage,Shoe Rack,605.87,18,10905.66,3.8,2,Germany,Williams-Sonoma
+11/07/2024,Storage,Wall-mounted Cabinet,1000.9,29,29026.1,4,1,USA,Williams-Sonoma
+06/09/2024,Rugs & Carpets,Modern Carpet,1078.77,23,24811.71,4,8,Australia,Urban Ladder
+10/04/2024,Storage,Bookshelf,468.7,4,1874.8,4.9,8,Australia,Ashley Furniture
+08/02/2024,Storage,Wall-mounted Cabinet,585.97,11,6445.67,3.5,2,Australia,Williams-Sonoma
+27/12/2024,Lighting,Table Lamp,934.34,12,11212.08,4.2,9,India,IKEA
+24/05/2024,Storage,Shoe Rack,813.11,8,6504.88,3.9,5,UK,IKEA
+26/01/2025,Furniture,Wooden Dining Table,513.71,16,8219.36,3.9,3,UK,Ashley Furniture
+16/08/2024,Lighting,LED Floor Lamp,718.56,31,22275.36,5,10,Canada,Ashley Furniture
+13/05/2024,Storage,Wall-mounted Cabinet,468.75,15,7031.25,4.7,3,Australia,Urban Ladder
+17/08/2024,Wall Art,Framed Photograph,348.95,25,8723.75,3.5,1,USA,Williams-Sonoma
+30/12/2024,Wall Art,Canvas Painting,1071.38,5,5356.9,4.9,6,UK,Urban Ladder
+28/11/2024,Lighting,Table Lamp,1168.28,4,4673.12,4,4,Canada,Ashley Furniture
+17/07/2024,Rugs & Carpets,Persian Rug,970.2,8,7761.6,4.7,9,Canada,Ashley Furniture
+12/01/2025,Rugs & Carpets,Jute Rug,388.43,4,1553.72,4.6,6,UK,Ashley Furniture
+16/04/2024,Rugs & Carpets,Jute Rug,789.9,21,16587.9,4.2,3,Canada,Urban Ladder
+11/12/2024,Wall Art,Framed Photograph,201.3,6,1207.8,4.3,8,Australia,Williams-Sonoma
+13/07/2024,Lighting,LED Floor Lamp,448.28,28,12551.84,4,7,UK,Urban Ladder
+20/12/2024,Furniture,Wooden Dining Table,763.65,52,39709.8,3.9,8,Australia,IKEA
+09/01/2025,Wall Art,Canvas Painting,963.82,41,39516.62,4,9,Germany,Ashley Furniture
+10/06/2024,Furniture,Glass Coffee Table,894.26,35,31299.1,3.6,10,Canada,IKEA
+29/11/2024,Lighting,Table Lamp,412.08,22,9065.76,4,7,India,Urban Ladder
+25/10/2024,Furniture,Wooden Dining Table,293.5,20,5870,4.2,10,Australia,Ashley Furniture
+16/12/2024,Rugs & Carpets,Jute Rug,793.94,7,5557.58,3.5,3,Canada,Wayfair
+11/08/2024,Wall Art,Canvas Painting,1126.58,31,34923.98,4.7,5,India,IKEA
+16/04/2024,Storage,Shoe Rack,589.81,58,34208.98,4.5,7,India,Ashley Furniture
+07/05/2024,Rugs & Carpets,Jute Rug,1071.16,32,34277.12,4.9,1,Canada,Ashley Furniture
+21/08/2024,Rugs & Carpets,Modern Carpet,868.15,21,18231.15,4.6,4,Germany,Urban Ladder
+03/07/2024,Rugs & Carpets,Modern Carpet,557.61,53,29553.33,3.8,8,Australia,Williams-Sonoma
+05/01/2025,Rugs & Carpets,Modern Carpet,1041.23,58,60391.34,3.7,9,USA,Wayfair
+11/07/2024,Rugs & Carpets,Persian Rug,1141.57,54,61644.78,4.1,6,UK,Williams-Sonoma
+21/05/2024,Furniture,Glass Coffee Table,404.65,42,16995.3,4.5,5,Australia,Ashley Furniture
+04/10/2024,Furniture,Wooden Dining Table,967.23,20,19344.6,3.7,2,Germany,Ashley Furniture
+05/01/2025,Storage,Shoe Rack,208.11,15,3121.65,3.5,4,Canada,Ashley Furniture
+05/03/2024,Storage,Bookshelf,326.18,35,11416.3,4.2,3,Canada,Urban Ladder
+01/01/2025,Furniture,Wooden Dining Table,701.68,31,21752.08,4.2,3,India,Williams-Sonoma
+04/12/2024,Lighting,Chandelier,264.34,27,7137.18,4,9,Germany,Williams-Sonoma
+09/10/2024,Wall Art,Framed Photograph,408.4,51,20828.4,3.7,6,Germany,IKEA
+03/06/2024,Lighting,LED Floor Lamp,945.07,49,46308.43,4.9,4,Canada,Urban Ladder
+17/07/2024,Rugs & Carpets,Modern Carpet,805.39,56,45101.84,4.5,3,Germany,Urban Ladder
+27/06/2024,Storage,Wall-mounted Cabinet,517.54,16,8280.64,3.6,4,India,Ashley Furniture
+13/08/2024,Storage,Bookshelf,283.21,22,6230.62,4.6,8,India,Wayfair
+08/04/2024,Rugs & Carpets,Persian Rug,551.95,17,9383.15,3.6,10,Germany,Williams-Sonoma
+16/03/2024,Wall Art,Framed Photograph,28.91,39,1127.49,4.2,3,USA,IKEA
+04/01/2025,Wall Art,Metal Wall Sculpture,142.24,16,2275.84,4.2,9,UK,Urban Ladder
+03/10/2024,Wall Art,Framed Photograph,216.69,35,7584.15,4.9,3,India,Williams-Sonoma
+18/12/2024,Rugs & Carpets,Persian Rug,911.94,26,23710.44,4.8,4,Australia,Wayfair
+19/03/2024,Rugs & Carpets,Modern Carpet,48.57,47,2282.79,4.2,10,UK,Wayfair
+21/12/2024,Furniture,Wooden Dining Table,586.47,44,25804.68,4.9,10,Germany,Williams-Sonoma
+27/07/2024,Storage,Wall-mounted Cabinet,1137.31,42,47767.02,4.8,9,Australia,Williams-Sonoma
+22/02/2024,Wall Art,Canvas Painting,544.61,54,29408.94,3.8,3,USA,Wayfair
+30/03/2024,Lighting,LED Floor Lamp,402.38,35,14083.3,4.1,8,UK,Williams-Sonoma
+28/07/2024,Rugs & Carpets,Jute Rug,638.85,48,30664.8,4.6,9,UK,Williams-Sonoma
+01/10/2024,Rugs & Carpets,Persian Rug,248.52,13,3230.76,4.8,5,UK,Williams-Sonoma
+01/10/2024,Wall Art,Framed Photograph,610.57,15,9158.55,4.3,7,USA,Urban Ladder
+06/01/2025,Furniture,Wooden Dining Table,354.07,16,5665.12,4.6,7,India,Ashley Furniture
+19/10/2024,Wall Art,Metal Wall Sculpture,298.81,27,8067.87,4.3,1,Australia,IKEA
+01/12/2024,Lighting,Chandelier,955.25,29,27702.25,4.2,9,India,IKEA
+19/11/2024,Storage,Shoe Rack,663.04,48,31825.92,4.7,9,India,IKEA
+30/04/2024,Lighting,Chandelier,1144.73,37,42355.01,4.4,7,USA,IKEA
+13/01/2025,Lighting,Chandelier,230.22,8,1841.76,3.8,5,UK,Ashley Furniture
+28/06/2024,Storage,Shoe Rack,209.22,7,1464.54,4.5,9,India,Wayfair
+15/03/2024,Furniture,Recliner Sofa,333.4,3,1000.2,3.9,6,UK,Urban Ladder
+27/06/2024,Furniture,Recliner Sofa,269.56,47,12669.32,3.8,4,Australia,Urban Ladder
+12/12/2024,Wall Art,Canvas Painting,261.08,8,2088.64,4.8,7,USA,Ashley Furniture
+25/07/2024,Storage,Wall-mounted Cabinet,959.14,54,51793.56,4.1,2,Germany,Urban Ladder
+16/09/2024,Storage,Shoe Rack,96.63,39,3768.57,4.7,10,UK,Williams-Sonoma
+11/07/2024,Lighting,Chandelier,971.75,8,7774,3.7,2,Germany,Ashley Furniture
+09/04/2024,Wall Art,Canvas Painting,625.8,32,20025.6,4.1,9,UK,Urban Ladder
+15/01/2025,Wall Art,Framed Photograph,549.54,37,20332.98,4,3,Germany,Ashley Furniture
+18/01/2025,Furniture,Wooden Dining Table,1155.34,60,69320.4,4.5,6,India,Ashley Furniture
+15/01/2025,Lighting,Chandelier,80.1,22,1762.2,4.7,2,Germany,Urban Ladder
+03/04/2024,Wall Art,Framed Photograph,1065.45,24,25570.8,4.7,3,Germany,Urban Ladder
+12/10/2024,Rugs & Carpets,Persian Rug,310.53,7,2173.71,4.9,3,Germany,Wayfair
+17/07/2024,Furniture,Wooden Dining Table,332.75,44,14641,3.9,8,India,IKEA
+18/01/2025,Wall Art,Metal Wall Sculpture,479.57,56,26855.92,4.8,5,USA,Williams-Sonoma
+17/09/2024,Lighting,Chandelier,640.31,49,31375.19,4.4,4,USA,Urban Ladder
+10/08/2024,Wall Art,Framed Photograph,34.06,13,442.78,3.6,3,India,Williams-Sonoma
+09/10/2024,Storage,Bookshelf,521.89,29,15134.81,4.5,6,India,Urban Ladder
+12/12/2024,Furniture,Wooden Dining Table,164.67,49,8068.83,3.6,5,Germany,Ashley Furniture
+12/01/2025,Lighting,LED Floor Lamp,926.26,31,28714.06,3.6,8,UK,Wayfair
+24/09/2024,Furniture,Recliner Sofa,128.17,55,7049.35,3.7,10,Germany,IKEA
+16/06/2024,Rugs & Carpets,Modern Carpet,802.98,56,44966.88,3.6,6,Canada,Ashley Furniture
+17/08/2024,Storage,Bookshelf,714.77,44,31449.88,3.6,3,Canada,Ashley Furniture
+06/12/2024,Storage,Shoe Rack,883.79,34,30048.86,4.1,8,Germany,Wayfair
+18/07/2024,Wall Art,Canvas Painting,237.86,4,951.44,4,5,Canada,IKEA
+13/09/2024,Storage,Shoe Rack,509.65,42,21405.3,4.7,10,USA,IKEA
+29/03/2024,Wall Art,Metal Wall Sculpture,119.24,16,1907.84,3.6,5,USA,Wayfair
+29/08/2024,Furniture,Wooden Dining Table,484.32,9,4358.88,4.1,10,Germany,Urban Ladder
+11/02/2024,Furniture,Recliner Sofa,922.46,40,36898.4,4.9,1,Canada,Williams-Sonoma
+06/10/2024,Wall Art,Framed Photograph,410.56,60,24633.6,4.2,7,USA,Wayfair
+12/01/2025,Rugs & Carpets,Jute Rug,1071.85,27,28939.95,4.6,10,Germany,IKEA
+25/07/2024,Lighting,Table Lamp,281.86,38,10710.68,4.3,4,Germany,Wayfair
+04/08/2024,Lighting,Chandelier,844.67,2,1689.34,4.4,10,UK,IKEA
+05/10/2024,Rugs & Carpets,Jute Rug,1080.18,6,6481.08,4.6,2,Germany,Wayfair
+04/12/2024,Wall Art,Framed Photograph,947.42,19,18000.98,4.6,1,UK,Ashley Furniture
+17/02/2024,Lighting,Chandelier,757.73,23,17427.79,3.7,7,India,IKEA
+16/10/2024,Rugs & Carpets,Modern Carpet,454.3,34,15446.2,3.6,7,USA,Ashley Furniture
+26/02/2024,Furniture,Glass Coffee Table,1078.08,24,25873.92,3.6,2,Canada,Wayfair
+04/12/2024,Lighting,LED Floor Lamp,1088.31,41,44620.71,4.3,4,Australia,IKEA
+04/04/2024,Lighting,Chandelier,172.05,1,172.05,4.8,3,India,Williams-Sonoma
+30/04/2024,Storage,Wall-mounted Cabinet,307.88,21,6465.48,4,5,Canada,Williams-Sonoma
+19/06/2024,Lighting,Chandelier,982.55,40,39302,4.8,2,Germany,Wayfair
+14/09/2024,Rugs & Carpets,Jute Rug,275.22,44,12109.68,4.2,7,Australia,Wayfair
+03/03/2024,Lighting,Table Lamp,897.09,21,18838.89,3.6,5,UK,Urban Ladder
+13/01/2025,Wall Art,Canvas Painting,338.57,14,4739.98,4.6,8,UK,Urban Ladder
+19/07/2024,Storage,Shoe Rack,336.02,42,14112.84,4.5,9,Canada,Urban Ladder
+07/12/2024,Rugs & Carpets,Modern Carpet,1169.84,53,62001.52,3.5,6,Germany,Urban Ladder
+30/03/2024,Storage,Wall-mounted Cabinet,714.41,30,21432.3,4.3,3,UK,Urban Ladder
+28/05/2024,Storage,Bookshelf,216.18,57,12322.26,4.5,10,UK,Williams-Sonoma
+12/05/2024,Rugs & Carpets,Jute Rug,672.13,51,34278.63,4.1,2,Canada,IKEA
+07/03/2024,Lighting,Chandelier,218.44,52,11358.88,3.5,1,India,Williams-Sonoma
+17/02/2024,Wall Art,Framed Photograph,919.86,19,17477.34,4.5,8,India,Wayfair
+03/08/2024,Furniture,Glass Coffee Table,846.03,7,5922.21,3.5,5,UK,Ashley Furniture
+05/08/2024,Lighting,LED Floor Lamp,749.85,30,22495.5,3.8,1,USA,Urban Ladder
+21/04/2024,Storage,Wall-mounted Cabinet,270.09,10,2700.9,4.4,3,India,Wayfair
+19/12/2024,Rugs & Carpets,Jute Rug,967.24,36,34820.64,3.9,7,Germany,IKEA
+03/12/2024,Rugs & Carpets,Persian Rug,584.25,49,28628.25,5,6,Australia,IKEA
+24/04/2024,Rugs & Carpets,Persian Rug,125.82,13,1635.66,4.8,7,Germany,IKEA
+19/07/2024,Wall Art,Metal Wall Sculpture,228.9,18,4120.2,4.3,5,UK,IKEA
+15/11/2024,Wall Art,Metal Wall Sculpture,770.39,60,46223.4,3.7,5,USA,Williams-Sonoma
+18/08/2024,Rugs & Carpets,Jute Rug,652.54,29,18923.66,4.8,10,USA,Ashley Furniture
+07/11/2024,Storage,Wall-mounted Cabinet,127.19,46,5850.74,4,2,Canada,Wayfair
+14/04/2024,Wall Art,Canvas Painting,721.68,42,30310.56,4.9,5,USA,Ashley Furniture
+06/10/2024,Lighting,Table Lamp,927.91,34,31548.94,3.6,6,Australia,Urban Ladder
+18/04/2024,Rugs & Carpets,Jute Rug,813.1,6,4878.6,4.5,2,USA,Urban Ladder
+04/08/2024,Storage,Wall-mounted Cabinet,717.4,52,37304.8,4.1,6,USA,Wayfair
+18/09/2024,Lighting,LED Floor Lamp,455.48,39,17763.72,3.8,3,Australia,Urban Ladder
+24/05/2024,Wall Art,Canvas Painting,849.8,49,41640.2,3.6,10,Australia,Wayfair
+27/06/2024,Storage,Shoe Rack,214.84,39,8378.76,3.5,10,USA,Wayfair
+12/03/2024,Furniture,Recliner Sofa,1051.94,53,55752.82,4.6,6,USA,Ashley Furniture
+11/11/2024,Storage,Wall-mounted Cabinet,624.95,51,31872.45,3.6,1,USA,Williams-Sonoma
+28/05/2024,Storage,Shoe Rack,716.41,45,32238.45,3.7,6,Australia,Urban Ladder
+02/07/2024,Rugs & Carpets,Jute Rug,487.75,19,9267.25,4.2,8,India,Wayfair
+27/09/2024,Wall Art,Metal Wall Sculpture,370.78,6,2224.68,4.1,3,India,IKEA
+30/04/2024,Furniture,Recliner Sofa,131.61,54,7106.94,4.9,6,UK,Williams-Sonoma
+25/02/2024,Rugs & Carpets,Modern Carpet,396.64,59,23401.76,3.9,1,UK,Wayfair
+27/11/2024,Rugs & Carpets,Jute Rug,66.7,50,3335,4.3,6,Canada,Urban Ladder
+01/01/2025,Furniture,Wooden Dining Table,1012.7,12,12152.4,4.1,3,Australia,Wayfair
+24/11/2024,Furniture,Wooden Dining Table,158.83,43,6829.69,3.5,6,Germany,Ashley Furniture
+27/11/2024,Wall Art,Metal Wall Sculpture,962.38,29,27909.02,4.8,1,Germany,Wayfair
+05/01/2025,Wall Art,Canvas Painting,299.41,48,14371.68,4.8,8,UK,Wayfair
+13/11/2024,Wall Art,Metal Wall Sculpture,511.21,44,22493.24,4.1,2,Germany,IKEA
+06/12/2024,Wall Art,Canvas Painting,377.61,31,11705.91,4.7,4,USA,Urban Ladder
+27/07/2024,Storage,Bookshelf,29.48,16,471.68,3.7,9,UK,Ashley Furniture
+10/04/2024,Furniture,Recliner Sofa,1023.07,19,19438.33,4.2,4,Australia,Wayfair
+23/12/2024,Lighting,Table Lamp,328.65,10,3286.5,4,6,Australia,Urban Ladder
+10/08/2024,Furniture,Recliner Sofa,78.89,38,2997.82,3.9,4,Australia,Ashley Furniture
+04/05/2024,Furniture,Wooden Dining Table,70.66,39,2755.74,3.9,9,USA,Urban Ladder
+25/09/2024,Furniture,Glass Coffee Table,783.87,47,36841.89,4.4,9,India,Williams-Sonoma
+19/02/2024,Wall Art,Framed Photograph,168.51,23,3875.73,4.4,2,India,IKEA
+19/05/2024,Storage,Bookshelf,110.19,53,5840.07,4.1,8,Australia,Urban Ladder
+21/03/2024,Rugs & Carpets,Persian Rug,184.39,58,10694.62,4.2,9,USA,IKEA
+04/03/2024,Lighting,LED Floor Lamp,554.71,31,17196.01,4.3,2,USA,Ashley Furniture
+31/10/2024,Lighting,Chandelier,769.24,59,45385.16,3.7,4,Germany,IKEA
+23/01/2025,Wall Art,Framed Photograph,517.49,59,30531.91,3.9,7,Canada,IKEA
+01/02/2025,Furniture,Glass Coffee Table,600.76,3,1802.28,3.6,9,UK,Wayfair
+28/03/2024,Lighting,LED Floor Lamp,1191.3,3,3573.9,4.5,6,India,Williams-Sonoma
+09/01/2025,Furniture,Wooden Dining Table,789.25,44,34727,4.7,7,Canada,Williams-Sonoma
+26/04/2024,Storage,Bookshelf,164.78,48,7909.44,4.5,5,USA,Williams-Sonoma
+11/10/2024,Storage,Shoe Rack,129.78,28,3633.84,4.6,6,Canada,Ashley Furniture
+26/04/2024,Furniture,Wooden Dining Table,439.42,29,12743.18,3.9,8,UK,Williams-Sonoma
+08/03/2024,Lighting,LED Floor Lamp,1021.27,31,31659.37,5,8,Germany,Ashley Furniture
+19/12/2024,Furniture,Recliner Sofa,1134.15,2,2268.3,4.7,2,India,Williams-Sonoma
+26/08/2024,Lighting,LED Floor Lamp,786.32,53,41674.96,3.6,7,Australia,Wayfair
+30/03/2024,Wall Art,Framed Photograph,1006.6,58,58382.8,4,1,UK,Wayfair
+23/09/2024,Wall Art,Canvas Painting,459.93,42,19317.06,3.6,9,UK,Williams-Sonoma
+20/07/2024,Wall Art,Metal Wall Sculpture,1165.27,58,67585.66,4.7,3,India,Urban Ladder
+07/08/2024,Lighting,LED Floor Lamp,399.33,39,15573.87,5,5,India,Urban Ladder
+20/04/2024,Rugs & Carpets,Jute Rug,1034.53,40,41381.2,3.9,4,Canada,Urban Ladder
+04/01/2025,Lighting,Table Lamp,861.17,10,8611.7,4.5,9,Germany,Urban Ladder
+10/03/2024,Furniture,Glass Coffee Table,955.23,27,25791.21,4.7,2,India,Williams-Sonoma
+12/08/2024,Furniture,Wooden Dining Table,709,41,29069,4.2,9,Australia,Wayfair
+14/08/2024,Rugs & Carpets,Jute Rug,808.8,26,21028.8,3.9,10,USA,Ashley Furniture
+03/11/2024,Wall Art,Canvas Painting,126.31,11,1389.41,4.2,5,Canada,Wayfair
+10/05/2024,Furniture,Wooden Dining Table,328.31,35,11490.85,4,3,UK,IKEA
+18/10/2024,Rugs & Carpets,Persian Rug,353.09,28,9886.52,4.5,6,India,IKEA
+06/07/2024,Rugs & Carpets,Persian Rug,218.82,11,2407.02,4.7,10,UK,IKEA
+09/09/2024,Rugs & Carpets,Jute Rug,1107.59,51,56487.09,3.9,4,Canada,Wayfair
+24/03/2024,Furniture,Glass Coffee Table,167.45,52,8707.4,4.8,1,UK,Wayfair
+06/07/2024,Storage,Wall-mounted Cabinet,976.29,16,15620.64,4.3,9,Australia,Wayfair
+06/06/2024,Wall Art,Framed Photograph,830.06,60,49803.6,4.5,2,India,Williams-Sonoma
+20/02/2024,Rugs & Carpets,Jute Rug,900.48,57,51327.36,3.7,6,Germany,IKEA
+25/12/2024,Rugs & Carpets,Jute Rug,769.91,34,26176.94,4.6,8,India,Urban Ladder
+08/12/2024,Rugs & Carpets,Jute Rug,1158.38,20,23167.6,4,3,Australia,Urban Ladder
+21/10/2024,Furniture,Wooden Dining Table,170.04,25,4251,3.8,7,UK,Ashley Furniture
+03/09/2024,Lighting,Table Lamp,1199.01,2,2398.02,3.6,9,Australia,IKEA
+17/02/2024,Lighting,Chandelier,888.22,45,39969.9,3.5,6,UK,IKEA
+03/07/2024,Wall Art,Metal Wall Sculpture,641.29,26,16673.54,4.4,2,USA,IKEA
+25/02/2024,Lighting,Chandelier,430.46,30,12913.8,4.2,8,UK,Ashley Furniture
+10/06/2024,Storage,Shoe Rack,407.89,30,12236.7,4,6,India,IKEA
+16/10/2024,Storage,Wall-mounted Cabinet,705.06,31,21856.86,4.3,1,Germany,Urban Ladder
+05/03/2024,Rugs & Carpets,Modern Carpet,485.15,28,13584.2,3.6,10,Australia,Williams-Sonoma
+29/08/2024,Wall Art,Framed Photograph,660.62,23,15194.26,4.3,6,Australia,Wayfair
+11/07/2024,Lighting,Chandelier,739.3,43,31789.9,4.6,2,USA,Wayfair
+16/07/2024,Rugs & Carpets,Modern Carpet,659.4,33,21760.2,4.5,3,UK,Ashley Furniture
+04/01/2025,Rugs & Carpets,Persian Rug,793.44,21,16662.24,3.5,10,UK,IKEA
+06/05/2024,Storage,Shoe Rack,407.93,54,22028.22,4.5,2,UK,Wayfair
+12/08/2024,Furniture,Recliner Sofa,661.97,43,28464.71,4.5,9,India,Wayfair
+16/12/2024,Wall Art,Metal Wall Sculpture,745.39,32,23852.48,4.1,1,USA,Williams-Sonoma
+04/05/2024,Storage,Shoe Rack,441.54,18,7947.72,3.5,5,UK,Williams-Sonoma
+17/07/2024,Storage,Wall-mounted Cabinet,682.56,35,23889.6,3.8,4,USA,Williams-Sonoma
+28/05/2024,Storage,Wall-mounted Cabinet,16.27,60,976.2,4.3,8,UK,Williams-Sonoma
+29/02/2024,Lighting,LED Floor Lamp,940.66,26,24457.16,4.4,7,Canada,Urban Ladder
+17/05/2024,Furniture,Wooden Dining Table,458.78,50,22939,3.6,8,Australia,Williams-Sonoma
+09/10/2024,Wall Art,Metal Wall Sculpture,1193.58,17,20290.86,4.2,8,UK,Wayfair
+06/08/2024,Rugs & Carpets,Jute Rug,996.73,29,28905.17,4.9,6,Australia,Ashley Furniture
+18/12/2024,Lighting,LED Floor Lamp,635.25,16,10164,3.8,8,Germany,IKEA
+11/11/2024,Furniture,Wooden Dining Table,20.96,31,649.76,3.9,10,Canada,IKEA
+11/06/2024,Lighting,Table Lamp,771.94,21,16210.74,3.9,8,Australia,IKEA
+06/12/2024,Storage,Wall-mounted Cabinet,49.21,23,1131.83,4.7,5,USA,Urban Ladder
+15/10/2024,Furniture,Wooden Dining Table,40.44,24,970.56,3.7,10,Australia,Williams-Sonoma
+12/09/2024,Wall Art,Framed Photograph,1023.52,38,38893.76,3.6,10,Germany,Ashley Furniture
+02/12/2024,Rugs & Carpets,Persian Rug,57.32,59,3381.88,4.4,6,USA,IKEA
+30/08/2024,Lighting,Table Lamp,846.38,16,13542.08,3.5,9,Germany,Ashley Furniture
+26/11/2024,Lighting,Chandelier,912.75,41,37422.75,3.9,8,Canada,Wayfair
+26/11/2024,Wall Art,Framed Photograph,1020.84,14,14291.76,3.5,8,USA,Urban Ladder
+24/04/2024,Furniture,Recliner Sofa,584.7,58,33912.6,4,9,Germany,Ashley Furniture
+18/11/2024,Storage,Bookshelf,519.8,8,4158.4,4.2,4,UK,Ashley Furniture
+04/09/2024,Wall Art,Canvas Painting,575.57,44,25325.08,4.4,2,Germany,Ashley Furniture
+11/04/2024,Lighting,Chandelier,155.17,28,4344.76,4.3,3,Germany,Williams-Sonoma
+24/11/2024,Furniture,Recliner Sofa,618.19,56,34618.64,4.3,10,UK,Williams-Sonoma
+24/07/2024,Lighting,Table Lamp,72.67,34,2470.78,4.8,7,Canada,Wayfair
+13/08/2024,Lighting,Chandelier,330.57,22,7272.54,4.8,7,Canada,Williams-Sonoma
+12/12/2024,Wall Art,Framed Photograph,665.63,25,16640.75,4.4,2,India,Williams-Sonoma
+22/07/2024,Wall Art,Metal Wall Sculpture,423.89,13,5510.57,3.5,10,Germany,Urban Ladder
+26/04/2024,Storage,Wall-mounted Cabinet,1137.4,32,36396.8,4.3,7,Australia,Williams-Sonoma
+17/04/2024,Lighting,Table Lamp,218.05,41,8940.05,4.8,2,India,Williams-Sonoma
+03/03/2024,Lighting,Chandelier,169.92,21,3568.32,4.6,10,Canada,Urban Ladder
+04/11/2024,Storage,Bookshelf,191.78,33,6328.74,5,1,UK,IKEA
+26/07/2024,Furniture,Wooden Dining Table,920.08,52,47844.16,4.5,1,Australia,Williams-Sonoma
+06/09/2024,Wall Art,Canvas Painting,781.63,14,10942.82,4.8,1,Canada,IKEA
+09/07/2024,Storage,Shoe Rack,666.75,44,29337,4.7,8,Australia,IKEA
+30/12/2024,Storage,Wall-mounted Cabinet,527.7,9,4749.3,3.6,3,USA,Williams-Sonoma
+09/02/2024,Lighting,Table Lamp,988.33,40,39533.2,3.7,9,USA,Ashley Furniture
+08/02/2024,Wall Art,Framed Photograph,268.22,22,5900.84,3.8,1,Canada,Wayfair
+25/09/2024,Lighting,Table Lamp,448.98,58,26040.84,3.5,4,USA,IKEA
+26/10/2024,Rugs & Carpets,Modern Carpet,948.3,2,1896.6,3.9,1,Canada,IKEA
+17/04/2024,Rugs & Carpets,Modern Carpet,900.31,22,19806.82,4.2,10,Germany,Wayfair
+26/02/2024,Furniture,Wooden Dining Table,191.45,17,3254.65,4.7,6,Canada,Wayfair
+21/04/2024,Wall Art,Framed Photograph,722.4,20,14448,4.3,9,USA,Wayfair
+30/12/2024,Storage,Shoe Rack,428.66,2,857.32,3.8,3,UK,Williams-Sonoma
+02/11/2024,Lighting,LED Floor Lamp,1129.29,58,65498.82,4.4,4,UK,Williams-Sonoma
+23/01/2025,Storage,Shoe Rack,802.11,21,16844.31,4.2,4,Australia,Ashley Furniture
+01/03/2024,Storage,Shoe Rack,587.97,27,15875.19,4.5,6,USA,Urban Ladder
+08/07/2024,Wall Art,Framed Photograph,146.34,16,2341.44,3.9,1,Canada,Ashley Furniture
+01/07/2024,Lighting,Chandelier,814.59,14,11404.26,3.8,8,UK,IKEA
+21/02/2024,Wall Art,Canvas Painting,757.49,43,32572.07,4.6,4,USA,Urban Ladder
+15/10/2024,Wall Art,Canvas Painting,350.03,29,10150.87,4.3,9,Australia,Ashley Furniture
+10/12/2024,Storage,Shoe Rack,22.77,16,364.32,3.9,4,Canada,IKEA
+02/05/2024,Furniture,Recliner Sofa,281.73,6,1690.38,4.8,1,USA,Urban Ladder
+03/06/2024,Lighting,Table Lamp,925.22,11,10177.42,3.8,1,USA,Williams-Sonoma
+06/02/2025,Lighting,Chandelier,1140.29,13,14823.77,4.9,9,India,Williams-Sonoma
+28/01/2025,Furniture,Wooden Dining Table,958.16,59,56531.44,3.7,8,UK,Urban Ladder
+02/07/2024,Rugs & Carpets,Persian Rug,265.71,50,13285.5,4,5,Australia,IKEA
+09/04/2024,Furniture,Wooden Dining Table,795.83,46,36608.18,4.9,7,Canada,Williams-Sonoma
+05/07/2024,Wall Art,Canvas Painting,523.44,58,30359.52,4.7,5,India,Urban Ladder
+15/01/2025,Lighting,Chandelier,523.51,58,30363.58,4.9,4,Germany,Urban Ladder
+03/08/2024,Storage,Wall-mounted Cabinet,711.14,6,4266.84,4.8,5,Canada,Wayfair
+01/02/2025,Storage,Shoe Rack,570.28,55,31365.4,4.5,9,Germany,Wayfair
+16/07/2024,Lighting,Chandelier,52.35,1,52.35,3.8,7,India,Williams-Sonoma
+25/07/2024,Rugs & Carpets,Modern Carpet,536.65,5,2683.25,4.6,4,India,Urban Ladder
+14/06/2024,Wall Art,Canvas Painting,602.27,6,3613.62,4.9,7,UK,Urban Ladder
+31/07/2024,Lighting,LED Floor Lamp,403.46,40,16138.4,4.6,9,USA,Urban Ladder
+07/07/2024,Rugs & Carpets,Modern Carpet,920.97,53,48811.41,4.9,8,UK,Williams-Sonoma
+03/05/2024,Wall Art,Canvas Painting,90.06,1,90.06,3.9,8,Australia,Urban Ladder
+16/04/2024,Storage,Bookshelf,152.53,54,8236.62,4.8,6,USA,Urban Ladder
+12/08/2024,Storage,Shoe Rack,270.35,37,10002.95,4.3,3,Germany,Urban Ladder
+18/06/2024,Lighting,Chandelier,892.11,11,9813.21,4.6,10,USA,Wayfair
+16/01/2025,Wall Art,Canvas Painting,316.44,39,12341.16,3.8,6,Canada,Urban Ladder
+05/11/2024,Lighting,Chandelier,1090.74,21,22905.54,4.7,8,Australia,Wayfair
+25/11/2024,Rugs & Carpets,Jute Rug,87.14,12,1045.68,4.5,2,India,Urban Ladder
+21/12/2024,Storage,Shoe Rack,741.84,23,17062.32,4.9,4,Canada,Ashley Furniture
+22/02/2024,Wall Art,Framed Photograph,968.72,6,5812.32,3.9,5,UK,Williams-Sonoma
+31/07/2024,Wall Art,Framed Photograph,916.41,16,14662.56,4.6,6,UK,IKEA
+18/07/2024,Lighting,Table Lamp,538.49,53,28539.97,4,3,Canada,Urban Ladder
+20/06/2024,Storage,Bookshelf,711.12,38,27022.56,4.8,9,USA,IKEA
+09/01/2025,Wall Art,Metal Wall Sculpture,804.19,44,35384.36,4.1,10,Canada,IKEA
+15/02/2024,Lighting,LED Floor Lamp,871.56,3,2614.68,3.9,4,Canada,Ashley Furniture
+07/10/2024,Furniture,Recliner Sofa,578.92,46,26630.32,4.6,3,UK,Wayfair
+12/12/2024,Furniture,Wooden Dining Table,217.87,50,10893.5,4.2,2,UK,Williams-Sonoma
+02/10/2024,Lighting,Table Lamp,423.71,36,15253.56,4.8,5,India,Ashley Furniture
+03/12/2024,Rugs & Carpets,Persian Rug,385.79,35,13502.65,4,3,Canada,Wayfair
+10/01/2025,Furniture,Glass Coffee Table,1123.16,36,40433.76,3.9,7,Canada,Ashley Furniture
+30/07/2024,Storage,Shoe Rack,296.4,2,592.8,3.6,4,USA,Wayfair
+15/05/2024,Rugs & Carpets,Jute Rug,884.59,19,16807.21,4,5,Canada,Ashley Furniture
+14/01/2025,Wall Art,Canvas Painting,526.7,6,3160.2,3.7,2,Canada,Ashley Furniture
+25/12/2024,Storage,Wall-mounted Cabinet,1191.88,24,28605.12,3.7,5,USA,Wayfair
+07/10/2024,Wall Art,Metal Wall Sculpture,103.03,57,5872.71,4.5,2,USA,Urban Ladder
+29/09/2024,Rugs & Carpets,Modern Carpet,37.6,28,1052.8,3.7,6,USA,Urban Ladder
+27/10/2024,Rugs & Carpets,Persian Rug,360.06,32,11521.92,4.6,8,India,Wayfair
+30/07/2024,Rugs & Carpets,Modern Carpet,476.87,51,24320.37,4.2,2,UK,IKEA
+07/05/2024,Furniture,Glass Coffee Table,356.35,28,9977.8,4.4,9,Canada,Williams-Sonoma
+19/12/2024,Storage,Wall-mounted Cabinet,897.8,31,27831.8,4.2,5,USA,Wayfair
+25/01/2025,Furniture,Wooden Dining Table,1180.86,30,35425.8,4,2,Germany,Urban Ladder
+03/06/2024,Wall Art,Metal Wall Sculpture,67.71,39,2640.69,4.7,4,USA,IKEA
+18/12/2024,Lighting,Table Lamp,282.3,53,14961.9,4,5,Australia,IKEA
+28/07/2024,Furniture,Glass Coffee Table,978.46,36,35224.56,3.8,8,UK,Ashley Furniture
+30/10/2024,Storage,Bookshelf,773.97,42,32506.74,3.9,7,India,Williams-Sonoma
+11/12/2024,Wall Art,Canvas Painting,311.26,55,17119.3,4.5,5,Germany,Urban Ladder
+09/01/2025,Rugs & Carpets,Jute Rug,354.46,13,4607.98,4.9,6,Canada,Williams-Sonoma
+26/11/2024,Rugs & Carpets,Jute Rug,236.86,31,7342.66,4.2,7,UK,Williams-Sonoma
+27/12/2024,Rugs & Carpets,Jute Rug,208.76,41,8559.16,4,4,UK,Williams-Sonoma
+05/03/2024,Lighting,Chandelier,163.42,28,4575.76,4.7,2,India,Ashley Furniture
+01/09/2024,Rugs & Carpets,Persian Rug,890.83,22,19598.26,4.7,2,Germany,Williams-Sonoma
+08/05/2024,Storage,Shoe Rack,1121.93,36,40389.48,3.8,6,India,Ashley Furniture
+19/01/2025,Furniture,Recliner Sofa,480.42,48,23060.16,4.9,1,Canada,Urban Ladder
+10/10/2024,Rugs & Carpets,Modern Carpet,635.36,36,22872.96,3.5,3,India,Ashley Furniture
+10/07/2024,Lighting,Table Lamp,814.77,1,814.77,4.6,6,India,Urban Ladder
+20/11/2024,Storage,Shoe Rack,820.86,32,26267.52,3.6,5,India,IKEA
+05/08/2024,Wall Art,Metal Wall Sculpture,932.57,24,22381.68,4.6,1,Germany,Urban Ladder
+21/04/2024,Rugs & Carpets,Jute Rug,865.66,26,22507.16,3.8,1,USA,Ashley Furniture
+09/04/2024,Storage,Shoe Rack,830.28,38,31550.64,3.7,7,India,IKEA
+28/12/2024,Rugs & Carpets,Jute Rug,29.79,60,1787.4,4.9,9,India,Urban Ladder
+18/11/2024,Wall Art,Metal Wall Sculpture,1078.58,21,22650.18,3.5,10,Germany,Williams-Sonoma
+27/05/2024,Rugs & Carpets,Modern Carpet,635.01,35,22225.35,4.8,5,Canada,IKEA
+11/10/2024,Storage,Bookshelf,1193.1,1,1193.1,4.6,7,USA,Ashley Furniture
+05/06/2024,Rugs & Carpets,Modern Carpet,850.45,10,8504.5,4.8,6,USA,Williams-Sonoma
+22/05/2024,Rugs & Carpets,Jute Rug,607.7,44,26738.8,4,1,Canada,Urban Ladder
+31/01/2025,Wall Art,Metal Wall Sculpture,1159.93,35,40597.55,4.8,10,Australia,Urban Ladder
+26/09/2024,Lighting,LED Floor Lamp,766.55,19,14564.45,4.1,3,India,Ashley Furniture
+08/03/2024,Furniture,Wooden Dining Table,254.99,47,11984.53,3.5,3,Australia,IKEA
+07/02/2025,Lighting,LED Floor Lamp,421.78,4,1687.12,4.4,4,Germany,Urban Ladder
+13/09/2024,Storage,Shoe Rack,352.63,8,2821.04,3.6,2,Germany,Ashley Furniture
+16/02/2024,Lighting,Table Lamp,271.07,33,8945.31,4.3,8,Germany,Wayfair
+03/06/2024,Storage,Shoe Rack,302.9,8,2423.2,4.6,2,Germany,Urban Ladder
+23/01/2025,Furniture,Glass Coffee Table,444.52,33,14669.16,4.7,6,Canada,Ashley Furniture
+26/03/2024,Furniture,Wooden Dining Table,176.07,51,8979.57,4.4,7,UK,IKEA
+10/06/2024,Rugs & Carpets,Persian Rug,579.97,33,19139.01,3.8,3,UK,IKEA
+01/08/2024,Rugs & Carpets,Modern Carpet,340.99,21,7160.79,3.8,5,USA,Ashley Furniture
+29/11/2024,Wall Art,Metal Wall Sculpture,1069.37,38,40636.06,3.9,3,UK,Urban Ladder
+13/07/2024,Furniture,Recliner Sofa,1120.46,32,35854.72,3.9,7,UK,Urban Ladder
+09/03/2024,Furniture,Glass Coffee Table,1024.18,28,28677.04,3.5,7,UK,Williams-Sonoma
+23/05/2024,Furniture,Glass Coffee Table,807.99,19,15351.81,4.3,9,USA,IKEA
+09/10/2024,Storage,Shoe Rack,646.5,35,22627.5,4.9,2,Germany,Wayfair
+13/11/2024,Furniture,Recliner Sofa,520.33,40,20813.2,3.8,1,USA,IKEA
+26/06/2024,Rugs & Carpets,Jute Rug,138.97,32,4447.04,3.6,1,Australia,Ashley Furniture
+07/09/2024,Furniture,Recliner Sofa,389.07,43,16730.01,4.8,6,Canada,Wayfair
+26/12/2024,Lighting,Table Lamp,880.19,30,26405.7,3.6,2,USA,IKEA
+24/07/2024,Rugs & Carpets,Persian Rug,892.26,27,24091.02,4,2,Germany,Urban Ladder
+18/09/2024,Furniture,Glass Coffee Table,944.18,43,40599.74,4.9,9,Canada,Williams-Sonoma
+30/01/2025,Rugs & Carpets,Modern Carpet,229.22,40,9168.8,4.5,9,India,Williams-Sonoma
+14/11/2024,Furniture,Glass Coffee Table,853.56,31,26460.36,4.9,8,UK,Williams-Sonoma
+03/08/2024,Furniture,Glass Coffee Table,656.08,19,12465.52,4,3,Germany,IKEA
+27/12/2024,Wall Art,Framed Photograph,662.36,7,4636.52,3.9,3,USA,Williams-Sonoma
+03/12/2024,Storage,Wall-mounted Cabinet,678.18,26,17632.68,4.1,3,Australia,Williams-Sonoma
+08/04/2024,Furniture,Wooden Dining Table,343.7,50,17185,3.9,1,India,Wayfair
+29/08/2024,Rugs & Carpets,Modern Carpet,417.08,50,20854,3.6,3,USA,Urban Ladder
+21/03/2024,Rugs & Carpets,Modern Carpet,866.27,55,47644.85,4,10,USA,Williams-Sonoma
+04/12/2024,Lighting,Table Lamp,888.28,10,8882.8,4.1,8,Germany,Urban Ladder
+06/01/2025,Lighting,Chandelier,379.69,29,11011.01,4.1,1,India,Williams-Sonoma
+14/06/2024,Lighting,LED Floor Lamp,1088.75,28,30485,4.6,6,India,Wayfair
+31/05/2024,Wall Art,Framed Photograph,378.51,14,5299.14,4.6,8,Germany,Williams-Sonoma
+12/07/2024,Rugs & Carpets,Jute Rug,734.37,41,30109.17,3.6,8,Australia,Williams-Sonoma
+25/07/2024,Lighting,LED Floor Lamp,96.36,51,4914.36,3.8,10,Canada,IKEA
+06/05/2024,Wall Art,Metal Wall Sculpture,158.39,43,6810.77,4.8,9,UK,Urban Ladder
+20/02/2024,Rugs & Carpets,Persian Rug,20.23,1,20.23,4,6,Australia,Williams-Sonoma
+29/09/2024,Rugs & Carpets,Jute Rug,245.23,11,2697.53,4.1,3,Australia,IKEA
+08/08/2024,Storage,Wall-mounted Cabinet,54.13,44,2381.72,4.6,2,Germany,Williams-Sonoma
+22/02/2024,Lighting,Table Lamp,1136.12,16,18177.92,4.5,9,Australia,Urban Ladder
+12/11/2024,Wall Art,Canvas Painting,939.49,45,42277.05,4.5,8,USA,Urban Ladder
+17/12/2024,Furniture,Wooden Dining Table,1157.08,22,25455.76,4,9,Germany,Williams-Sonoma
+24/09/2024,Wall Art,Framed Photograph,50.75,56,2842,3.9,2,Australia,IKEA
+08/01/2025,Rugs & Carpets,Modern Carpet,620.97,7,4346.79,4.4,8,India,Ashley Furniture
+08/01/2025,Furniture,Wooden Dining Table,273.33,18,4919.94,5,2,USA,IKEA
+10/01/2025,Wall Art,Metal Wall Sculpture,880.64,17,14970.88,4.8,10,UK,IKEA
+25/03/2024,Storage,Bookshelf,816.6,51,41646.6,4.1,4,Canada,IKEA
+07/04/2024,Rugs & Carpets,Modern Carpet,708.92,49,34737.08,3.7,9,Australia,IKEA
+21/10/2024,Furniture,Recliner Sofa,461.93,47,21710.71,4.5,8,Canada,Urban Ladder
+03/01/2025,Storage,Wall-mounted Cabinet,513.65,10,5136.5,4.5,9,Canada,Wayfair
+22/02/2024,Storage,Bookshelf,1072.29,32,34313.28,3.5,8,USA,Ashley Furniture
+09/07/2024,Wall Art,Metal Wall Sculpture,87.8,31,2721.8,4.2,4,Canada,Urban Ladder
+03/03/2024,Wall Art,Canvas Painting,1189.4,53,63038.2,4.9,10,USA,IKEA
+05/06/2024,Furniture,Recliner Sofa,982.43,30,29472.9,3.6,3,Canada,IKEA
+07/02/2025,Rugs & Carpets,Persian Rug,845.67,22,18604.74,4.2,8,Australia,Urban Ladder
+08/08/2024,Rugs & Carpets,Modern Carpet,665.52,22,14641.44,4.9,1,Germany,Williams-Sonoma
+20/12/2024,Wall Art,Metal Wall Sculpture,453.46,57,25847.22,3.9,7,UK,Urban Ladder
+22/11/2024,Storage,Wall-mounted Cabinet,831.35,13,10807.55,4.2,3,UK,Ashley Furniture
+23/10/2024,Rugs & Carpets,Jute Rug,347.74,14,4868.36,4.9,8,USA,Urban Ladder
+01/06/2024,Storage,Bookshelf,614.27,8,4914.16,4.2,5,Germany,Ashley Furniture
+27/11/2024,Lighting,Chandelier,1042.99,45,46934.55,4.4,3,Canada,Williams-Sonoma
+28/10/2024,Lighting,Chandelier,42.58,13,553.54,4.8,7,USA,Ashley Furniture
+02/02/2025,Lighting,LED Floor Lamp,73.89,51,3768.39,4.1,5,Canada,Williams-Sonoma
+17/10/2024,Furniture,Glass Coffee Table,1195.58,7,8369.06,4.8,8,India,IKEA
+18/02/2024,Furniture,Glass Coffee Table,328.33,38,12476.54,4,10,Canada,IKEA
+27/08/2024,Wall Art,Framed Photograph,663.23,43,28518.89,3.9,8,Germany,Williams-Sonoma
+29/11/2024,Rugs & Carpets,Modern Carpet,793.98,56,44462.88,3.8,3,USA,IKEA
+07/05/2024,Wall Art,Canvas Painting,818.34,17,13911.78,4.6,6,India,Wayfair
+06/08/2024,Rugs & Carpets,Persian Rug,412.22,19,7832.18,4.4,4,USA,Wayfair
+06/07/2024,Furniture,Recliner Sofa,876.65,37,32436.05,3.5,6,Australia,IKEA
+02/11/2024,Wall Art,Framed Photograph,283.67,18,5106.06,5,1,Germany,Williams-Sonoma
+08/10/2024,Wall Art,Metal Wall Sculpture,870.83,40,34833.2,4.5,4,UK,Wayfair

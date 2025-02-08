@@ -1,0 +1,1001 @@
+Date,Product Category,Product Name,Price (USD),Units Sold,Revenue (USD),Customer Rating,Sustainability Score,Region,Competitor Name
+13/09/2024,Fashion,Silk Scarf,418.45,35,14645.75,4.6,4,Germany,Wayfair
+17/05/2024,Wellness,Aromatherapy Diffuser,1169.73,23,26903.79,5,10,USA,IKEA
+02/12/2024,Wellness,Smart Water Bottle,983.4,19,18684.6,3.7,6,Canada,Wayfair
+17/11/2024,Gadgets,Smartwatch,569.9,60,34194,4.9,10,Canada,Wayfair
+04/08/2024,Accessories,Backpack,615.9,60,36954,3.9,1,USA,Williams-Sonoma
+03/07/2024,Fashion,Running Shoes,215.09,11,2365.99,4.8,4,Australia,IKEA
+09/06/2024,Gadgets,Portable Projector,371.11,32,11875.52,3.8,2,Germany,IKEA
+25/08/2024,Fashion,Running Shoes,822.09,4,3288.36,4,7,UK,IKEA
+23/11/2024,Gadgets,Smartwatch,599.74,59,35384.66,3.6,1,Canada,Urban Ladder
+04/01/2025,Wellness,Yoga Mat,929.83,35,32544.05,4.8,6,Germany,Ashley Furniture
+28/08/2024,Personal Care,Organic Skincare Set,967.65,10,9676.5,4.3,1,Germany,Wayfair
+10/02/2024,Personal Care,Beard Grooming Kit,242.55,56,13582.8,4.9,3,Australia,Williams-Sonoma
+31/12/2024,Personal Care,Beard Grooming Kit,1144.59,30,34337.7,4.5,5,Australia,Ashley Furniture
+16/09/2024,Accessories,Sunglasses,983.36,23,22617.28,3.9,3,India,Urban Ladder
+28/03/2024,Accessories,Sunglasses,817.61,7,5723.27,3.7,2,Germany,Williams-Sonoma
+17/06/2024,Fashion,Silk Scarf,86.92,9,782.28,4,5,India,Urban Ladder
+05/02/2025,Gadgets,Portable Projector,508.79,60,30527.4,4.8,5,USA,Ashley Furniture
+22/03/2024,Personal Care,Electric Toothbrush,911.42,38,34633.96,3.9,7,USA,Wayfair
+15/03/2024,Fashion,Running Shoes,359.74,53,19066.22,4,9,Australia,Williams-Sonoma
+07/10/2024,Wellness,Yoga Mat,280.73,31,8702.63,5,1,Canada,Urban Ladder
+06/04/2024,Wellness,Smart Water Bottle,617.71,53,32738.63,4,1,Australia,Urban Ladder
+16/12/2024,Wellness,Aromatherapy Diffuser,253.42,34,8616.28,4.3,3,UK,IKEA
+12/08/2024,Personal Care,Electric Toothbrush,354.03,53,18763.59,4.7,1,Germany,Urban Ladder
+23/10/2024,Fashion,Silk Scarf,1158.95,17,19702.15,4.4,1,Germany,Urban Ladder
+26/07/2024,Personal Care,Beard Grooming Kit,415.79,5,2078.95,4.9,7,Germany,Williams-Sonoma
+19/07/2024,Gadgets,Portable Projector,134.7,8,1077.6,4.5,2,Australia,Williams-Sonoma
+17/06/2024,Gadgets,Smartwatch,890.85,23,20489.55,4.7,2,Germany,Urban Ladder
+13/09/2024,Wellness,Smart Water Bottle,227.25,60,13635,3.7,7,Australia,Ashley Furniture
+27/10/2024,Wellness,Smart Water Bottle,1002.31,53,53122.43,4.3,3,Canada,IKEA
+18/08/2024,Fashion,Silk Scarf,992.81,52,51626.12,4.6,1,Canada,IKEA
+25/09/2024,Accessories,Sunglasses,1184.02,2,2368.04,3.6,9,UK,Ashley Furniture
+27/01/2025,Fashion,Leather Jacket,458.89,34,15602.26,3.9,2,Australia,Ashley Furniture
+27/05/2024,Personal Care,Organic Skincare Set,111.32,37,4118.84,3.9,10,UK,Ashley Furniture
+14/11/2024,Gadgets,Noise Cancelling Headphones,142.58,11,1568.38,4.8,1,Germany,IKEA
+26/06/2024,Fashion,Silk Scarf,115.56,10,1155.6,4.8,9,Germany,Williams-Sonoma
+29/08/2024,Wellness,Smart Water Bottle,139.52,42,5859.84,4.7,7,Germany,Williams-Sonoma
+27/04/2024,Personal Care,Electric Toothbrush,917.26,15,13758.9,3.7,1,Australia,Wayfair
+14/07/2024,Gadgets,Smartwatch,152.76,6,916.56,4.3,7,Canada,Ashley Furniture
+18/08/2024,Personal Care,Beard Grooming Kit,603.98,42,25367.16,4,7,Germany,Wayfair
+06/10/2024,Personal Care,Beard Grooming Kit,1047.72,53,55529.16,4.9,6,India,Williams-Sonoma
+10/10/2024,Personal Care,Beard Grooming Kit,309.42,9,2784.78,4.1,1,USA,Williams-Sonoma
+16/08/2024,Personal Care,Beard Grooming Kit,1090.11,19,20712.09,5,5,Australia,Urban Ladder
+02/12/2024,Personal Care,Organic Skincare Set,572.91,5,2864.55,4.6,8,Germany,IKEA
+04/08/2024,Personal Care,Organic Skincare Set,732.55,44,32232.2,3.7,8,UK,Wayfair
+18/11/2024,Accessories,Luxury Handbag,1118.77,44,49225.88,4.8,10,USA,Wayfair
+09/07/2024,Accessories,Sunglasses,1012.41,1,1012.41,4.6,1,Germany,Williams-Sonoma
+09/08/2024,Personal Care,Electric Toothbrush,105.31,36,3791.16,4.5,4,Canada,IKEA
+05/12/2024,Accessories,Luxury Handbag,820.91,16,13134.56,4.8,10,Canada,IKEA
+11/08/2024,Wellness,Yoga Mat,726.32,45,32684.4,3.7,10,USA,Ashley Furniture
+24/12/2024,Accessories,Sunglasses,507.9,44,22347.6,3.7,7,USA,Ashley Furniture
+20/09/2024,Personal Care,Organic Skincare Set,928.01,26,24128.26,3.8,5,Canada,Williams-Sonoma
+25/08/2024,Accessories,Luxury Handbag,649.15,59,38299.85,4.6,5,UK,IKEA
+12/07/2024,Accessories,Backpack,1142.12,9,10279.08,4.6,2,Australia,Ashley Furniture
+15/04/2024,Wellness,Smart Water Bottle,775.94,22,17070.68,3.6,10,Australia,Urban Ladder
+13/12/2024,Personal Care,Organic Skincare Set,392.2,3,1176.6,4.6,1,UK,IKEA
+15/06/2024,Accessories,Sunglasses,778.9,34,26482.6,4.7,1,USA,Ashley Furniture
+10/03/2024,Fashion,Running Shoes,803.25,46,36949.5,4.8,9,UK,Urban Ladder
+30/01/2025,Fashion,Running Shoes,109.12,58,6328.96,4.4,3,Australia,Urban Ladder
+31/01/2025,Fashion,Leather Jacket,1099.62,56,61578.72,4.1,3,India,Ashley Furniture
+27/08/2024,Accessories,Backpack,957.06,52,49767.12,4.9,8,UK,Urban Ladder
+22/03/2024,Personal Care,Electric Toothbrush,537.96,9,4841.64,4.3,8,Germany,Williams-Sonoma
+08/05/2024,Fashion,Leather Jacket,1193.86,58,69243.88,4.3,1,India,Wayfair
+28/04/2024,Fashion,Silk Scarf,900.91,47,42342.77,4.5,1,USA,Ashley Furniture
+29/01/2025,Wellness,Smart Water Bottle,584.9,17,9943.3,4.6,8,Australia,Ashley Furniture
+23/12/2024,Personal Care,Organic Skincare Set,484.22,43,20821.46,4.9,10,Canada,Williams-Sonoma
+18/08/2024,Personal Care,Organic Skincare Set,190.02,39,7410.78,3.9,6,UK,IKEA
+04/09/2024,Fashion,Running Shoes,800.14,4,3200.56,4.8,4,Australia,IKEA
+22/12/2024,Wellness,Aromatherapy Diffuser,850.18,33,28055.94,3.9,4,Canada,Urban Ladder
+03/06/2024,Accessories,Luxury Handbag,135.43,46,6229.78,4.7,10,India,Urban Ladder
+02/07/2024,Accessories,Luxury Handbag,1006.37,1,1006.37,4.5,10,India,Urban Ladder
+09/10/2024,Personal Care,Organic Skincare Set,115.54,2,231.08,3.9,6,USA,Ashley Furniture
+19/01/2025,Accessories,Backpack,334.28,57,19053.96,3.8,6,India,IKEA
+17/02/2024,Fashion,Running Shoes,1133.28,51,57797.28,4.9,7,USA,Williams-Sonoma
+06/10/2024,Fashion,Silk Scarf,557.18,58,32316.44,4.5,4,UK,Williams-Sonoma
+10/04/2024,Gadgets,Noise Cancelling Headphones,523.5,34,17799,4.2,7,Australia,Urban Ladder
+10/04/2024,Fashion,Silk Scarf,241.33,18,4343.94,4.9,5,UK,Urban Ladder
+14/01/2025,Gadgets,Smartwatch,269.82,13,3507.66,4.3,8,Australia,Ashley Furniture
+17/08/2024,Personal Care,Electric Toothbrush,113.1,5,565.5,5,9,UK,Ashley Furniture
+11/08/2024,Wellness,Smart Water Bottle,1099.21,7,7694.47,3.9,8,UK,Williams-Sonoma
+09/08/2024,Personal Care,Electric Toothbrush,130.24,31,4037.44,5,8,India,Ashley Furniture
+23/01/2025,Accessories,Sunglasses,425.78,27,11496.06,4.7,4,USA,Ashley Furniture
+13/05/2024,Wellness,Aromatherapy Diffuser,391.71,37,14493.27,3.8,9,Australia,Urban Ladder
+14/05/2024,Personal Care,Electric Toothbrush,35.32,25,883,3.6,10,Australia,Urban Ladder
+11/04/2024,Accessories,Luxury Handbag,593.99,31,18413.69,4.7,2,UK,IKEA
+19/03/2024,Gadgets,Portable Projector,585.99,9,5273.91,4.1,9,UK,Ashley Furniture
+14/08/2024,Wellness,Aromatherapy Diffuser,207.56,28,5811.68,4.1,9,UK,Wayfair
+23/07/2024,Wellness,Smart Water Bottle,510.39,51,26029.89,3.5,2,Germany,Ashley Furniture
+01/11/2024,Gadgets,Smartwatch,164.02,6,984.12,4.4,10,India,IKEA
+15/06/2024,Personal Care,Organic Skincare Set,1065.27,25,26631.75,4.7,10,UK,Urban Ladder
+24/10/2024,Wellness,Aromatherapy Diffuser,1158.9,30,34767,4.5,5,Germany,Wayfair
+09/10/2024,Wellness,Smart Water Bottle,812.23,60,48733.8,4.8,1,USA,Ashley Furniture
+26/08/2024,Accessories,Luxury Handbag,1190.76,13,15479.88,5,1,USA,Urban Ladder
+22/10/2024,Personal Care,Organic Skincare Set,308.15,2,616.3,3.7,7,USA,Williams-Sonoma
+29/03/2024,Gadgets,Portable Projector,694.87,40,27794.8,3.9,10,UK,Urban Ladder
+14/12/2024,Gadgets,Portable Projector,349.97,39,13648.83,4.8,4,UK,Wayfair
+28/03/2024,Gadgets,Smartwatch,779.27,34,26495.18,4.7,3,Australia,Urban Ladder
+28/05/2024,Accessories,Sunglasses,222.37,60,13342.2,4.2,9,Australia,Urban Ladder
+03/06/2024,Gadgets,Noise Cancelling Headphones,1078.97,27,29132.19,3.8,2,Canada,Wayfair
+12/03/2024,Accessories,Backpack,766.23,43,32947.89,3.9,10,Australia,Wayfair
+21/07/2024,Accessories,Luxury Handbag,242.17,9,2179.53,4.3,5,USA,Urban Ladder
+29/06/2024,Fashion,Running Shoes,736.91,49,36108.59,4,5,Canada,Wayfair
+06/07/2024,Fashion,Leather Jacket,1185.89,54,64038.06,3.8,3,India,IKEA
+06/12/2024,Accessories,Sunglasses,569.91,60,34194.6,3.7,4,USA,Urban Ladder
+18/12/2024,Gadgets,Noise Cancelling Headphones,921.12,43,39608.16,4.7,4,Australia,Williams-Sonoma
+06/12/2024,Accessories,Luxury Handbag,626.79,36,22564.44,4.9,2,Australia,Wayfair
+21/07/2024,Accessories,Sunglasses,1114.78,15,16721.7,4.6,2,Canada,Wayfair
+09/12/2024,Wellness,Yoga Mat,911.23,22,20047.06,4.5,8,Australia,Williams-Sonoma
+11/12/2024,Gadgets,Portable Projector,157.52,55,8663.6,3.7,8,Canada,IKEA
+15/08/2024,Personal Care,Beard Grooming Kit,606.78,44,26698.32,4.3,2,Germany,IKEA
+20/02/2024,Wellness,Smart Water Bottle,1191.1,58,69083.8,4.9,9,Australia,IKEA
+03/02/2025,Wellness,Yoga Mat,442.13,13,5747.69,4.1,9,Australia,IKEA
+23/09/2024,Personal Care,Electric Toothbrush,487.72,53,25849.16,4.1,9,UK,IKEA
+24/07/2024,Gadgets,Portable Projector,498.59,12,5983.08,4.1,2,Australia,Ashley Furniture
+13/09/2024,Personal Care,Beard Grooming Kit,1016.97,36,36610.92,4.4,7,Germany,IKEA
+25/06/2024,Personal Care,Electric Toothbrush,1156.84,23,26607.32,4.3,3,Germany,Williams-Sonoma
+22/08/2024,Gadgets,Noise Cancelling Headphones,640.18,13,8322.34,3.6,3,Germany,IKEA
+23/01/2025,Accessories,Sunglasses,131.66,24,3159.84,3.5,10,Canada,Wayfair
+17/06/2024,Personal Care,Organic Skincare Set,23.44,49,1148.56,3.8,3,India,Urban Ladder
+09/09/2024,Wellness,Smart Water Bottle,1035.16,50,51758,4.9,6,Canada,IKEA
+08/02/2024,Gadgets,Smartwatch,522.7,31,16203.7,4,2,UK,Williams-Sonoma
+10/02/2024,Fashion,Leather Jacket,1141.45,60,68487,3.5,1,Canada,Wayfair
+29/04/2024,Wellness,Smart Water Bottle,757.58,51,38636.58,3.7,7,Canada,Williams-Sonoma
+10/11/2024,Accessories,Luxury Handbag,626.5,20,12530,4.8,4,Australia,Williams-Sonoma
+16/02/2024,Personal Care,Organic Skincare Set,47.76,49,2340.24,4.9,2,India,Urban Ladder
+27/06/2024,Accessories,Luxury Handbag,49.86,48,2393.28,3.8,2,Germany,Ashley Furniture
+27/06/2024,Personal Care,Electric Toothbrush,892.18,41,36579.38,4.3,5,India,Williams-Sonoma
+25/01/2025,Wellness,Smart Water Bottle,213.85,43,9195.55,3.6,3,USA,Wayfair
+17/11/2024,Fashion,Silk Scarf,993.31,50,49665.5,4.3,7,Canada,Ashley Furniture
+21/06/2024,Personal Care,Electric Toothbrush,1064.09,47,50012.23,4.6,2,USA,Williams-Sonoma
+30/04/2024,Personal Care,Organic Skincare Set,1104.89,56,61873.84,3.9,7,Canada,Urban Ladder
+26/05/2024,Fashion,Silk Scarf,207.14,36,7457.04,4.3,5,Australia,Ashley Furniture
+21/05/2024,Fashion,Silk Scarf,722.59,60,43355.4,4,6,Australia,Ashley Furniture
+11/05/2024,Fashion,Leather Jacket,868.98,47,40842.06,4.1,1,UK,Urban Ladder
+18/09/2024,Accessories,Backpack,174.47,55,9595.85,4.4,5,UK,IKEA
+05/05/2024,Gadgets,Portable Projector,1068.28,23,24570.44,5,8,India,Urban Ladder
+21/03/2024,Fashion,Silk Scarf,1068.97,45,48103.65,4.7,3,India,IKEA
+05/09/2024,Personal Care,Beard Grooming Kit,577.95,2,1155.9,4.5,9,Canada,Williams-Sonoma
+23/03/2024,Wellness,Yoga Mat,724.84,27,19570.68,3.8,9,Canada,IKEA
+15/09/2024,Wellness,Yoga Mat,1147.55,16,18360.8,4.8,7,USA,Ashley Furniture
+18/04/2024,Accessories,Sunglasses,448.32,28,12552.96,3.9,9,India,Williams-Sonoma
+05/03/2024,Gadgets,Smartwatch,395.98,17,6731.66,4.3,8,Australia,IKEA
+15/08/2024,Gadgets,Noise Cancelling Headphones,124.12,26,3227.12,4.8,7,Canada,Ashley Furniture
+13/11/2024,Gadgets,Smartwatch,451.1,43,19397.3,4.1,8,USA,Williams-Sonoma
+20/09/2024,Accessories,Luxury Handbag,344.41,14,4821.74,4.2,2,Germany,Wayfair
+02/09/2024,Wellness,Smart Water Bottle,537.6,29,15590.4,4.2,10,UK,Ashley Furniture
+06/07/2024,Accessories,Luxury Handbag,1053.95,28,29510.6,3.9,5,UK,Ashley Furniture
+05/06/2024,Accessories,Backpack,358.67,54,19368.18,4,10,USA,Wayfair
+27/06/2024,Personal Care,Beard Grooming Kit,349.11,47,16408.17,3.7,9,Australia,Urban Ladder
+02/08/2024,Accessories,Backpack,598.59,54,32323.86,3.5,1,USA,Wayfair
+06/04/2024,Accessories,Backpack,285.04,36,10261.44,4.2,1,Germany,Ashley Furniture
+15/01/2025,Fashion,Silk Scarf,783.64,5,3918.2,4.5,1,Germany,Wayfair
+13/11/2024,Wellness,Aromatherapy Diffuser,526.23,60,31573.8,5,6,Canada,Urban Ladder
+01/10/2024,Gadgets,Noise Cancelling Headphones,984.21,7,6889.47,3.7,3,Canada,Urban Ladder
+12/12/2024,Fashion,Silk Scarf,793.5,44,34914,4.4,3,Canada,Wayfair
+01/07/2024,Fashion,Running Shoes,560.45,50,28022.5,4.9,2,Canada,Urban Ladder
+20/09/2024,Wellness,Aromatherapy Diffuser,372.23,60,22333.8,4.6,4,UK,Williams-Sonoma
+05/11/2024,Fashion,Leather Jacket,434.82,1,434.82,4.1,9,Canada,Williams-Sonoma
+15/12/2024,Accessories,Sunglasses,231.29,16,3700.64,4.6,2,India,Urban Ladder
+19/10/2024,Personal Care,Organic Skincare Set,718.97,12,8627.64,4.6,7,USA,Williams-Sonoma
+10/05/2024,Wellness,Yoga Mat,227.11,60,13626.6,3.7,10,Germany,Ashley Furniture
+13/05/2024,Gadgets,Noise Cancelling Headphones,558.99,45,25154.55,3.9,4,UK,Williams-Sonoma
+05/11/2024,Accessories,Luxury Handbag,241.9,3,725.7,4,7,Canada,Wayfair
+09/05/2024,Gadgets,Smartwatch,322.95,53,17116.35,5,9,Australia,Wayfair
+04/12/2024,Fashion,Silk Scarf,463.5,19,8806.5,4.2,2,USA,IKEA
+15/07/2024,Gadgets,Noise Cancelling Headphones,625.36,27,16884.72,4.3,9,UK,Williams-Sonoma
+18/04/2024,Personal Care,Electric Toothbrush,85.7,48,4113.6,5,10,Germany,Williams-Sonoma
+01/07/2024,Personal Care,Beard Grooming Kit,189.41,40,7576.4,4.2,4,UK,Urban Ladder
+31/05/2024,Wellness,Yoga Mat,525.73,31,16297.63,4.1,5,UK,Wayfair
+15/10/2024,Accessories,Sunglasses,878.76,21,18453.96,3.7,9,USA,Wayfair
+22/08/2024,Fashion,Silk Scarf,693.27,19,13172.13,4.4,6,India,Ashley Furniture
+05/01/2025,Fashion,Silk Scarf,712.61,45,32067.45,5,3,Australia,Williams-Sonoma
+08/05/2024,Personal Care,Electric Toothbrush,627.21,38,23833.98,4.3,4,India,Ashley Furniture
+02/10/2024,Personal Care,Beard Grooming Kit,109.71,19,2084.49,4.7,1,USA,Urban Ladder
+16/01/2025,Accessories,Sunglasses,815.88,52,42425.76,4.5,1,UK,Ashley Furniture
+23/05/2024,Wellness,Yoga Mat,570.37,44,25096.28,4.4,5,Germany,Wayfair
+23/03/2024,Personal Care,Electric Toothbrush,1006.49,28,28181.72,3.8,4,India,Urban Ladder
+04/03/2024,Gadgets,Portable Projector,1002.03,41,41083.23,3.9,8,Canada,Urban Ladder
+11/11/2024,Wellness,Yoga Mat,338.42,48,16244.16,3.7,9,Canada,Wayfair
+07/03/2024,Accessories,Luxury Handbag,581.04,13,7553.52,3.8,7,USA,Ashley Furniture
+25/09/2024,Accessories,Sunglasses,356.88,32,11420.16,4.3,7,Australia,IKEA
+25/05/2024,Fashion,Silk Scarf,581.15,30,17434.5,4.9,8,UK,Wayfair
+09/04/2024,Gadgets,Noise Cancelling Headphones,270.3,44,11893.2,4.8,9,India,IKEA
+15/05/2024,Personal Care,Electric Toothbrush,807.51,33,26647.83,4.2,9,Canada,IKEA
+06/02/2025,Accessories,Sunglasses,257.11,39,10027.29,4.1,4,USA,IKEA
+30/10/2024,Gadgets,Smartwatch,506.78,31,15710.18,4.2,4,Germany,Williams-Sonoma
+13/03/2024,Fashion,Running Shoes,294.27,17,5002.59,4.2,10,Australia,Wayfair
+13/08/2024,Personal Care,Beard Grooming Kit,184.65,11,2031.15,4.9,5,UK,Ashley Furniture
+04/10/2024,Personal Care,Organic Skincare Set,848.43,60,50905.8,4.7,2,India,Urban Ladder
+20/03/2024,Fashion,Running Shoes,978.9,54,52860.6,4.5,9,Canada,Williams-Sonoma
+19/01/2025,Personal Care,Organic Skincare Set,869.38,11,9563.18,3.8,4,USA,Urban Ladder
+04/03/2024,Personal Care,Electric Toothbrush,1130.98,10,11309.8,4.2,9,USA,Williams-Sonoma
+12/01/2025,Wellness,Smart Water Bottle,154.53,58,8962.74,3.7,1,UK,Ashley Furniture
+17/02/2024,Accessories,Luxury Handbag,430.75,15,6461.25,4.9,6,Germany,Ashley Furniture
+09/04/2024,Wellness,Smart Water Bottle,1140.54,58,66151.32,3.5,5,Canada,IKEA
+24/05/2024,Personal Care,Organic Skincare Set,219.69,10,2196.9,4.6,9,UK,Williams-Sonoma
+30/04/2024,Wellness,Yoga Mat,385.79,38,14660.02,4.6,1,UK,Urban Ladder
+16/12/2024,Gadgets,Smartwatch,670.51,6,4023.06,3.8,9,USA,Wayfair
+02/10/2024,Wellness,Aromatherapy Diffuser,742.64,29,21536.56,3.5,1,Germany,IKEA
+10/07/2024,Gadgets,Portable Projector,248.29,7,1738.03,3.7,6,USA,Williams-Sonoma
+14/03/2024,Wellness,Aromatherapy Diffuser,964.32,27,26036.64,3.7,2,India,Urban Ladder
+30/11/2024,Gadgets,Portable Projector,457.79,42,19227.18,4.8,1,India,Urban Ladder
+23/11/2024,Accessories,Luxury Handbag,899.13,37,33267.81,4.8,9,India,Ashley Furniture
+14/09/2024,Gadgets,Smartwatch,668.16,59,39421.44,4.9,1,India,Wayfair
+17/02/2024,Fashion,Silk Scarf,314.34,21,6601.14,3.8,6,USA,Urban Ladder
+21/02/2024,Accessories,Sunglasses,856.2,27,23117.4,4.8,8,India,Williams-Sonoma
+30/04/2024,Fashion,Leather Jacket,768.23,27,20742.21,4.5,3,USA,Ashley Furniture
+24/05/2024,Wellness,Aromatherapy Diffuser,267.43,52,13906.36,4.2,1,India,Ashley Furniture
+08/06/2024,Personal Care,Organic Skincare Set,408.72,29,11852.88,5,6,Canada,Urban Ladder
+04/11/2024,Fashion,Leather Jacket,157.7,17,2680.9,4,5,USA,Ashley Furniture
+26/11/2024,Personal Care,Beard Grooming Kit,118.15,34,4017.1,3.5,1,Germany,Williams-Sonoma
+14/03/2024,Wellness,Smart Water Bottle,1197.69,46,55093.74,4.1,5,UK,Ashley Furniture
+25/01/2025,Gadgets,Portable Projector,1024.92,9,9224.28,4.9,6,Australia,Ashley Furniture
+28/11/2024,Gadgets,Portable Projector,394.52,54,21304.08,4.2,10,Germany,Williams-Sonoma
+24/03/2024,Accessories,Sunglasses,443.74,32,14199.68,4.5,2,Canada,Ashley Furniture
+16/08/2024,Wellness,Yoga Mat,345.52,13,4491.76,4.2,7,USA,Wayfair
+17/06/2024,Wellness,Yoga Mat,399.82,48,19191.36,3.9,8,Australia,Urban Ladder
+02/05/2024,Accessories,Luxury Handbag,557.24,1,557.24,3.5,2,Australia,Urban Ladder
+03/03/2024,Wellness,Aromatherapy Diffuser,1108.98,44,48795.12,4.4,6,Canada,Williams-Sonoma
+09/04/2024,Accessories,Sunglasses,867.43,60,52045.8,3.5,10,Canada,IKEA
+09/06/2024,Gadgets,Smartwatch,720.24,16,11523.84,3.8,5,Canada,Ashley Furniture
+13/03/2024,Fashion,Leather Jacket,68.36,14,957.04,4.6,6,India,Wayfair
+14/10/2024,Fashion,Running Shoes,235.11,53,12460.83,4.5,7,Germany,Urban Ladder
+04/02/2025,Fashion,Silk Scarf,912.49,9,8212.41,3.9,10,India,Ashley Furniture
+12/11/2024,Wellness,Smart Water Bottle,397.82,46,18299.72,4.7,10,UK,Wayfair
+04/06/2024,Wellness,Aromatherapy Diffuser,879.13,8,7033.04,4,4,Australia,IKEA
+25/10/2024,Fashion,Running Shoes,393.68,50,19684,4.5,10,India,IKEA
+01/05/2024,Wellness,Aromatherapy Diffuser,1067.71,24,25625.04,4.4,6,Australia,Urban Ladder
+15/11/2024,Fashion,Silk Scarf,590.29,8,4722.32,4.1,3,UK,Williams-Sonoma
+28/04/2024,Wellness,Aromatherapy Diffuser,750.45,52,39023.4,3.6,5,USA,Urban Ladder
+07/12/2024,Fashion,Silk Scarf,1088.37,59,64213.83,3.8,4,India,Wayfair
+07/01/2025,Wellness,Yoga Mat,951.8,50,47590,4.7,8,Canada,Ashley Furniture
+24/02/2024,Gadgets,Smartwatch,751.2,24,18028.8,4,9,UK,Wayfair
+14/04/2024,Personal Care,Electric Toothbrush,893.8,29,25920.2,4.4,4,Australia,Wayfair
+06/10/2024,Personal Care,Organic Skincare Set,730.01,46,33580.46,4.7,5,Australia,IKEA
+24/04/2024,Gadgets,Smartwatch,559.01,10,5590.1,4.1,3,Australia,Williams-Sonoma
+24/01/2025,Fashion,Silk Scarf,861.51,21,18091.71,4.9,6,USA,Wayfair
+31/08/2024,Fashion,Running Shoes,58.45,33,1928.85,4.6,7,Canada,Urban Ladder
+14/06/2024,Gadgets,Portable Projector,807.45,23,18571.35,3.7,5,UK,Williams-Sonoma
+03/01/2025,Personal Care,Electric Toothbrush,586.17,60,35170.2,3.8,1,UK,Ashley Furniture
+01/11/2024,Wellness,Aromatherapy Diffuser,507.63,9,4568.67,3.9,9,UK,Wayfair
+04/11/2024,Personal Care,Organic Skincare Set,167.35,19,3179.65,4.2,8,Australia,Ashley Furniture
+12/01/2025,Accessories,Backpack,1027.06,54,55461.24,4.1,2,Germany,Wayfair
+14/12/2024,Gadgets,Noise Cancelling Headphones,585.77,11,6443.47,4.4,5,Germany,IKEA
+29/05/2024,Wellness,Aromatherapy Diffuser,538.75,43,23166.25,4.6,1,Germany,IKEA
+29/10/2024,Wellness,Yoga Mat,1110.55,36,39979.8,4,1,India,Williams-Sonoma
+17/01/2025,Fashion,Leather Jacket,795,21,16695,3.5,9,Canada,Urban Ladder
+17/10/2024,Gadgets,Noise Cancelling Headphones,412.03,49,20189.47,4.9,1,India,Urban Ladder
+28/05/2024,Wellness,Yoga Mat,1140.92,9,10268.28,3.6,10,UK,Urban Ladder
+14/12/2024,Fashion,Silk Scarf,965.37,14,13515.18,3.7,5,Australia,IKEA
+22/05/2024,Wellness,Yoga Mat,73.84,39,2879.76,4.5,6,India,Ashley Furniture
+29/06/2024,Accessories,Backpack,134.37,28,3762.36,4.4,4,Australia,IKEA
+01/08/2024,Gadgets,Portable Projector,966,26,25116,4.2,4,Canada,Ashley Furniture
+05/02/2025,Accessories,Luxury Handbag,588.92,42,24734.64,3.6,2,UK,Ashley Furniture
+21/12/2024,Gadgets,Portable Projector,386.01,47,18142.47,4.9,6,USA,Urban Ladder
+14/06/2024,Personal Care,Beard Grooming Kit,680.32,46,31294.72,4.8,1,UK,Williams-Sonoma
+07/11/2024,Wellness,Aromatherapy Diffuser,1111.71,35,38909.85,3.7,10,Germany,Ashley Furniture
+07/07/2024,Accessories,Sunglasses,335.84,30,10075.2,3.9,5,UK,Urban Ladder
+15/09/2024,Wellness,Smart Water Bottle,613.54,15,9203.1,4.1,6,USA,Williams-Sonoma
+06/11/2024,Personal Care,Electric Toothbrush,766.47,23,17628.81,4.2,10,Germany,IKEA
+24/01/2025,Accessories,Backpack,713.01,44,31372.44,4.9,1,Germany,Wayfair
+23/12/2024,Wellness,Yoga Mat,348.42,18,6271.56,3.9,9,UK,Williams-Sonoma
+14/10/2024,Gadgets,Portable Projector,321.24,12,3854.88,3.6,10,Australia,IKEA
+11/01/2025,Gadgets,Portable Projector,782.79,28,21918.12,4.2,7,UK,Wayfair
+08/03/2024,Accessories,Luxury Handbag,192.47,15,2887.05,4.1,4,Australia,Ashley Furniture
+03/11/2024,Gadgets,Noise Cancelling Headphones,437.95,13,5693.35,4.4,5,Canada,Urban Ladder
+08/09/2024,Personal Care,Beard Grooming Kit,569.55,46,26199.3,3.6,2,India,IKEA
+20/03/2024,Wellness,Aromatherapy Diffuser,784.03,58,45473.74,4.1,8,Canada,IKEA
+04/07/2024,Personal Care,Electric Toothbrush,416.19,4,1664.76,3.7,1,Australia,Ashley Furniture
+06/12/2024,Accessories,Sunglasses,478,51,24378,4.3,6,Canada,IKEA
+29/08/2024,Gadgets,Smartwatch,283.72,34,9646.48,4.6,8,USA,Wayfair
+10/08/2024,Personal Care,Beard Grooming Kit,838.77,7,5871.39,5,6,Australia,Ashley Furniture
+10/08/2024,Wellness,Smart Water Bottle,138.85,18,2499.3,4.3,7,UK,Williams-Sonoma
+06/04/2024,Wellness,Aromatherapy Diffuser,794.89,43,34180.27,5,9,Germany,Urban Ladder
+31/01/2025,Personal Care,Organic Skincare Set,840.96,34,28592.64,3.9,9,Germany,Urban Ladder
+09/04/2024,Personal Care,Organic Skincare Set,689.33,36,24815.88,3.6,6,Germany,Urban Ladder
+21/08/2024,Personal Care,Organic Skincare Set,477.48,8,3819.84,4.2,10,Canada,Wayfair
+20/08/2024,Accessories,Backpack,886.67,2,1773.34,3.9,4,UK,Urban Ladder
+04/07/2024,Personal Care,Organic Skincare Set,1055.31,9,9497.79,4,10,USA,IKEA
+30/11/2024,Fashion,Running Shoes,759.53,23,17469.19,4.4,9,USA,Williams-Sonoma
+20/04/2024,Wellness,Yoga Mat,842.75,46,38766.5,5,4,UK,Urban Ladder
+29/08/2024,Wellness,Yoga Mat,931.45,49,45641.05,4.9,1,India,Wayfair
+18/06/2024,Fashion,Leather Jacket,1006.85,43,43294.55,4.6,3,UK,Williams-Sonoma
+14/09/2024,Wellness,Aromatherapy Diffuser,160.33,9,1442.97,4.5,7,Australia,Wayfair
+18/12/2024,Personal Care,Organic Skincare Set,447.21,11,4919.31,3.8,2,USA,Urban Ladder
+31/05/2024,Wellness,Smart Water Bottle,1157.4,16,18518.4,4.7,5,Australia,Wayfair
+25/09/2024,Personal Care,Organic Skincare Set,988.79,24,23730.96,4.3,2,USA,Wayfair
+30/05/2024,Wellness,Yoga Mat,60.71,35,2124.85,4,4,Canada,Wayfair
+21/01/2025,Fashion,Running Shoes,585.62,34,19911.08,3.9,1,UK,Williams-Sonoma
+15/05/2024,Fashion,Silk Scarf,505.68,6,3034.08,4.1,8,India,Ashley Furniture
+18/11/2024,Gadgets,Portable Projector,990.6,38,37642.8,4.2,7,India,IKEA
+30/12/2024,Personal Care,Electric Toothbrush,634.89,43,27300.27,4,5,USA,Williams-Sonoma
+13/04/2024,Wellness,Aromatherapy Diffuser,921.49,28,25801.72,3.9,9,Canada,Williams-Sonoma
+28/02/2024,Gadgets,Noise Cancelling Headphones,827.32,23,19028.36,4.5,8,UK,Williams-Sonoma
+01/10/2024,Fashion,Running Shoes,230.61,41,9455.01,3.7,9,Australia,Williams-Sonoma
+19/07/2024,Gadgets,Smartwatch,1019.89,35,35696.15,4.3,9,Germany,Wayfair
+18/04/2024,Fashion,Leather Jacket,919.13,40,36765.2,3.9,6,India,Ashley Furniture
+15/10/2024,Personal Care,Beard Grooming Kit,1078.06,33,35575.98,3.6,4,USA,Ashley Furniture
+20/07/2024,Fashion,Running Shoes,455.98,13,5927.74,3.8,8,Germany,Wayfair
+07/09/2024,Gadgets,Portable Projector,832.96,33,27487.68,5,7,Australia,Urban Ladder
+01/06/2024,Gadgets,Portable Projector,801.58,11,8817.38,3.9,5,USA,IKEA
+27/08/2024,Accessories,Luxury Handbag,464.51,54,25083.54,4,10,UK,Ashley Furniture
+24/07/2024,Fashion,Running Shoes,699.67,34,23788.78,3.6,4,USA,Urban Ladder
+04/11/2024,Fashion,Silk Scarf,1130.72,40,45228.8,4.9,10,UK,Ashley Furniture
+07/06/2024,Fashion,Running Shoes,1049.04,23,24127.92,4.9,8,USA,IKEA
+09/09/2024,Personal Care,Organic Skincare Set,703.77,40,28150.8,4.7,3,Australia,Ashley Furniture
+05/06/2024,Accessories,Luxury Handbag,438.17,21,9201.57,3.9,9,USA,Wayfair
+18/09/2024,Wellness,Aromatherapy Diffuser,1149.52,4,4598.08,3.5,1,Australia,IKEA
+15/10/2024,Gadgets,Noise Cancelling Headphones,737.36,13,9585.68,5,10,UK,Ashley Furniture
+20/01/2025,Wellness,Yoga Mat,56.09,40,2243.6,4.7,3,Germany,Ashley Furniture
+13/01/2025,Gadgets,Portable Projector,635.7,50,31785,3.6,8,USA,Williams-Sonoma
+03/01/2025,Personal Care,Electric Toothbrush,116.28,45,5232.6,4.3,6,India,IKEA
+09/06/2024,Wellness,Aromatherapy Diffuser,642.97,13,8358.61,4.9,1,USA,Wayfair
+17/12/2024,Gadgets,Portable Projector,707.02,3,2121.06,4.1,10,India,IKEA
+21/11/2024,Personal Care,Beard Grooming Kit,1100.39,5,5501.95,5,1,India,Williams-Sonoma
+08/04/2024,Gadgets,Noise Cancelling Headphones,79.42,52,4129.84,4,3,USA,Williams-Sonoma
+11/07/2024,Accessories,Luxury Handbag,187.74,34,6383.16,3.9,5,USA,Urban Ladder
+16/12/2024,Wellness,Aromatherapy Diffuser,295.6,25,7390,4.3,1,India,Ashley Furniture
+12/04/2024,Accessories,Luxury Handbag,470.48,52,24464.96,3.6,9,Germany,Williams-Sonoma
+01/03/2024,Accessories,Sunglasses,488.58,41,20031.78,3.9,8,USA,Urban Ladder
+07/08/2024,Personal Care,Organic Skincare Set,1067.94,34,36309.96,3.8,10,UK,IKEA
+08/11/2024,Wellness,Smart Water Bottle,576.98,40,23079.2,4.1,1,Australia,Williams-Sonoma
+04/12/2024,Accessories,Sunglasses,1016.49,22,22362.78,4.9,9,UK,Wayfair
+11/07/2024,Personal Care,Electric Toothbrush,292.6,40,11704,3.6,10,Canada,IKEA
+04/06/2024,Wellness,Yoga Mat,552.85,29,16032.65,4.2,6,Australia,IKEA
+28/02/2024,Personal Care,Organic Skincare Set,256.65,50,12832.5,4,10,Germany,Urban Ladder
+06/10/2024,Wellness,Aromatherapy Diffuser,1147.89,5,5739.45,3.5,9,UK,Williams-Sonoma
+31/03/2024,Gadgets,Portable Projector,236.22,22,5196.84,4.5,7,India,Wayfair
+21/12/2024,Personal Care,Electric Toothbrush,343.96,13,4471.48,4,5,India,Williams-Sonoma
+16/12/2024,Accessories,Sunglasses,982.51,46,45195.46,4.1,2,Germany,Wayfair
+05/03/2024,Wellness,Yoga Mat,1048.21,25,26205.25,3.8,7,UK,Williams-Sonoma
+30/01/2025,Wellness,Yoga Mat,50.28,35,1759.8,3.6,6,Australia,Williams-Sonoma
+23/03/2024,Accessories,Sunglasses,1037.78,54,56040.12,4.6,9,Australia,IKEA
+19/12/2024,Fashion,Running Shoes,785.26,17,13349.42,3.6,2,USA,Wayfair
+20/12/2024,Accessories,Backpack,178.06,47,8368.82,5,8,Australia,Ashley Furniture
+23/05/2024,Accessories,Luxury Handbag,648.09,17,11017.53,4.3,8,Germany,IKEA
+06/01/2025,Fashion,Silk Scarf,1059.2,20,21184,4.6,9,India,IKEA
+28/09/2024,Gadgets,Noise Cancelling Headphones,272.45,19,5176.55,4,7,Canada,IKEA
+25/05/2024,Wellness,Smart Water Bottle,686.5,1,686.5,4.5,9,UK,Wayfair
+31/08/2024,Wellness,Aromatherapy Diffuser,48.53,50,2426.5,4.7,6,UK,Williams-Sonoma
+26/08/2024,Personal Care,Beard Grooming Kit,867.56,29,25159.24,4.5,8,USA,IKEA
+24/01/2025,Personal Care,Organic Skincare Set,989.45,4,3957.8,3.9,7,USA,Urban Ladder
+29/04/2024,Gadgets,Noise Cancelling Headphones,1147.97,13,14923.61,4.9,8,India,IKEA
+10/01/2025,Gadgets,Portable Projector,1023.71,17,17403.07,4.4,1,Germany,Ashley Furniture
+18/07/2024,Wellness,Smart Water Bottle,178.76,20,3575.2,3.7,8,India,Urban Ladder
+20/08/2024,Wellness,Smart Water Bottle,226.03,45,10171.35,4.9,4,USA,IKEA
+04/03/2024,Gadgets,Noise Cancelling Headphones,1102.22,32,35271.04,4.8,8,Canada,Williams-Sonoma
+14/08/2024,Accessories,Sunglasses,100.6,16,1609.6,4,3,USA,Ashley Furniture
+27/06/2024,Wellness,Aromatherapy Diffuser,146.15,8,1169.2,3.6,5,Germany,IKEA
+28/01/2025,Wellness,Aromatherapy Diffuser,821.32,43,35316.76,3.6,6,Germany,Ashley Furniture
+03/08/2024,Fashion,Leather Jacket,476.71,56,26695.76,3.5,7,Canada,Urban Ladder
+20/09/2024,Wellness,Yoga Mat,470.73,35,16475.55,3.7,9,India,Ashley Furniture
+25/12/2024,Gadgets,Smartwatch,840.86,13,10931.18,4.5,2,USA,IKEA
+22/10/2024,Fashion,Silk Scarf,695.71,55,38264.05,4.6,7,Germany,IKEA
+31/07/2024,Personal Care,Beard Grooming Kit,579.5,2,1159,4.6,4,USA,IKEA
+30/05/2024,Personal Care,Beard Grooming Kit,824.78,59,48662.02,4.2,3,UK,Ashley Furniture
+12/04/2024,Wellness,Smart Water Bottle,1027.94,47,48313.18,3.6,2,Germany,Ashley Furniture
+08/02/2024,Wellness,Aromatherapy Diffuser,1124.65,38,42736.7,4.7,8,Canada,Urban Ladder
+11/02/2024,Wellness,Smart Water Bottle,299.21,45,13464.45,5,3,UK,IKEA
+11/08/2024,Gadgets,Smartwatch,512.06,20,10241.2,4.8,9,India,Williams-Sonoma
+04/02/2025,Personal Care,Beard Grooming Kit,883.24,9,7949.16,5,7,Canada,Ashley Furniture
+03/10/2024,Personal Care,Beard Grooming Kit,677.3,54,36574.2,3.7,5,India,Urban Ladder
+18/11/2024,Wellness,Aromatherapy Diffuser,442.01,52,22984.52,4.4,4,Australia,Ashley Furniture
+25/08/2024,Fashion,Running Shoes,40.6,26,1055.6,3.9,3,USA,IKEA
+09/07/2024,Gadgets,Noise Cancelling Headphones,756.99,4,3027.96,3.9,3,Germany,Ashley Furniture
+21/01/2025,Gadgets,Noise Cancelling Headphones,169.14,17,2875.38,3.9,2,India,Urban Ladder
+23/08/2024,Personal Care,Organic Skincare Set,929.72,48,44626.56,4.5,10,UK,Williams-Sonoma
+29/12/2024,Personal Care,Organic Skincare Set,490.77,55,26992.35,4.6,4,India,Ashley Furniture
+29/03/2024,Accessories,Backpack,206.02,11,2266.22,3.6,7,Canada,Ashley Furniture
+04/07/2024,Accessories,Sunglasses,253.88,50,12694,4.4,8,Germany,Urban Ladder
+20/07/2024,Fashion,Silk Scarf,963.95,42,40485.9,4.1,6,UK,Ashley Furniture
+24/11/2024,Gadgets,Smartwatch,343.73,45,15467.85,4.7,9,UK,IKEA
+06/01/2025,Accessories,Sunglasses,890.96,29,25837.84,3.9,2,USA,Urban Ladder
+12/12/2024,Fashion,Running Shoes,606.54,13,7885.02,4,4,USA,Wayfair
+12/10/2024,Accessories,Luxury Handbag,897.27,35,31404.45,4.1,1,UK,Wayfair
+05/08/2024,Gadgets,Noise Cancelling Headphones,556.3,8,4450.4,3.7,7,UK,Wayfair
+28/11/2024,Wellness,Yoga Mat,1004.67,23,23107.41,4.2,1,USA,Williams-Sonoma
+16/08/2024,Gadgets,Noise Cancelling Headphones,358.21,23,8238.83,3.8,5,USA,IKEA
+22/02/2024,Fashion,Running Shoes,886.98,41,36366.18,4,5,Germany,IKEA
+13/10/2024,Accessories,Luxury Handbag,458.21,13,5956.73,4.4,1,Australia,Urban Ladder
+23/04/2024,Accessories,Luxury Handbag,681.92,6,4091.52,4.1,5,India,Ashley Furniture
+06/03/2024,Wellness,Smart Water Bottle,1184.88,7,8294.16,3.6,5,Germany,Wayfair
+27/04/2024,Personal Care,Organic Skincare Set,503.35,46,23154.1,4.2,5,UK,Ashley Furniture
+01/09/2024,Fashion,Running Shoes,494.94,43,21282.42,3.5,1,Canada,IKEA
+22/07/2024,Gadgets,Noise Cancelling Headphones,377.98,42,15875.16,4.5,9,Canada,Wayfair
+12/12/2024,Gadgets,Noise Cancelling Headphones,1018.89,29,29547.81,4.4,2,UK,Wayfair
+01/06/2024,Gadgets,Smartwatch,1033.18,58,59924.44,4.3,2,Canada,Wayfair
+30/07/2024,Fashion,Leather Jacket,30.97,59,1827.23,4.6,9,India,Wayfair
+05/03/2024,Accessories,Backpack,170.74,42,7171.08,4.4,4,USA,Ashley Furniture
+06/02/2025,Fashion,Silk Scarf,242.04,36,8713.44,5,8,Australia,IKEA
+29/06/2024,Gadgets,Noise Cancelling Headphones,1069.09,1,1069.09,4.2,7,USA,Williams-Sonoma
+26/11/2024,Accessories,Sunglasses,564.56,56,31615.36,3.8,5,Canada,Urban Ladder
+14/02/2024,Personal Care,Beard Grooming Kit,764.2,21,16048.2,4.2,4,UK,Williams-Sonoma
+06/08/2024,Gadgets,Smartwatch,806.61,33,26618.13,4.4,5,Canada,Wayfair
+28/08/2024,Fashion,Running Shoes,178.49,6,1070.94,3.8,3,USA,IKEA
+20/01/2025,Fashion,Leather Jacket,593.74,37,21968.38,4.4,4,UK,Ashley Furniture
+22/10/2024,Wellness,Aromatherapy Diffuser,514.89,44,22655.16,3.7,5,Australia,Ashley Furniture
+18/09/2024,Gadgets,Portable Projector,348.23,2,696.46,4.8,5,Canada,IKEA
+04/07/2024,Wellness,Yoga Mat,63.82,7,446.74,3.6,4,Canada,Williams-Sonoma
+10/05/2024,Wellness,Yoga Mat,498.57,16,7977.12,4.3,9,USA,Ashley Furniture
+13/04/2024,Wellness,Smart Water Bottle,165.7,18,2982.6,3.9,2,Canada,Williams-Sonoma
+17/05/2024,Gadgets,Noise Cancelling Headphones,212.62,3,637.86,4.5,2,India,Wayfair
+16/05/2024,Wellness,Aromatherapy Diffuser,735.02,11,8085.22,4.5,2,Australia,Wayfair
+09/02/2024,Personal Care,Organic Skincare Set,533.74,53,28288.22,4.4,3,Germany,IKEA
+09/06/2024,Personal Care,Electric Toothbrush,112.05,48,5378.4,3.8,10,Canada,Wayfair
+11/02/2024,Wellness,Smart Water Bottle,1050.87,5,5254.35,3.7,8,USA,Urban Ladder
+23/01/2025,Wellness,Yoga Mat,376.64,13,4896.32,4.4,9,India,Williams-Sonoma
+23/03/2024,Gadgets,Smartwatch,406.34,56,22755.04,4.4,6,Germany,Ashley Furniture
+04/08/2024,Wellness,Aromatherapy Diffuser,1065.79,38,40500.02,4.2,9,India,IKEA
+14/11/2024,Wellness,Aromatherapy Diffuser,570.45,50,28522.5,4.1,6,Australia,Wayfair
+02/02/2025,Accessories,Sunglasses,396.29,9,3566.61,4.4,8,UK,Williams-Sonoma
+01/03/2024,Wellness,Yoga Mat,744.72,53,39470.16,3.9,4,UK,Ashley Furniture
+27/01/2025,Accessories,Luxury Handbag,409.65,44,18024.6,4.6,6,Canada,Ashley Furniture
+03/02/2025,Personal Care,Electric Toothbrush,602.99,15,9044.85,4.8,2,Germany,Ashley Furniture
+26/02/2024,Fashion,Running Shoes,768.89,11,8457.79,3.7,5,Australia,Williams-Sonoma
+12/10/2024,Gadgets,Portable Projector,1040.55,5,5202.75,4,8,Germany,Urban Ladder
+22/08/2024,Accessories,Sunglasses,739.77,40,29590.8,3.7,3,Australia,Wayfair
+09/12/2024,Wellness,Smart Water Bottle,878.34,53,46552.02,4,10,UK,Urban Ladder
+14/07/2024,Personal Care,Organic Skincare Set,1182.24,3,3546.72,4,9,USA,Urban Ladder
+28/03/2024,Fashion,Running Shoes,942.76,29,27340.04,4.1,6,UK,Urban Ladder
+28/03/2024,Personal Care,Beard Grooming Kit,316.11,15,4741.65,4.5,8,Australia,Ashley Furniture
+11/08/2024,Personal Care,Beard Grooming Kit,788.92,42,33134.64,4.4,8,USA,Ashley Furniture
+28/05/2024,Gadgets,Portable Projector,153.22,23,3524.06,3.7,7,Canada,Wayfair
+13/04/2024,Wellness,Aromatherapy Diffuser,810.02,21,17010.42,4.1,9,USA,Urban Ladder
+05/05/2024,Fashion,Leather Jacket,792.73,13,10305.49,4.9,7,Australia,Williams-Sonoma
+03/02/2025,Fashion,Running Shoes,996.13,30,29883.9,4.4,6,USA,Ashley Furniture
+29/05/2024,Wellness,Yoga Mat,297.55,27,8033.85,4.7,6,Australia,Urban Ladder
+25/04/2024,Fashion,Silk Scarf,205.96,52,10709.92,3.6,8,Canada,Williams-Sonoma
+20/05/2024,Wellness,Aromatherapy Diffuser,336.51,56,18844.56,4.2,10,India,Wayfair
+04/10/2024,Wellness,Yoga Mat,837.88,9,7540.92,4.1,8,USA,Urban Ladder
+15/09/2024,Personal Care,Organic Skincare Set,849.57,19,16141.83,4.9,9,Australia,Urban Ladder
+04/07/2024,Personal Care,Electric Toothbrush,582.99,8,4663.92,4.5,7,Canada,Urban Ladder
+11/11/2024,Wellness,Yoga Mat,1126.18,49,55182.82,3.8,7,USA,Ashley Furniture
+11/07/2024,Wellness,Smart Water Bottle,913.19,20,18263.8,3.9,4,Canada,Ashley Furniture
+23/12/2024,Personal Care,Beard Grooming Kit,277.53,20,5550.6,5,1,Australia,Urban Ladder
+12/05/2024,Gadgets,Smartwatch,432.03,36,15553.08,3.6,10,Canada,Williams-Sonoma
+16/04/2024,Accessories,Backpack,385.55,29,11180.95,3.8,8,Australia,IKEA
+17/06/2024,Fashion,Leather Jacket,191.04,46,8787.84,4.2,2,Germany,Wayfair
+09/12/2024,Fashion,Leather Jacket,333.35,36,12000.6,4.8,10,Germany,Urban Ladder
+06/07/2024,Accessories,Backpack,666.73,53,35336.69,3.7,3,USA,IKEA
+18/07/2024,Gadgets,Smartwatch,298.36,27,8055.72,3.7,9,UK,Urban Ladder
+08/11/2024,Accessories,Luxury Handbag,100.73,45,4532.85,4,10,USA,Ashley Furniture
+31/01/2025,Fashion,Running Shoes,426.88,41,17502.08,4.5,5,USA,Ashley Furniture
+12/09/2024,Fashion,Leather Jacket,904.39,27,24418.53,3.8,10,Germany,Ashley Furniture
+17/10/2024,Personal Care,Organic Skincare Set,949.27,6,5695.62,4.4,5,Germany,Williams-Sonoma
+03/09/2024,Fashion,Running Shoes,218.3,53,11569.9,3.9,8,USA,Ashley Furniture
+09/06/2024,Fashion,Running Shoes,1054.05,51,53756.55,5,10,Germany,Urban Ladder
+17/10/2024,Accessories,Luxury Handbag,195.85,41,8029.85,5,9,Canada,Williams-Sonoma
+29/08/2024,Accessories,Luxury Handbag,695.19,55,38235.45,4.2,6,Australia,Ashley Furniture
+19/06/2024,Wellness,Yoga Mat,148.17,2,296.34,4,2,Germany,Urban Ladder
+12/04/2024,Fashion,Running Shoes,964.82,12,11577.84,3.6,2,Canada,Wayfair
+17/06/2024,Personal Care,Organic Skincare Set,48.07,21,1009.47,3.7,6,UK,Wayfair
+30/12/2024,Fashion,Running Shoes,25.87,16,413.92,4.1,1,Germany,Urban Ladder
+23/07/2024,Wellness,Yoga Mat,36.22,29,1050.38,4.6,9,USA,Williams-Sonoma
+09/10/2024,Gadgets,Smartwatch,218.12,31,6761.72,3.7,5,Germany,Wayfair
+02/10/2024,Wellness,Smart Water Bottle,403.27,20,8065.4,3.9,6,Canada,Ashley Furniture
+10/10/2024,Personal Care,Beard Grooming Kit,78.71,5,393.55,5,3,India,IKEA
+04/03/2024,Fashion,Running Shoes,983.65,58,57051.7,4.6,6,USA,Urban Ladder
+03/03/2024,Gadgets,Portable Projector,670.42,28,18771.76,4.1,5,Canada,IKEA
+14/03/2024,Fashion,Running Shoes,108.78,44,4786.32,3.9,2,Australia,Wayfair
+23/09/2024,Gadgets,Smartwatch,802.98,21,16862.58,4.3,2,USA,Wayfair
+01/11/2024,Personal Care,Beard Grooming Kit,853.15,14,11944.1,4.5,5,Germany,Wayfair
+02/08/2024,Accessories,Backpack,1146.71,11,12613.81,4.5,9,Germany,Williams-Sonoma
+12/07/2024,Accessories,Backpack,662.63,42,27830.46,3.9,5,Canada,Ashley Furniture
+17/10/2024,Personal Care,Electric Toothbrush,376.94,19,7161.86,4.2,8,USA,Urban Ladder
+01/01/2025,Accessories,Luxury Handbag,287.95,47,13533.65,5,10,Canada,Williams-Sonoma
+09/01/2025,Accessories,Luxury Handbag,37.47,54,2023.38,4.4,6,USA,Ashley Furniture
+29/10/2024,Gadgets,Portable Projector,876.56,36,31556.16,4,1,India,Williams-Sonoma
+27/06/2024,Wellness,Aromatherapy Diffuser,727.36,55,40004.8,4.5,1,USA,IKEA
+08/10/2024,Accessories,Backpack,229.04,8,1832.32,3.6,10,USA,Ashley Furniture
+28/07/2024,Gadgets,Noise Cancelling Headphones,925.54,5,4627.7,4,4,India,Ashley Furniture
+23/05/2024,Personal Care,Electric Toothbrush,884.2,5,4421,4.8,7,Germany,Ashley Furniture
+29/08/2024,Personal Care,Beard Grooming Kit,934.83,50,46741.5,4.3,5,Australia,Wayfair
+18/10/2024,Fashion,Running Shoes,435.23,33,14362.59,4.7,5,USA,Urban Ladder
+18/06/2024,Fashion,Running Shoes,55.16,60,3309.6,3.8,7,USA,Wayfair
+18/05/2024,Accessories,Sunglasses,1156.99,38,43965.62,4.8,10,India,Urban Ladder
+23/06/2024,Wellness,Aromatherapy Diffuser,121.68,40,4867.2,4.2,4,Germany,IKEA
+30/12/2024,Gadgets,Noise Cancelling Headphones,736.42,4,2945.68,3.9,3,Germany,Williams-Sonoma
+20/10/2024,Gadgets,Portable Projector,256.5,44,11286,4.3,6,Germany,Ashley Furniture
+11/07/2024,Personal Care,Electric Toothbrush,894.97,14,12529.58,4.2,4,Germany,Wayfair
+30/12/2024,Wellness,Smart Water Bottle,344.7,35,12064.5,3.9,2,Germany,Williams-Sonoma
+22/12/2024,Accessories,Sunglasses,1012.5,6,6075,3.7,8,USA,Williams-Sonoma
+21/03/2024,Fashion,Silk Scarf,566.35,10,5663.5,4.8,8,India,IKEA
+23/09/2024,Fashion,Leather Jacket,1101.89,27,29751.03,3.6,8,India,Wayfair
+30/12/2024,Fashion,Running Shoes,683.67,57,38969.19,4.5,7,USA,Wayfair
+18/07/2024,Wellness,Aromatherapy Diffuser,932.66,12,11191.92,3.8,6,USA,Ashley Furniture
+08/06/2024,Fashion,Running Shoes,1172.37,37,43377.69,3.8,1,Australia,IKEA
+09/05/2024,Gadgets,Noise Cancelling Headphones,288.42,34,9806.28,4.2,8,Germany,IKEA
+29/03/2024,Fashion,Silk Scarf,311.83,12,3741.96,4.1,2,Australia,Ashley Furniture
+13/04/2024,Accessories,Sunglasses,420.28,28,11767.84,4,4,Germany,IKEA
+06/01/2025,Fashion,Leather Jacket,1181.4,49,57888.6,3.7,3,USA,IKEA
+28/06/2024,Accessories,Backpack,627.15,19,11915.85,3.9,7,UK,Williams-Sonoma
+22/02/2024,Wellness,Aromatherapy Diffuser,514.65,59,30364.35,4.6,8,UK,IKEA
+09/05/2024,Wellness,Yoga Mat,507.65,21,10660.65,4.1,9,USA,Ashley Furniture
+04/01/2025,Accessories,Backpack,789.3,41,32361.3,4.6,6,Germany,Williams-Sonoma
+08/01/2025,Wellness,Aromatherapy Diffuser,1023.97,55,56318.35,4.4,1,Canada,Williams-Sonoma
+25/05/2024,Gadgets,Smartwatch,929.93,58,53935.94,4.4,8,USA,Wayfair
+02/04/2024,Gadgets,Portable Projector,51.35,58,2978.3,4.2,2,Australia,Williams-Sonoma
+29/08/2024,Wellness,Smart Water Bottle,564.15,55,31028.25,4.8,4,Australia,Wayfair
+12/08/2024,Fashion,Silk Scarf,817.98,46,37627.08,3.9,4,Australia,IKEA
+27/10/2024,Fashion,Silk Scarf,865.36,38,32883.68,4,7,Canada,IKEA
+03/05/2024,Wellness,Smart Water Bottle,290.62,37,10752.94,4.9,2,USA,Urban Ladder
+19/06/2024,Fashion,Leather Jacket,981.64,31,30430.84,4.9,2,USA,Ashley Furniture
+01/11/2024,Accessories,Backpack,1144.75,37,42355.75,4,10,India,Urban Ladder
+12/06/2024,Accessories,Sunglasses,820.71,28,22979.88,3.6,4,Germany,Urban Ladder
+17/01/2025,Fashion,Silk Scarf,735.69,47,34577.43,3.7,5,Canada,Williams-Sonoma
+26/11/2024,Gadgets,Smartwatch,174.72,10,1747.2,4.8,7,India,Williams-Sonoma
+22/07/2024,Wellness,Smart Water Bottle,235.68,42,9898.56,4.1,10,UK,Ashley Furniture
+22/01/2025,Gadgets,Portable Projector,752.57,31,23329.67,4.6,8,USA,Wayfair
+11/07/2024,Gadgets,Noise Cancelling Headphones,765.08,52,39784.16,3.8,7,UK,Ashley Furniture
+12/10/2024,Personal Care,Electric Toothbrush,331.36,42,13917.12,4.2,5,UK,Urban Ladder
+14/10/2024,Accessories,Luxury Handbag,278.33,6,1669.98,4.6,1,Canada,Urban Ladder
+14/04/2024,Wellness,Aromatherapy Diffuser,674.35,16,10789.6,4,1,UK,Ashley Furniture
+23/11/2024,Gadgets,Portable Projector,519.44,30,15583.2,4.1,5,Canada,Ashley Furniture
+19/03/2024,Fashion,Silk Scarf,144.24,26,3750.24,4.5,6,India,Urban Ladder
+07/08/2024,Accessories,Luxury Handbag,1153.6,42,48451.2,4.8,2,USA,Urban Ladder
+02/01/2025,Gadgets,Noise Cancelling Headphones,912.64,54,49282.56,4.2,9,USA,IKEA
+31/12/2024,Personal Care,Electric Toothbrush,343.81,60,20628.6,4.9,6,Germany,Urban Ladder
+17/05/2024,Wellness,Aromatherapy Diffuser,130.92,50,6546,4.5,9,Australia,Urban Ladder
+12/10/2024,Wellness,Aromatherapy Diffuser,202.66,31,6282.46,3.7,2,Australia,IKEA
+04/08/2024,Personal Care,Electric Toothbrush,1126,13,14638,4,10,Canada,IKEA
+10/05/2024,Accessories,Sunglasses,603.44,45,27154.8,4.7,9,Australia,Williams-Sonoma
+24/03/2024,Personal Care,Electric Toothbrush,925.5,26,24063,4,6,Canada,IKEA
+15/04/2024,Accessories,Backpack,1117.63,1,1117.63,4,3,UK,Wayfair
+19/01/2025,Wellness,Aromatherapy Diffuser,754.58,31,23391.98,5,9,Germany,Ashley Furniture
+24/03/2024,Wellness,Aromatherapy Diffuser,84.15,20,1683,4.6,6,Australia,Urban Ladder
+24/08/2024,Fashion,Running Shoes,994.79,14,13927.06,3.9,2,India,Urban Ladder
+16/07/2024,Fashion,Running Shoes,934.36,24,22424.64,4.5,3,USA,Williams-Sonoma
+12/06/2024,Wellness,Smart Water Bottle,454.33,4,1817.32,4.6,7,Australia,Ashley Furniture
+29/01/2025,Personal Care,Organic Skincare Set,531.66,9,4784.94,4.3,10,Germany,IKEA
+24/08/2024,Personal Care,Organic Skincare Set,1053.48,40,42139.2,4.2,10,UK,Wayfair
+19/03/2024,Gadgets,Smartwatch,154.63,13,2010.19,4,7,USA,Williams-Sonoma
+02/04/2024,Wellness,Smart Water Bottle,791.65,59,46707.35,4.2,2,Australia,Urban Ladder
+03/06/2024,Accessories,Luxury Handbag,168.56,48,8090.88,4.6,3,Germany,Urban Ladder
+01/04/2024,Wellness,Yoga Mat,1087.1,17,18480.7,4.3,10,UK,IKEA
+08/09/2024,Gadgets,Portable Projector,952.63,34,32389.42,4.4,4,USA,IKEA
+14/04/2024,Gadgets,Smartwatch,871.35,53,46181.55,4.8,3,India,Wayfair
+08/04/2024,Accessories,Luxury Handbag,935.75,48,44916,4.9,8,USA,Williams-Sonoma
+17/10/2024,Accessories,Luxury Handbag,82.12,6,492.72,4.8,3,Germany,Williams-Sonoma
+10/08/2024,Fashion,Running Shoes,1026.91,24,24645.84,4.8,8,UK,Ashley Furniture
+04/09/2024,Accessories,Luxury Handbag,851.76,44,37477.44,4.5,9,Germany,Ashley Furniture
+16/12/2024,Fashion,Silk Scarf,732.14,56,40999.84,4.7,8,Germany,Williams-Sonoma
+04/09/2024,Personal Care,Organic Skincare Set,250.33,36,9011.88,4.8,8,USA,Williams-Sonoma
+05/11/2024,Gadgets,Noise Cancelling Headphones,769.41,19,14618.79,4.6,10,Canada,IKEA
+24/02/2024,Accessories,Luxury Handbag,1103.5,50,55175,4.4,6,Australia,Williams-Sonoma
+22/03/2024,Personal Care,Organic Skincare Set,50.15,47,2357.05,4.1,2,India,Williams-Sonoma
+06/09/2024,Accessories,Backpack,38.34,39,1495.26,4.3,8,USA,Urban Ladder
+10/03/2024,Wellness,Yoga Mat,853.5,16,13656,4.2,4,Canada,Ashley Furniture
+02/04/2024,Gadgets,Noise Cancelling Headphones,651.08,48,31251.84,3.6,8,USA,IKEA
+04/01/2025,Wellness,Aromatherapy Diffuser,403.88,25,10097,4.9,2,Australia,Ashley Furniture
+01/05/2024,Accessories,Luxury Handbag,279.26,37,10332.62,3.6,4,Germany,Ashley Furniture
+03/01/2025,Gadgets,Portable Projector,242.92,13,3157.96,4.6,8,Germany,Williams-Sonoma
+01/03/2024,Personal Care,Electric Toothbrush,112.05,19,2128.95,3.7,8,Canada,IKEA
+05/06/2024,Accessories,Sunglasses,1099.23,31,34076.13,3.7,2,India,Urban Ladder
+27/03/2024,Wellness,Aromatherapy Diffuser,636.79,44,28018.76,3.9,4,UK,Wayfair
+01/11/2024,Fashion,Running Shoes,773.96,36,27862.56,3.6,5,UK,Williams-Sonoma
+04/05/2024,Personal Care,Electric Toothbrush,1029.8,20,20596,4.7,6,Canada,Ashley Furniture
+02/03/2024,Gadgets,Smartwatch,59.6,50,2980,3.6,9,Australia,IKEA
+15/04/2024,Accessories,Backpack,552.69,12,6632.28,4.9,1,Canada,Ashley Furniture
+20/01/2025,Fashion,Silk Scarf,740.66,30,22219.8,4,8,Germany,IKEA
+24/07/2024,Personal Care,Beard Grooming Kit,112.79,55,6203.45,4.8,6,Canada,Williams-Sonoma
+13/06/2024,Accessories,Luxury Handbag,1070.54,56,59950.24,4.1,10,UK,Urban Ladder
+31/03/2024,Personal Care,Beard Grooming Kit,1078.92,45,48551.4,4.4,9,UK,Wayfair
+27/04/2024,Fashion,Silk Scarf,1196.8,10,11968,4.6,6,India,Wayfair
+23/12/2024,Gadgets,Noise Cancelling Headphones,318.63,24,7647.12,4.8,6,USA,Wayfair
+05/09/2024,Fashion,Leather Jacket,665.14,16,10642.24,4.1,9,USA,Wayfair
+04/01/2025,Accessories,Backpack,205.1,12,2461.2,3.6,7,USA,Wayfair
+04/04/2024,Personal Care,Electric Toothbrush,1064.58,36,38324.88,3.8,6,UK,Urban Ladder
+18/03/2024,Wellness,Smart Water Bottle,922.57,30,27677.1,4.6,1,Canada,Wayfair
+14/04/2024,Fashion,Leather Jacket,764.87,47,35948.89,3.6,4,Canada,Wayfair
+13/02/2024,Accessories,Backpack,514.62,19,9777.78,4.9,8,UK,IKEA
+15/07/2024,Fashion,Running Shoes,1018.72,12,12224.64,4,2,Germany,Williams-Sonoma
+22/01/2025,Wellness,Aromatherapy Diffuser,936.24,6,5617.44,4.2,10,Australia,Urban Ladder
+20/04/2024,Personal Care,Organic Skincare Set,1025.88,19,19491.72,4.1,7,Australia,IKEA
+18/12/2024,Wellness,Smart Water Bottle,481.39,50,24069.5,3.7,2,Australia,Urban Ladder
+04/08/2024,Gadgets,Smartwatch,782.67,13,10174.71,3.8,5,India,Wayfair
+08/12/2024,Personal Care,Organic Skincare Set,966.7,7,6766.9,3.7,3,Germany,IKEA
+23/11/2024,Gadgets,Portable Projector,602.5,43,25907.5,3.8,10,Canada,Wayfair
+09/07/2024,Gadgets,Portable Projector,497.9,13,6472.7,4.5,2,Australia,Urban Ladder
+22/02/2024,Gadgets,Portable Projector,853.01,8,6824.08,4.3,5,Germany,IKEA
+17/03/2024,Fashion,Running Shoes,69.12,20,1382.4,3.5,4,India,Wayfair
+09/07/2024,Personal Care,Beard Grooming Kit,1026.51,4,4106.04,4.1,8,Germany,Ashley Furniture
+26/03/2024,Fashion,Leather Jacket,189.52,2,379.04,4.3,4,UK,IKEA
+22/03/2024,Accessories,Backpack,1093.68,42,45934.56,4.7,10,UK,Williams-Sonoma
+06/09/2024,Fashion,Running Shoes,908.78,56,50891.68,4.1,6,UK,Ashley Furniture
+08/06/2024,Fashion,Leather Jacket,688.44,52,35798.88,4.8,2,Germany,Williams-Sonoma
+12/04/2024,Wellness,Yoga Mat,461.76,50,23088,4.2,5,Australia,Williams-Sonoma
+31/10/2024,Personal Care,Beard Grooming Kit,810.35,49,39707.15,4.6,9,Canada,Ashley Furniture
+12/06/2024,Wellness,Aromatherapy Diffuser,154.01,5,770.05,4.2,10,Australia,Williams-Sonoma
+28/12/2024,Personal Care,Electric Toothbrush,1194.48,33,39417.84,4.6,8,Germany,Ashley Furniture
+22/01/2025,Accessories,Sunglasses,603.1,10,6031,4.7,3,Germany,Ashley Furniture
+02/01/2025,Fashion,Leather Jacket,49.17,12,590.04,3.7,10,Germany,Williams-Sonoma
+23/06/2024,Fashion,Leather Jacket,850.32,56,47617.92,4.5,9,USA,IKEA
+25/11/2024,Gadgets,Smartwatch,1131.01,4,4524.04,3.8,7,India,Williams-Sonoma
+08/01/2025,Wellness,Yoga Mat,804.25,35,28148.75,4.7,9,USA,Ashley Furniture
+11/11/2024,Fashion,Silk Scarf,100,12,1200,3.7,9,UK,Ashley Furniture
+27/05/2024,Gadgets,Portable Projector,545.21,22,11994.62,5,4,India,Urban Ladder
+28/05/2024,Wellness,Smart Water Bottle,33.24,52,1728.48,4.2,4,Australia,Wayfair
+24/09/2024,Gadgets,Smartwatch,1089.64,29,31599.56,4.5,9,USA,Williams-Sonoma
+18/11/2024,Personal Care,Organic Skincare Set,911.49,54,49220.46,4.2,10,India,Wayfair
+29/11/2024,Fashion,Leather Jacket,177.57,46,8168.22,3.8,5,India,Urban Ladder
+08/09/2024,Personal Care,Electric Toothbrush,855.12,51,43611.12,4.3,6,USA,Williams-Sonoma
+17/12/2024,Personal Care,Beard Grooming Kit,447.27,51,22810.77,4.7,8,USA,Wayfair
+30/12/2024,Fashion,Silk Scarf,1022.25,26,26578.5,4.5,1,Australia,Ashley Furniture
+24/11/2024,Wellness,Yoga Mat,37.3,31,1156.3,3.7,8,India,Ashley Furniture
+22/04/2024,Gadgets,Portable Projector,850.88,13,11061.44,3.6,4,Germany,Wayfair
+13/02/2024,Fashion,Silk Scarf,489.26,28,13699.28,4.7,6,Germany,Wayfair
+16/12/2024,Fashion,Leather Jacket,1126.26,43,48429.18,4.2,9,Germany,Urban Ladder
+23/05/2024,Accessories,Backpack,544.98,60,32698.8,4.4,9,Canada,Williams-Sonoma
+30/01/2025,Wellness,Aromatherapy Diffuser,653.93,29,18963.97,3.8,3,USA,IKEA
+07/06/2024,Personal Care,Beard Grooming Kit,486.69,19,9247.11,4.1,6,India,IKEA
+22/10/2024,Gadgets,Smartwatch,665.09,6,3990.54,4.7,10,Australia,Williams-Sonoma
+24/10/2024,Personal Care,Organic Skincare Set,236.19,44,10392.36,3.5,4,India,Urban Ladder
+01/02/2025,Gadgets,Smartwatch,629.02,50,31451,4.4,2,Germany,IKEA
+24/09/2024,Wellness,Aromatherapy Diffuser,817.57,10,8175.7,3.9,5,Australia,IKEA
+10/05/2024,Gadgets,Smartwatch,856.96,47,40277.12,3.8,1,Australia,Wayfair
+03/07/2024,Accessories,Sunglasses,946.54,1,946.54,4.5,9,Germany,Ashley Furniture
+10/07/2024,Fashion,Leather Jacket,488.31,27,13184.37,3.7,3,USA,IKEA
+11/08/2024,Wellness,Aromatherapy Diffuser,1198.69,23,27569.87,3.8,3,India,Ashley Furniture
+13/11/2024,Accessories,Luxury Handbag,609.46,31,18893.26,3.9,2,UK,IKEA
+15/07/2024,Wellness,Aromatherapy Diffuser,78.14,7,546.98,4.1,4,India,Ashley Furniture
+05/01/2025,Wellness,Yoga Mat,192.15,55,10568.25,4.1,9,USA,Ashley Furniture
+27/02/2024,Fashion,Silk Scarf,172.82,45,7776.9,4.3,5,UK,IKEA
+24/10/2024,Accessories,Backpack,133.63,3,400.89,4.5,6,USA,Ashley Furniture
+21/09/2024,Fashion,Leather Jacket,975.76,17,16587.92,4.6,1,Canada,IKEA
+07/11/2024,Fashion,Leather Jacket,50.4,52,2620.8,4.7,10,Germany,Ashley Furniture
+07/10/2024,Wellness,Yoga Mat,609.86,34,20735.24,4,3,UK,Williams-Sonoma
+25/05/2024,Fashion,Running Shoes,922.5,50,46125,4.6,7,Germany,Ashley Furniture
+12/07/2024,Wellness,Yoga Mat,253.07,52,13159.64,4.7,1,India,Williams-Sonoma
+10/11/2024,Wellness,Smart Water Bottle,376.62,40,15064.8,4.5,7,India,IKEA
+31/12/2024,Gadgets,Smartwatch,604.22,48,29002.56,4.4,8,USA,IKEA
+09/03/2024,Wellness,Aromatherapy Diffuser,831.33,24,19951.92,4.2,4,Australia,IKEA
+07/06/2024,Wellness,Aromatherapy Diffuser,140.95,15,2114.25,4.4,7,Canada,Williams-Sonoma
+22/10/2024,Wellness,Aromatherapy Diffuser,1016,6,6096,4.9,8,Canada,IKEA
+13/08/2024,Accessories,Sunglasses,274.23,35,9598.05,4.4,3,Canada,Urban Ladder
+01/06/2024,Accessories,Luxury Handbag,860.16,22,18923.52,4.1,6,Australia,Wayfair
+30/07/2024,Wellness,Yoga Mat,988.65,8,7909.2,3.7,6,USA,IKEA
+30/01/2025,Wellness,Smart Water Bottle,1113.73,58,64596.34,4.6,8,UK,Urban Ladder
+17/12/2024,Gadgets,Noise Cancelling Headphones,1187.07,21,24928.47,4.8,10,UK,Wayfair
+12/11/2024,Wellness,Aromatherapy Diffuser,916.64,51,46748.64,4.8,5,India,Ashley Furniture
+05/12/2024,Wellness,Aromatherapy Diffuser,942.35,15,14135.25,4.9,3,Australia,Ashley Furniture
+24/09/2024,Accessories,Luxury Handbag,883.6,59,52132.4,3.6,6,Canada,IKEA
+17/04/2024,Personal Care,Electric Toothbrush,714.82,60,42889.2,3.7,5,Canada,Williams-Sonoma
+26/12/2024,Personal Care,Beard Grooming Kit,996.35,37,36864.95,3.9,4,Germany,Wayfair
+28/09/2024,Accessories,Luxury Handbag,206.55,10,2065.5,4,7,UK,Urban Ladder
+30/07/2024,Personal Care,Organic Skincare Set,666.81,39,26005.59,3.8,8,Canada,Ashley Furniture
+24/11/2024,Personal Care,Beard Grooming Kit,1071.75,9,9645.75,4.3,5,UK,IKEA
+02/02/2025,Personal Care,Beard Grooming Kit,741.8,50,37090,3.7,10,India,Williams-Sonoma
+04/11/2024,Wellness,Aromatherapy Diffuser,255.91,34,8700.94,4.7,5,Germany,Williams-Sonoma
+08/06/2024,Fashion,Silk Scarf,904.38,14,12661.32,4.5,6,India,Ashley Furniture
+10/02/2024,Wellness,Yoga Mat,1149.57,5,5747.85,4.5,5,USA,Williams-Sonoma
+24/06/2024,Accessories,Sunglasses,51.52,47,2421.44,4.4,8,UK,Williams-Sonoma
+15/11/2024,Gadgets,Noise Cancelling Headphones,329.87,8,2638.96,3.7,2,USA,Williams-Sonoma
+16/12/2024,Fashion,Running Shoes,506.84,16,8109.44,4,10,USA,IKEA
+12/04/2024,Gadgets,Portable Projector,151.3,49,7413.7,4.5,10,USA,Ashley Furniture
+13/01/2025,Wellness,Smart Water Bottle,690.5,60,41430,4.4,4,Canada,Ashley Furniture
+16/01/2025,Personal Care,Electric Toothbrush,245.73,13,3194.49,4.5,9,UK,Ashley Furniture
+19/12/2024,Fashion,Leather Jacket,951.9,31,29508.9,3.5,3,Australia,Wayfair
+28/09/2024,Wellness,Aromatherapy Diffuser,1188.73,33,39228.09,4.5,7,Canada,IKEA
+25/12/2024,Accessories,Luxury Handbag,423.65,2,847.3,3.9,1,UK,Wayfair
+24/08/2024,Fashion,Running Shoes,1111.93,14,15567.02,3.5,3,Germany,IKEA
+24/06/2024,Accessories,Backpack,158.01,7,1106.07,3.6,6,USA,Ashley Furniture
+14/11/2024,Personal Care,Electric Toothbrush,394.37,2,788.74,4.1,10,Australia,Urban Ladder
+25/07/2024,Accessories,Sunglasses,626.33,30,18789.9,3.6,2,Canada,Urban Ladder
+06/11/2024,Accessories,Sunglasses,73.55,6,441.3,3.7,10,Canada,Wayfair
+24/10/2024,Gadgets,Noise Cancelling Headphones,186.9,34,6354.6,3.7,10,UK,Ashley Furniture
+02/08/2024,Wellness,Aromatherapy Diffuser,159.49,57,9090.93,3.5,7,Australia,Wayfair
+08/07/2024,Gadgets,Noise Cancelling Headphones,922.99,59,54456.41,4.4,10,USA,IKEA
+11/12/2024,Gadgets,Portable Projector,84.42,57,4811.94,4.8,4,Australia,Ashley Furniture
+28/06/2024,Personal Care,Organic Skincare Set,999.01,59,58941.59,3.5,1,Canada,Williams-Sonoma
+17/04/2024,Accessories,Luxury Handbag,894.31,29,25934.99,4.3,9,India,Urban Ladder
+24/07/2024,Personal Care,Electric Toothbrush,68.87,36,2479.32,4.4,4,USA,Wayfair
+07/03/2024,Fashion,Running Shoes,928.25,18,16708.5,4,4,India,Williams-Sonoma
+07/06/2024,Gadgets,Portable Projector,470.29,47,22103.63,4.9,4,Canada,Ashley Furniture
+18/01/2025,Fashion,Silk Scarf,1065.05,26,27691.3,4.7,6,Germany,Wayfair
+09/11/2024,Wellness,Aromatherapy Diffuser,301.67,42,12670.14,4.2,8,USA,Wayfair
+08/06/2024,Gadgets,Portable Projector,278.94,39,10878.66,4.5,7,Canada,Urban Ladder
+12/10/2024,Wellness,Smart Water Bottle,532.08,50,26604,4.3,2,Germany,IKEA
+21/05/2024,Personal Care,Electric Toothbrush,1054.24,45,47440.8,4.6,2,India,Urban Ladder
+18/04/2024,Wellness,Yoga Mat,591.12,15,8866.8,4.3,9,USA,Urban Ladder
+25/04/2024,Accessories,Sunglasses,1124.61,26,29239.86,4,3,India,Wayfair
+30/12/2024,Gadgets,Noise Cancelling Headphones,304.92,56,17075.52,4.6,1,Germany,Wayfair
+14/06/2024,Personal Care,Electric Toothbrush,359.08,45,16158.6,4.9,9,USA,Urban Ladder
+23/02/2024,Accessories,Backpack,704.94,2,1409.88,4.8,6,Australia,Urban Ladder
+10/05/2024,Gadgets,Portable Projector,862.61,2,1725.22,3.9,9,Australia,Wayfair
+12/07/2024,Fashion,Leather Jacket,758.03,49,37143.47,3.6,1,USA,Ashley Furniture
+29/12/2024,Fashion,Leather Jacket,979.31,42,41131.02,3.9,4,India,Williams-Sonoma
+30/05/2024,Gadgets,Portable Projector,273.63,44,12039.72,3.8,4,USA,IKEA
+23/08/2024,Accessories,Luxury Handbag,136.93,4,547.72,4.2,7,USA,Urban Ladder
+20/08/2024,Gadgets,Smartwatch,395.55,21,8306.55,3.9,4,Germany,Urban Ladder
+11/09/2024,Gadgets,Smartwatch,989.67,44,43545.48,4.9,4,India,Urban Ladder
+29/12/2024,Personal Care,Electric Toothbrush,338.18,42,14203.56,3.8,5,Germany,Ashley Furniture
+24/03/2024,Fashion,Running Shoes,1075.04,24,25800.96,4.8,3,India,Williams-Sonoma
+29/03/2024,Accessories,Backpack,804.97,21,16904.37,4.6,4,Germany,Urban Ladder
+25/12/2024,Wellness,Smart Water Bottle,335.68,24,8056.32,4.2,7,Australia,Ashley Furniture
+21/04/2024,Gadgets,Portable Projector,151.78,23,3490.94,4.7,6,India,Urban Ladder
+30/06/2024,Personal Care,Electric Toothbrush,755.23,7,5286.61,3.6,2,Germany,Williams-Sonoma
+22/03/2024,Fashion,Silk Scarf,592.74,44,26080.56,4,4,UK,Wayfair
+02/12/2024,Fashion,Leather Jacket,1148.76,32,36760.32,4.3,1,Canada,Williams-Sonoma
+27/12/2024,Fashion,Silk Scarf,254.6,45,11457,4.7,10,Australia,Wayfair
+23/04/2024,Fashion,Silk Scarf,1113.54,60,66812.4,4.4,3,Germany,Urban Ladder
+21/10/2024,Gadgets,Noise Cancelling Headphones,129.65,18,2333.7,4.4,8,Australia,Ashley Furniture
+22/03/2024,Gadgets,Portable Projector,616.5,46,28359,4.9,6,India,Urban Ladder
+11/03/2024,Accessories,Sunglasses,228.93,28,6410.04,4.1,8,Germany,Urban Ladder
+08/12/2024,Personal Care,Beard Grooming Kit,937.05,55,51537.75,3.9,4,UK,Urban Ladder
+09/11/2024,Fashion,Silk Scarf,354,5,1770,4.6,9,Canada,IKEA
+12/04/2024,Wellness,Aromatherapy Diffuser,792.89,33,26165.37,4.1,10,Canada,Ashley Furniture
+05/05/2024,Gadgets,Portable Projector,565.43,8,4523.44,3.8,3,USA,IKEA
+30/10/2024,Gadgets,Portable Projector,856.86,17,14566.62,4.1,1,Australia,Ashley Furniture
+13/04/2024,Accessories,Luxury Handbag,1089.93,29,31607.97,4.4,10,Canada,Williams-Sonoma
+29/06/2024,Fashion,Leather Jacket,20.87,5,104.35,4.1,6,Australia,Williams-Sonoma
+07/04/2024,Personal Care,Electric Toothbrush,872.97,33,28808.01,4.9,2,Australia,Urban Ladder
+31/05/2024,Gadgets,Portable Projector,461.11,14,6455.54,4.9,3,Australia,IKEA
+25/09/2024,Accessories,Sunglasses,869.21,7,6084.47,3.7,4,UK,Williams-Sonoma
+27/07/2024,Fashion,Leather Jacket,817.31,22,17980.82,4.3,8,Australia,Wayfair
+28/10/2024,Accessories,Sunglasses,1151.48,35,40301.8,4.2,8,Germany,Urban Ladder
+21/07/2024,Personal Care,Organic Skincare Set,976.75,46,44930.5,4.6,2,UK,Williams-Sonoma
+06/05/2024,Accessories,Luxury Handbag,301.71,55,16594.05,3.7,8,Canada,Wayfair
+25/01/2025,Wellness,Yoga Mat,583.94,15,8759.1,3.8,1,Canada,IKEA
+18/07/2024,Wellness,Aromatherapy Diffuser,952.24,44,41898.56,3.9,6,India,IKEA
+08/01/2025,Gadgets,Portable Projector,869.74,17,14785.58,4,8,USA,IKEA
+05/04/2024,Gadgets,Noise Cancelling Headphones,676.6,48,32476.8,4.3,8,Germany,Ashley Furniture
+06/01/2025,Accessories,Backpack,1117.92,57,63721.44,4,4,USA,IKEA
+22/06/2024,Wellness,Smart Water Bottle,135.07,58,7834.06,4,1,USA,Williams-Sonoma
+19/06/2024,Personal Care,Electric Toothbrush,136.15,54,7352.1,4.6,4,Germany,Wayfair
+29/06/2024,Fashion,Leather Jacket,592.17,14,8290.38,4.3,4,UK,Ashley Furniture
+10/08/2024,Fashion,Leather Jacket,441.14,11,4852.54,4.7,6,Canada,Urban Ladder
+10/08/2024,Personal Care,Electric Toothbrush,23.97,39,934.83,4.4,10,Germany,Ashley Furniture
+31/05/2024,Gadgets,Smartwatch,548.05,19,10412.95,3.8,5,Canada,Wayfair
+25/11/2024,Fashion,Running Shoes,1152.94,40,46117.6,3.6,1,India,Wayfair
+08/10/2024,Personal Care,Beard Grooming Kit,430.78,21,9046.38,4.6,3,USA,IKEA
+02/07/2024,Gadgets,Portable Projector,1100.55,24,26413.2,3.8,4,India,Wayfair
+17/06/2024,Accessories,Luxury Handbag,749.76,27,20243.52,3.6,4,Australia,Urban Ladder
+06/06/2024,Accessories,Sunglasses,656.36,32,21003.52,4.9,3,Germany,Wayfair
+05/11/2024,Gadgets,Portable Projector,862.58,36,31052.88,4.3,6,UK,IKEA
+22/07/2024,Fashion,Leather Jacket,1075.07,31,33327.17,4.2,9,USA,Ashley Furniture
+02/01/2025,Gadgets,Noise Cancelling Headphones,1142.67,26,29709.42,4.9,5,USA,Wayfair
+20/11/2024,Accessories,Sunglasses,502.43,6,3014.58,4.6,1,India,IKEA
+07/03/2024,Fashion,Leather Jacket,1140.64,39,44484.96,5,3,Australia,Ashley Furniture
+07/11/2024,Gadgets,Noise Cancelling Headphones,719.09,20,14381.8,4.9,9,Canada,Williams-Sonoma
+27/06/2024,Gadgets,Smartwatch,605.41,11,6659.51,4.4,1,Australia,Urban Ladder
+27/02/2024,Fashion,Running Shoes,1047,48,50256,4.3,4,Australia,Urban Ladder
+10/10/2024,Wellness,Smart Water Bottle,657.94,18,11842.92,3.6,2,Germany,Urban Ladder
+09/12/2024,Accessories,Luxury Handbag,1026.66,6,6159.96,3.8,6,UK,Ashley Furniture
+14/05/2024,Fashion,Silk Scarf,1068.39,46,49145.94,3.6,2,Australia,Ashley Furniture
+16/05/2024,Wellness,Smart Water Bottle,449.83,31,13944.73,3.8,8,UK,Ashley Furniture
+16/01/2025,Wellness,Yoga Mat,379.88,59,22412.92,4.7,9,Canada,IKEA
+27/06/2024,Wellness,Aromatherapy Diffuser,207.93,18,3742.74,3.6,8,Canada,Williams-Sonoma
+10/08/2024,Gadgets,Noise Cancelling Headphones,150.3,46,6913.8,4.7,5,Australia,Wayfair
+25/03/2024,Personal Care,Organic Skincare Set,827.02,14,11578.28,3.8,1,UK,Wayfair
+24/05/2024,Wellness,Aromatherapy Diffuser,679.65,32,21748.8,4.8,7,UK,Williams-Sonoma
+13/01/2025,Wellness,Smart Water Bottle,518,1,518,4.1,7,India,IKEA
+25/12/2024,Personal Care,Organic Skincare Set,922.2,28,25821.6,3.7,8,Canada,Williams-Sonoma
+23/08/2024,Gadgets,Portable Projector,953.16,36,34313.76,3.9,5,Australia,Wayfair
+03/05/2024,Wellness,Yoga Mat,129.49,56,7251.44,3.9,4,Germany,IKEA
+06/11/2024,Wellness,Smart Water Bottle,1183.91,36,42620.76,4.7,8,Canada,Urban Ladder
+04/02/2025,Accessories,Sunglasses,727.73,22,16010.06,3.8,6,USA,Ashley Furniture
+25/01/2025,Fashion,Leather Jacket,145.12,32,4643.84,4.3,2,Canada,Wayfair
+17/11/2024,Gadgets,Smartwatch,849.02,6,5094.12,4.9,7,India,Wayfair
+20/11/2024,Accessories,Backpack,359.71,13,4676.23,3.7,9,UK,IKEA
+04/05/2024,Fashion,Leather Jacket,964.93,21,20263.53,3.6,7,Australia,Urban Ladder
+09/10/2024,Accessories,Luxury Handbag,1088.16,36,39173.76,3.8,10,Canada,Williams-Sonoma
+24/03/2024,Accessories,Luxury Handbag,252.33,37,9336.21,4.6,5,USA,Ashley Furniture
+20/09/2024,Gadgets,Smartwatch,257.04,6,1542.24,4.8,10,Canada,Williams-Sonoma
+03/08/2024,Accessories,Luxury Handbag,631.51,47,29680.97,4.1,5,Australia,Urban Ladder
+21/08/2024,Gadgets,Noise Cancelling Headphones,598.51,39,23341.89,4.5,5,Canada,Wayfair
+24/12/2024,Fashion,Leather Jacket,109.27,17,1857.59,3.8,7,Germany,Ashley Furniture
+20/12/2024,Gadgets,Noise Cancelling Headphones,324.23,54,17508.42,3.7,2,UK,Wayfair
+30/06/2024,Fashion,Leather Jacket,387.81,55,21329.55,3.8,1,UK,Wayfair
+04/12/2024,Wellness,Yoga Mat,568.96,22,12517.12,3.6,5,Australia,Williams-Sonoma
+24/09/2024,Gadgets,Smartwatch,510.27,45,22962.15,4.3,6,UK,Ashley Furniture
+31/07/2024,Gadgets,Portable Projector,838.7,41,34386.7,4.2,9,USA,Urban Ladder
+12/08/2024,Fashion,Silk Scarf,496.61,45,22347.45,4,5,UK,Williams-Sonoma
+18/09/2024,Fashion,Leather Jacket,919.77,28,25753.56,4.8,1,India,IKEA
+14/04/2024,Wellness,Smart Water Bottle,649.78,41,26640.98,3.6,10,Australia,IKEA
+23/03/2024,Personal Care,Organic Skincare Set,1057.54,54,57107.16,4.8,2,Canada,Wayfair
+03/08/2024,Wellness,Aromatherapy Diffuser,320.73,13,4169.49,4.2,3,India,Wayfair
+12/08/2024,Gadgets,Noise Cancelling Headphones,351.19,22,7726.18,3.5,4,Germany,Ashley Furniture
+25/07/2024,Fashion,Silk Scarf,324.56,21,6815.76,4,6,USA,Williams-Sonoma
+03/08/2024,Accessories,Sunglasses,18.8,21,394.8,4.6,4,Canada,Wayfair
+20/03/2024,Accessories,Backpack,179.66,12,2155.92,4.8,10,UK,Urban Ladder
+17/07/2024,Accessories,Backpack,143.26,55,7879.3,3.6,1,India,IKEA
+10/07/2024,Gadgets,Portable Projector,49.31,46,2268.26,4.2,1,Canada,IKEA
+14/01/2025,Wellness,Yoga Mat,754.84,27,20380.68,4.4,5,Australia,Williams-Sonoma
+14/12/2024,Fashion,Silk Scarf,930.99,4,3723.96,4,9,Canada,Ashley Furniture
+31/07/2024,Personal Care,Organic Skincare Set,1196.15,44,52630.6,4.5,4,Germany,Ashley Furniture
+15/07/2024,Fashion,Silk Scarf,15.29,42,642.18,3.6,3,Canada,IKEA
+29/07/2024,Fashion,Running Shoes,637.61,12,7651.32,3.9,7,Germany,Urban Ladder
+27/06/2024,Gadgets,Smartwatch,815.67,60,48940.2,4.9,7,India,Wayfair
+25/11/2024,Wellness,Smart Water Bottle,724.78,4,2899.12,4.9,6,Australia,Williams-Sonoma
+31/10/2024,Personal Care,Electric Toothbrush,200.76,2,401.52,4.6,1,Australia,Urban Ladder
+10/07/2024,Gadgets,Smartwatch,631.06,32,20193.92,4.3,1,India,Urban Ladder
+12/06/2024,Wellness,Yoga Mat,298.66,31,9258.46,4.1,10,Canada,Williams-Sonoma
+19/08/2024,Accessories,Luxury Handbag,1157.9,33,38210.7,4.1,4,UK,IKEA
+22/09/2024,Gadgets,Noise Cancelling Headphones,290.23,27,7836.21,3.8,6,USA,IKEA
+13/06/2024,Accessories,Sunglasses,758.96,28,21250.88,3.9,3,Germany,Wayfair
+18/06/2024,Fashion,Running Shoes,128.12,52,6662.24,3.9,5,Germany,Wayfair
+02/06/2024,Gadgets,Smartwatch,302.45,40,12098,3.8,8,India,IKEA
+11/10/2024,Accessories,Sunglasses,551.9,12,6622.8,4.7,10,India,Urban Ladder
+08/01/2025,Accessories,Sunglasses,678.96,54,36663.84,4.8,7,UK,Wayfair
+18/01/2025,Fashion,Leather Jacket,944.07,5,4720.35,3.5,3,UK,Urban Ladder
+28/10/2024,Gadgets,Noise Cancelling Headphones,420.26,33,13868.58,4.4,2,UK,Williams-Sonoma
+02/05/2024,Wellness,Aromatherapy Diffuser,1005.03,24,24120.72,3.6,1,UK,Williams-Sonoma
+28/06/2024,Accessories,Backpack,148.68,47,6987.96,4.8,7,Canada,IKEA
+31/03/2024,Fashion,Running Shoes,944.71,22,20783.62,4,10,India,Ashley Furniture
+06/03/2024,Accessories,Luxury Handbag,337.24,53,17873.72,4.9,1,USA,Ashley Furniture
+16/03/2024,Gadgets,Portable Projector,397.95,10,3979.5,4.7,9,UK,Urban Ladder
+13/02/2024,Gadgets,Noise Cancelling Headphones,25.66,14,359.24,4.2,7,Germany,Urban Ladder
+05/02/2025,Personal Care,Beard Grooming Kit,748.88,42,31452.96,4.7,10,India,Wayfair
+20/11/2024,Fashion,Running Shoes,1149.99,60,68999.4,4.5,8,USA,Urban Ladder
+15/11/2024,Accessories,Sunglasses,206.03,22,4532.66,3.9,1,Canada,Urban Ladder
+11/09/2024,Accessories,Sunglasses,349.75,3,1049.25,4.9,5,UK,Williams-Sonoma
+16/03/2024,Wellness,Yoga Mat,1191.61,20,23832.2,4.9,5,Australia,Wayfair
+20/06/2024,Wellness,Yoga Mat,862.61,14,12076.54,4.1,10,Australia,Urban Ladder
+09/10/2024,Wellness,Yoga Mat,466.22,10,4662.2,4.5,8,Australia,Wayfair
+30/11/2024,Wellness,Aromatherapy Diffuser,795.15,22,17493.3,3.7,3,Canada,IKEA
+09/11/2024,Wellness,Yoga Mat,967.58,3,2902.74,4.2,7,India,Williams-Sonoma
+06/12/2024,Personal Care,Electric Toothbrush,751.48,2,1502.96,4.7,6,Australia,IKEA
+26/03/2024,Gadgets,Smartwatch,293.78,43,12632.54,4.5,4,Germany,Ashley Furniture
+08/10/2024,Accessories,Sunglasses,517.68,29,15012.72,4.2,10,UK,IKEA
+29/09/2024,Fashion,Leather Jacket,989.47,15,14842.05,4.9,5,USA,Wayfair
+11/04/2024,Personal Care,Electric Toothbrush,34.91,59,2059.69,4.7,10,Canada,IKEA
+03/08/2024,Personal Care,Beard Grooming Kit,744.2,22,16372.4,3.5,1,UK,Wayfair
+17/09/2024,Wellness,Yoga Mat,153.65,52,7989.8,3.8,10,India,Ashley Furniture
+02/05/2024,Gadgets,Portable Projector,566.89,35,19841.15,4.4,9,UK,Williams-Sonoma
+01/05/2024,Gadgets,Noise Cancelling Headphones,225.56,6,1353.36,3.7,8,India,Ashley Furniture
+16/06/2024,Fashion,Silk Scarf,1042.89,57,59444.73,4.5,6,UK,Ashley Furniture
+21/03/2024,Wellness,Smart Water Bottle,1148.61,10,11486.1,4.7,7,India,Williams-Sonoma
+19/10/2024,Wellness,Aromatherapy Diffuser,183.97,51,9382.47,4,8,Germany,Ashley Furniture
+16/06/2024,Gadgets,Noise Cancelling Headphones,578.02,55,31791.1,3.6,2,Australia,IKEA
+08/06/2024,Wellness,Aromatherapy Diffuser,722.31,52,37560.12,3.6,4,Germany,Wayfair
+10/12/2024,Fashion,Leather Jacket,1011.13,41,41456.33,4.5,2,UK,Ashley Furniture
+04/03/2024,Gadgets,Smartwatch,378.53,55,20819.15,4.2,6,Germany,Urban Ladder
+24/01/2025,Personal Care,Electric Toothbrush,734.41,27,19829.07,4.5,8,Canada,Williams-Sonoma
+18/01/2025,Wellness,Smart Water Bottle,842.67,50,42133.5,3.7,3,Canada,IKEA
+24/09/2024,Accessories,Sunglasses,380.26,7,2661.82,4.6,9,Australia,Williams-Sonoma
+26/11/2024,Wellness,Aromatherapy Diffuser,589.49,4,2357.96,4.3,4,USA,Williams-Sonoma
+21/02/2024,Wellness,Yoga Mat,144.73,23,3328.79,4,8,UK,Wayfair
+08/10/2024,Wellness,Yoga Mat,686.91,31,21294.21,4.6,10,USA,Urban Ladder
+08/01/2025,Personal Care,Beard Grooming Kit,183.61,20,3672.2,3.7,6,UK,Urban Ladder
+07/07/2024,Accessories,Sunglasses,435.35,29,12625.15,3.7,6,Australia,Wayfair
+16/09/2024,Personal Care,Organic Skincare Set,529.15,48,25399.2,4.2,2,India,IKEA
+07/03/2024,Accessories,Luxury Handbag,1097.96,29,31840.84,3.6,2,Australia,IKEA
+17/10/2024,Fashion,Leather Jacket,767.55,10,7675.5,4.8,1,USA,Williams-Sonoma
+04/05/2024,Fashion,Leather Jacket,1164.08,12,13968.96,4.7,9,India,Ashley Furniture
+09/08/2024,Fashion,Silk Scarf,556.9,18,10024.2,3.7,6,Canada,Wayfair
+25/09/2024,Personal Care,Beard Grooming Kit,1119.22,20,22384.4,4.7,7,Australia,Ashley Furniture
+01/01/2025,Accessories,Sunglasses,968.82,2,1937.64,4.9,7,India,IKEA
+22/04/2024,Accessories,Sunglasses,838.83,20,16776.6,4.8,3,Germany,Urban Ladder
+09/04/2024,Gadgets,Noise Cancelling Headphones,213.84,6,1283.04,4.6,4,Australia,IKEA
+02/09/2024,Wellness,Yoga Mat,191.25,34,6502.5,4.6,1,Australia,Urban Ladder
+14/01/2025,Wellness,Yoga Mat,1162.76,39,45347.64,3.9,4,Germany,IKEA
+30/11/2024,Personal Care,Organic Skincare Set,1084.67,51,55318.17,4.1,3,USA,Ashley Furniture
+26/04/2024,Accessories,Backpack,733.2,1,733.2,4,4,Canada,Williams-Sonoma
+22/03/2024,Wellness,Smart Water Bottle,559.65,31,17349.15,4.5,4,Australia,Williams-Sonoma
+11/03/2024,Wellness,Yoga Mat,584.54,35,20458.9,4.7,10,USA,Wayfair
+02/04/2024,Accessories,Backpack,1183.4,40,47336,4.4,2,UK,IKEA
+22/07/2024,Accessories,Luxury Handbag,1196.56,4,4786.24,4.1,1,India,Wayfair
+07/12/2024,Accessories,Sunglasses,649.21,41,26617.61,4.5,6,UK,IKEA
+03/10/2024,Fashion,Silk Scarf,926.69,37,34287.53,3.6,3,UK,Williams-Sonoma
+17/09/2024,Wellness,Smart Water Bottle,1167.45,7,8172.15,3.6,5,Germany,IKEA
+22/10/2024,Personal Care,Electric Toothbrush,805.34,13,10469.42,4,10,Germany,Urban Ladder
+02/08/2024,Accessories,Sunglasses,625.82,35,21903.7,4.4,9,Australia,Williams-Sonoma
+11/03/2024,Wellness,Aromatherapy Diffuser,125.72,49,6160.28,3.8,9,USA,Wayfair
+23/12/2024,Fashion,Running Shoes,735.84,49,36056.16,3.8,7,USA,Ashley Furniture
+05/12/2024,Personal Care,Electric Toothbrush,1171.36,2,2342.72,3.7,10,USA,Wayfair
+08/02/2024,Wellness,Yoga Mat,547.1,49,26807.9,5,1,Australia,IKEA
+20/09/2024,Personal Care,Electric Toothbrush,1135.37,55,62445.35,3.7,10,India,Williams-Sonoma
+11/11/2024,Wellness,Smart Water Bottle,1030.24,12,12362.88,4.6,2,USA,Wayfair
+17/07/2024,Fashion,Leather Jacket,787.42,36,28347.12,3.8,8,India,IKEA
+22/01/2025,Accessories,Luxury Handbag,1148.54,38,43644.52,4.1,3,USA,Urban Ladder
+15/07/2024,Personal Care,Beard Grooming Kit,992.12,9,8929.08,4,8,USA,IKEA
+28/11/2024,Gadgets,Smartwatch,847.6,11,9323.6,3.6,6,USA,Urban Ladder
+29/04/2024,Wellness,Smart Water Bottle,606.15,21,12729.15,3.9,8,Canada,Williams-Sonoma
+03/02/2025,Fashion,Silk Scarf,656.79,21,13792.59,4.3,6,USA,Ashley Furniture
+14/01/2025,Personal Care,Organic Skincare Set,620.22,58,35972.76,3.6,4,USA,Wayfair
+26/12/2024,Accessories,Luxury Handbag,964.06,5,4820.3,4.2,8,Germany,Ashley Furniture
+19/07/2024,Personal Care,Beard Grooming Kit,346.79,52,18033.08,4.9,8,Australia,Williams-Sonoma
+20/04/2024,Fashion,Leather Jacket,331.7,8,2653.6,4,7,Canada,Williams-Sonoma
+22/11/2024,Wellness,Smart Water Bottle,417.46,51,21290.46,4.5,10,Germany,Ashley Furniture
+23/10/2024,Accessories,Backpack,752.82,9,6775.38,3.8,6,USA,Wayfair
+03/03/2024,Accessories,Backpack,513.06,8,4104.48,3.9,10,Canada,Urban Ladder
+23/05/2024,Wellness,Smart Water Bottle,982.46,1,982.46,4.2,6,Germany,IKEA
+21/02/2024,Wellness,Smart Water Bottle,342.84,23,7885.32,4,5,Australia,Williams-Sonoma
+11/06/2024,Personal Care,Organic Skincare Set,796.81,27,21513.87,4.7,7,Canada,IKEA
+26/07/2024,Gadgets,Portable Projector,872.98,18,15713.64,4.3,5,UK,IKEA
+20/09/2024,Accessories,Luxury Handbag,36.69,13,476.97,3.9,1,India,Ashley Furniture
+25/11/2024,Accessories,Sunglasses,366.1,37,13545.7,4.1,2,Australia,IKEA
+25/08/2024,Gadgets,Noise Cancelling Headphones,967.66,14,13547.24,4.1,5,USA,Williams-Sonoma
+07/12/2024,Fashion,Silk Scarf,135.33,54,7307.82,3.6,7,Germany,Ashley Furniture
+26/08/2024,Gadgets,Noise Cancelling Headphones,522.98,54,28240.92,3.5,10,Australia,Williams-Sonoma
+14/03/2024,Wellness,Smart Water Bottle,894.74,22,19684.28,4.8,5,Canada,Wayfair
+09/07/2024,Wellness,Aromatherapy Diffuser,534.48,15,8017.2,4.3,9,India,Wayfair
+28/08/2024,Gadgets,Smartwatch,359.11,1,359.11,4.7,8,USA,Urban Ladder
+30/01/2025,Personal Care,Organic Skincare Set,492.19,12,5906.28,3.7,6,India,IKEA
+11/02/2024,Wellness,Yoga Mat,610.98,47,28716.06,3.7,7,India,IKEA
+06/10/2024,Accessories,Sunglasses,612.37,49,30006.13,4,3,USA,IKEA
+01/12/2024,Wellness,Smart Water Bottle,896.26,50,44813,4.4,2,UK,Ashley Furniture
+14/09/2024,Fashion,Silk Scarf,339.9,60,20394,4.1,5,Germany,Williams-Sonoma
+23/03/2024,Fashion,Silk Scarf,1094.33,32,35018.56,3.5,7,Germany,Ashley Furniture
+27/04/2024,Accessories,Sunglasses,509.74,22,11214.28,4.5,8,UK,Wayfair
+18/11/2024,Wellness,Aromatherapy Diffuser,650.65,46,29929.9,4.8,2,USA,IKEA
+11/12/2024,Fashion,Leather Jacket,362.17,36,13038.12,3.8,3,Australia,Urban Ladder
+24/09/2024,Wellness,Smart Water Bottle,1125.41,33,37138.53,3.6,10,UK,Wayfair
+11/06/2024,Wellness,Aromatherapy Diffuser,111.47,20,2229.4,3.6,5,USA,Wayfair
+16/12/2024,Wellness,Aromatherapy Diffuser,827.09,58,47971.22,4.9,4,UK,IKEA
+14/06/2024,Fashion,Leather Jacket,1100.47,17,18707.99,4.9,10,Canada,Ashley Furniture
+23/04/2024,Fashion,Leather Jacket,96.18,44,4231.92,4.7,2,India,Williams-Sonoma
+14/10/2024,Accessories,Backpack,499.05,34,16967.7,4.2,1,India,Williams-Sonoma
+09/01/2025,Fashion,Running Shoes,559.38,38,21256.44,3.8,8,UK,Wayfair
+01/04/2024,Accessories,Backpack,1191.88,37,44099.56,3.8,8,Germany,Williams-Sonoma
+23/03/2024,Personal Care,Beard Grooming Kit,38.02,14,532.28,4.4,2,UK,Urban Ladder
+24/03/2024,Personal Care,Beard Grooming Kit,15.87,52,825.24,4.8,10,Germany,IKEA
+25/02/2024,Fashion,Running Shoes,1154.9,37,42731.3,4.7,10,Canada,Urban Ladder
+03/04/2024,Personal Care,Beard Grooming Kit,364.01,18,6552.18,3.8,3,India,Williams-Sonoma
+19/06/2024,Fashion,Running Shoes,293.31,13,3813.03,4.7,3,Germany,Urban Ladder
+11/06/2024,Fashion,Silk Scarf,347.56,3,1042.68,4.7,4,India,Wayfair
+03/12/2024,Personal Care,Organic Skincare Set,995.38,21,20902.98,4.5,7,UK,Williams-Sonoma
+02/03/2024,Accessories,Sunglasses,1197.54,20,23950.8,4.2,1,UK,Urban Ladder
+27/05/2024,Personal Care,Organic Skincare Set,163.15,15,2447.25,4.6,9,India,IKEA
+06/09/2024,Gadgets,Portable Projector,1155.6,4,4622.4,4.6,5,Canada,Ashley Furniture
+10/10/2024,Wellness,Aromatherapy Diffuser,206.54,6,1239.24,3.8,8,Canada,Urban Ladder
+28/10/2024,Gadgets,Smartwatch,727.86,10,7278.6,4.3,6,Germany,Urban Ladder
+14/04/2024,Gadgets,Noise Cancelling Headphones,466.54,56,26126.24,4.1,2,Australia,IKEA
+21/11/2024,Gadgets,Portable Projector,790.33,20,15806.6,3.8,9,Germany,Ashley Furniture
+08/12/2024,Fashion,Leather Jacket,739.87,8,5918.96,4.9,10,USA,Wayfair
+04/07/2024,Accessories,Sunglasses,813.63,45,36613.35,4.4,3,Germany,Ashley Furniture
+10/11/2024,Gadgets,Portable Projector,1154.39,26,30014.14,4.1,5,UK,Wayfair
+12/04/2024,Personal Care,Beard Grooming Kit,231.57,8,1852.56,4.4,4,USA,Wayfair
+20/02/2024,Personal Care,Electric Toothbrush,894.05,40,35762,3.5,6,Germany,IKEA
+21/05/2024,Personal Care,Beard Grooming Kit,820.02,5,4100.1,4,10,India,Williams-Sonoma
+24/05/2024,Personal Care,Beard Grooming Kit,980.86,51,50023.86,4.8,5,Australia,Williams-Sonoma
+17/08/2024,Personal Care,Beard Grooming Kit,777.31,50,38865.5,4.6,2,Australia,Urban Ladder
+27/09/2024,Fashion,Running Shoes,420.98,38,15997.24,4.9,4,UK,Urban Ladder
+06/05/2024,Personal Care,Electric Toothbrush,966.36,44,42519.84,3.6,9,India,Urban Ladder
+14/11/2024,Fashion,Running Shoes,1075.45,6,6452.7,4.7,10,India,IKEA
+02/08/2024,Gadgets,Smartwatch,1164.8,48,55910.4,4.1,8,UK,IKEA
+09/12/2024,Fashion,Running Shoes,230.76,46,10614.96,4.8,1,Canada,Williams-Sonoma
+12/08/2024,Fashion,Leather Jacket,179.98,40,7199.2,4.8,10,India,Urban Ladder
+21/12/2024,Fashion,Silk Scarf,680.97,18,12257.46,4.5,1,Australia,Ashley Furniture
+15/08/2024,Wellness,Yoga Mat,897.62,54,48471.48,4.5,6,Canada,IKEA
+05/01/2025,Gadgets,Portable Projector,1071.37,57,61068.09,3.9,10,India,Ashley Furniture
+02/01/2025,Accessories,Backpack,233.38,1,233.38,4.9,10,Canada,Ashley Furniture
+30/12/2024,Personal Care,Organic Skincare Set,852.71,58,49457.18,4.4,6,Australia,Wayfair
+13/11/2024,Accessories,Sunglasses,471.78,38,17927.64,4.9,7,UK,IKEA
+08/01/2025,Wellness,Aromatherapy Diffuser,624.32,9,5618.88,4.5,5,USA,Urban Ladder
+23/06/2024,Gadgets,Noise Cancelling Headphones,1144.38,13,14876.94,3.6,2,Germany,IKEA
+27/12/2024,Accessories,Sunglasses,1196.64,37,44275.68,4.7,10,UK,Urban Ladder
+01/09/2024,Personal Care,Organic Skincare Set,1041.67,4,4166.68,4.2,9,Australia,Urban Ladder
+16/10/2024,Fashion,Silk Scarf,153.45,41,6291.45,3.7,3,India,Ashley Furniture
+23/05/2024,Accessories,Sunglasses,601.53,22,13233.66,4.4,7,Canada,IKEA
+22/07/2024,Wellness,Aromatherapy Diffuser,561.87,21,11799.27,4.3,5,USA,Wayfair
+21/12/2024,Fashion,Silk Scarf,118,7,826,4.5,4,India,Urban Ladder
+17/06/2024,Accessories,Backpack,167.67,2,335.34,4.8,9,Canada,Williams-Sonoma
+11/10/2024,Gadgets,Portable Projector,670,29,19430,3.8,6,India,IKEA
+10/08/2024,Wellness,Smart Water Bottle,1010.08,27,27272.16,3.8,7,USA,Urban Ladder
+20/06/2024,Accessories,Sunglasses,386.84,34,13152.56,4.3,10,Canada,IKEA
+05/06/2024,Fashion,Silk Scarf,606.07,50,30303.5,4.6,1,India,Urban Ladder
+19/05/2024,Personal Care,Organic Skincare Set,258.16,45,11617.2,4.5,2,Canada,IKEA
+27/01/2025,Gadgets,Noise Cancelling Headphones,551.23,9,4961.07,4,4,Canada,Ashley Furniture
+28/08/2024,Accessories,Sunglasses,1087.88,35,38075.8,3.7,9,UK,Urban Ladder
+14/05/2024,Fashion,Leather Jacket,685.18,17,11648.06,3.6,10,USA,Williams-Sonoma
+16/06/2024,Fashion,Silk Scarf,1157.71,28,32415.88,4.5,9,UK,IKEA
+13/05/2024,Gadgets,Noise Cancelling Headphones,97.65,48,4687.2,3.9,8,Australia,Urban Ladder
+25/08/2024,Wellness,Yoga Mat,1088.02,28,30464.56,3.6,9,Canada,Williams-Sonoma
+07/12/2024,Accessories,Backpack,101.71,22,2237.62,4.8,8,Canada,Wayfair
+17/12/2024,Personal Care,Beard Grooming Kit,733.45,39,28604.55,4.2,7,Australia,Wayfair
+29/12/2024,Fashion,Running Shoes,369.8,3,1109.4,3.6,4,UK,Ashley Furniture
+10/10/2024,Personal Care,Organic Skincare Set,1064.21,15,15963.15,4.8,5,USA,Wayfair
+29/12/2024,Wellness,Aromatherapy Diffuser,1044.99,21,21944.79,3.9,10,Australia,Urban Ladder
+06/03/2024,Wellness,Smart Water Bottle,662.69,52,34459.88,3.7,3,Germany,Ashley Furniture
+02/08/2024,Personal Care,Organic Skincare Set,549.38,48,26370.24,4.2,5,Australia,Wayfair
+23/10/2024,Gadgets,Noise Cancelling Headphones,503.83,47,23680.01,3.6,3,Australia,IKEA
+10/03/2024,Fashion,Running Shoes,450.92,8,3607.36,4.3,7,India,Ashley Furniture
+25/10/2024,Gadgets,Noise Cancelling Headphones,702.78,55,38652.9,4.9,5,Canada,Wayfair
+12/05/2024,Fashion,Leather Jacket,288.08,40,11523.2,4.7,1,Germany,Urban Ladder
+21/02/2024,Wellness,Aromatherapy Diffuser,684.34,11,7527.74,3.9,10,Australia,Urban Ladder
+17/01/2025,Accessories,Sunglasses,831.26,28,23275.28,3.6,6,USA,Williams-Sonoma
+23/05/2024,Accessories,Luxury Handbag,67.19,56,3762.64,4.7,10,Germany,Williams-Sonoma
+30/06/2024,Fashion,Silk Scarf,260.34,40,10413.6,4.1,10,Australia,Williams-Sonoma
+03/06/2024,Fashion,Running Shoes,606.43,1,606.43,4.6,2,Canada,Williams-Sonoma
+02/08/2024,Accessories,Luxury Handbag,87.64,22,1928.08,4,2,Germany,Wayfair
+19/07/2024,Fashion,Silk Scarf,833.38,60,50002.8,4.3,3,USA,IKEA
+19/04/2024,Personal Care,Beard Grooming Kit,741.07,38,28160.66,4.8,2,Australia,Williams-Sonoma
+07/06/2024,Wellness,Smart Water Bottle,649.98,47,30549.06,4.9,4,India,Wayfair
+24/07/2024,Fashion,Leather Jacket,189.74,50,9487,4.7,10,Germany,Williams-Sonoma
+20/07/2024,Personal Care,Beard Grooming Kit,1170.73,36,42146.28,4.9,6,Germany,Wayfair
+09/08/2024,Personal Care,Beard Grooming Kit,663.93,58,38507.94,4.7,3,Canada,Williams-Sonoma
+01/12/2024,Personal Care,Beard Grooming Kit,394.65,45,17759.25,4.6,9,Germany,Urban Ladder
+27/04/2024,Fashion,Leather Jacket,810.54,35,28368.9,4.1,4,UK,Wayfair
+08/02/2024,Fashion,Silk Scarf,309.04,23,7107.92,4.2,9,Germany,Ashley Furniture
+01/02/2025,Accessories,Sunglasses,551.11,20,11022.2,4.4,5,USA,IKEA
+22/06/2024,Accessories,Sunglasses,1029.45,48,49413.6,3.9,8,Australia,IKEA
+09/05/2024,Wellness,Smart Water Bottle,955.43,10,9554.3,3.8,8,USA,Williams-Sonoma
+25/07/2024,Fashion,Silk Scarf,1007.66,19,19145.54,4.3,4,USA,Williams-Sonoma
+17/04/2024,Wellness,Yoga Mat,1084.48,44,47717.12,3.6,1,Canada,IKEA
+28/03/2024,Accessories,Luxury Handbag,688.55,3,2065.65,4.4,1,USA,Williams-Sonoma
+27/07/2024,Wellness,Aromatherapy Diffuser,356.44,53,18891.32,4.2,10,Canada,Urban Ladder
+19/09/2024,Wellness,Yoga Mat,771.01,53,40863.53,4.8,4,India,Wayfair
+01/05/2024,Fashion,Silk Scarf,689.66,10,6896.6,4.6,6,Germany,Urban Ladder
+22/05/2024,Accessories,Sunglasses,54.32,29,1575.28,4.6,1,Australia,Williams-Sonoma
